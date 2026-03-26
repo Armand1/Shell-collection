@@ -457,7 +457,7 @@ id,class,subclass,order,family,genus_original,genus_WoRMS,species_original,speci
 139,Gastropoda,Caenogastropoda,Incertae sedis,Turritellidae,Turritella,Turritella,capensis,capensis,Krauss,1848,NA,Jeffrey's Bay,Cape,South Africa,1977-01-01,H.Boswell,beach,
 140,Gastropoda,Caenogastropoda,Incertae sedis,Turritellidae,Turritella,Turritella,carinifera,carinifera,Lamarck,1822,NA,NA,NA,South Africa,,,beach,
 185,Gastropoda,Caenogastropoda,Incertae sedis,Turritellidae,Turritella,Turritella,carinifera,carinifera,Lamarck,1822,NA,Jeffrey's Bay,Cape,South Africa,1977-01-01,,beach,
-147,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Thais,Tylothais,virgata,,Röding,1798,NA,Inhaca Island,Maputo,Mozambique,1969-01-01,J.Polock,,"species ""virgata"" not found; genus-only match"
+147,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Thais,Tylothais,virgata,virgata,(Dillwyn),1817,NA,Inhaca Island,Maputo,Mozambique,1969-01-01,J.Polock,,original status: unaccepted; mismatch: genus: Thais → Tylothais; AphiaID 398724
 1161,Gastropoda,Caenogastropoda,Neogastropoda,Turridae,Unedogemmula,Unedogemmula,indica,indica,"Röding, 1798",,NA,NA,NA,NA,,probably J.Leroi Australia,,
 296,Gastropoda,Caenogastropoda,Littorinimorpha,Rimellidae,Varicospira,Varicospira,cancellata,cancellata,"Lamarck, 1816",,NA,NA,NA,Papua-New Guinea,1978-01-01,J.Leroi,,
 1151,Bivalvia,Autobranchia,Venerida,Veneridae,Venus,Venus,verrucosa,verrucosa,Linnaeus,1758,NA,Setubal,NA,Portugal,1980-01-01,C.Lages,,
