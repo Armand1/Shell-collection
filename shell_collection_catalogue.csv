@@ -27,8 +27,8 @@ id,class,subclass,order,family,genus_original,genus_WoRMS,species_original,speci
 1005,Gastropoda,Heterobranchia,Euthyneura,Pyramidellidae,Odostomia,Odostomia,NA,NA,J. Fleming,1813,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1986-08-01,A.M.Leroi,,
 1006,Gastropoda,Heterobranchia,Euthyneura,Pyramidellidae,Odostomia,Odostomia,NA,NA,J. Fleming,1813,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1986-08-01,A.M.Leroi,,
 1007,Gastropoda,Heterobranchia,Euthyneura,Pyramidellidae,Odostomia,Odostomia,NA,NA,J. Fleming,1813,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1986-08-01,A.M.Leroi,,
-1001,Gastropoda,Caenogastropoda,Caenogastropoda incertae sedis,Epitoniidae,Opalia,Opalia,wroblewskii,wroblewskyi,Mörch,1875,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,spelling corrected
-1012,Gastropoda,Caenogastropoda,Caenogastropoda incertae sedis,Turritellidae,Tachyrhynchus,Tachyrhynchus,lacteolus,lacteolus,P. P. Carpenter,1864,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,accepted
+1001,Gastropoda,Caenogastropoda,Incertae sedis,Epitoniidae,Opalia,Opalia,wroblewskii,wroblewskyi,Mörch,1875,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,spelling corrected
+1012,Gastropoda,Caenogastropoda,Incertae sedis,Turritellidae,Tachyrhynchus,Tachyrhynchus,lacteolus,lacteolus,P. P. Carpenter,1864,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,accepted
 1008,Gastropoda,Heterobranchia,Euthyneura,Pyramidellidae,Turbonilla,Turbonilla,NA,NA,Risso,1826,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1986-08-01,A.M.Leroi,,
 1009,Gastropoda,Heterobranchia,Euthyneura,Pyramidellidae,Turbonilla,Turbonilla,NA,NA,Risso,1826,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1986-08-01,A.M.Leroi,,
 1010,Gastropoda,Heterobranchia,Euthyneura,Pyramidellidae,Turbonilla,Turbonilla,NA,NA,Risso,1826,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1986-08-01,A.M.Leroi,,
@@ -325,7 +325,7 @@ id,class,subclass,order,family,genus_original,genus_WoRMS,species_original,speci
 1135,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Maxwellia,Maxwellia,gemma,,"G. B. Sowerby II, 1879",,NA,NA,"California, Southern",USA,1980-01-01,J.Leroi,,
 120,Gastropoda,Caenogastropoda,Neogastropoda,Strepsiduridae,Melapium,Melapium,lineatum,,"Lamarck, 1822",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
 1141,Gastropoda,Caenogastropoda,Neogastropoda,Melongenidae,Melongena,Melongena,corona,,"Gmelin, 1791",,NA,Pass-a-GrilleBeach,Florida,USA,1985-01-01,,,
-1137,Gastropoda,Caenogastropoda,Caenogastropoda incertae sedis,Turritellidae,Mesalia,Mesalia,brevialis,,"Lamarck, 1822",,NA,"Faro, Rio Formosa",Algarve,Portugal,1980-01-01,C.Lages,,
+1137,Gastropoda,Caenogastropoda,Incertae sedis,Turritellidae,Mesalia,Mesalia,brevialis,,"Lamarck, 1822",,NA,"Faro, Rio Formosa",Algarve,Portugal,1980-01-01,C.Lages,,
 162,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Mipus,Mipus,rosaceus,,De Gregorio,1885,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,H.Boswell,beach,"species ""rosacea"" not found; genus-only match"
 272,Gastropoda,Caenogastropoda,Neogastropoda,Mitridae,Mitra,Mitra,mitra,,"Linnaeus, 1758",,NA,NA,NA,Phillipines,1976-01-01,H.Boswell,,
 1132,Gastropoda,Caenogastropoda,Neogastropoda,Columbellidae,Mitrella,Mitrella,floccata,floccata,Reeve,1859,NA,Jeffrey's Bay,Cape,South Africa,,,,accepted
