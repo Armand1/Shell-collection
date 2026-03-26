@@ -117,7 +117,7 @@ id,class,subclass,order,family,genus_original,genus_WoRMS,species_original,speci
 33,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Erronea,Erronea,onyx,onyx,"Linnaeus, 1758",,"subtidal, dived by natives, 25ft",NA,NA,Kenya,1972-01-01,R.Zurich,var. adjusta,
 1238,Bivalvia,Autobranchia,Carditida,Carditidae,Beguina,Beguina,gubernaculum,gubernaculum,"Reeve, 1843",,"subtidal, dived, from Octopus lair",NA,NA,Oman,2007-01-01,A.M.Leroi,,
 1142,Gastropoda,Caenogastropoda,Neogastropoda,Buccinidae,Neptunea,Neptunea,phoenicea,phoenicea,"Dall, 1891",,"subtidal, dredged","Vancouver Island, S. W. Barkley Sound",British Columbia,Canada,1986-01-01,A.M.Leroi,,
-1028,Scaphopoda,,Dentaliida,Dentaliidae,Dentalium,Dentalium,NA,NA,Linnaeus,1758,"subtidal, dredged, 18m","Vancouver Island, S. W. Barkley Sound, off Execution Point",British Columbia,Canada,1983-01-01,A.M.Leroi,,
+1028,Scaphopoda,NA,Dentaliida,Dentaliidae,Dentalium,Dentalium,NA,NA,Linnaeus,1758,"subtidal, dredged, 18m","Vancouver Island, S. W. Barkley Sound, off Execution Point",British Columbia,Canada,1983-01-01,A.M.Leroi,,
 1025,Gastropoda,Protobranchia,Solemyida,Solemyidae,Solemya,Petrasma,reidi,pervernicosa,"Kuroda, 1948",,"subtidal, dredged, 18m","Vancouver Island, S. W. Barkley Sound, off Execution Point",British Columbia,Canada,1983-01-01,A.M.Leroi,,original status: junior subjective synonym; mismatch: genus: Solemya → Petrasma
 1037,Gastropoda,Protobranchia,Nuculida,Nuculidae,Acila,Acila,castrensis,castrensis,"Hinds, 1843",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel, off Whistle Buoy,",British Columbia,Canada,1983-01-01,A.M.Leroi,,
 1199,Gastropoda,Protobranchia,Nuculida,Nuculidae,Acila,Acila,castrensis,castrensis,"Hinds, 1843",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel",British Columbia,Canada,1986-01-01,A.M.Leroi,,
@@ -278,7 +278,7 @@ id,class,subclass,order,family,genus_original,genus_WoRMS,species_original,speci
 198,Gastropoda,Caenogastropoda,Littorinimorpha,Cymatiidae,Gyrineum,Gyrineum,pusillum,pusillum,"Broderip, 1833",,NA,Zululand,KwaZulu-Natal,South Africa,1976-01-01,v.Hardijzer,rare,
 178,Gastropoda,Vetigastropoda,Lepetellida,Haliotidae,Haliotis,Haliotis,spadicea,spadicea,Donovan,1808,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
 1245,Gastropoda,Vetigastropoda,Lepetellida,Haliotidae,Haliotis,Haliotis,rufescens,rufescens,Swainson,1822,NA,Morro Bay,California,USA,1970-01-01,G.Holm,,
-1209,Gastropoda,,,,Haliotus,Haliotus,NA,NA,,,NA,NA,NA,NA,,,no data; likely C. lages,no WoRMS match
+1209,Gastropoda,NA,NA,NA,Haliotus,Haliotus,NA,NA,,,NA,NA,NA,NA,,,no data; likely C. lages,no WoRMS match
 281,Gastropoda,Caenogastropoda,Neogastropoda,Harpidae,Harpa,Harpa,amouretta,amouretta,Röding,1798,NA,NA,NA,Mauritius,1974-01-01,A.Wissing,,
 290,Gastropoda,Caenogastropoda,Littorinimorpha,Strombidae,Harpago,Harpago,chiragra,chiragra,"Linnaeus, 1758",,NA,NA,NA,Mauritius,1978-01-01,A.Wissing,var. arthitica,
 1256,Gastropoda,Caenogastropoda,Littorinimorpha,Strombidae,Harpago,Harpago,chiragra,chiragra,"Linnaeus, 1758",,NA,NA,NA,Mozambique,1976-12-01,,was id_00291b but reassigned; var. arthitica,
@@ -341,7 +341,7 @@ id,class,subclass,order,family,genus_original,genus_WoRMS,species_original,speci
 1186,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,no genus
 1188,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,New Zealand,1978-01-01,A.Wilson,,no genus
 1189,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Vancouver Island, S. W. Barkley Sound",British Columbia,Canada,1986-01-01,A.M.Leroi,,no genus
-1190,Gastropoda,,Stylommatophora,Achatinidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,Angola,1980-01-01,A.Monteiro,,no genus
+1190,Gastropoda,NA,Stylommatophora,Achatinidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,Angola,1980-01-01,A.Monteiro,,no genus
 1200,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Arinaga,Gran Canaria,Canary Islands,1980-01-01,C.Lages,,no genus
 1207,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ngorongoro,Tanzania,1980-01-01,A.Monteiro,dead,no genus
 1217,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,no data; likely Bamfield,no genus
@@ -354,7 +354,7 @@ id,class,subclass,order,family,genus_original,genus_WoRMS,species_original,speci
 1237,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,near Puerto Deseado,Patagonia,Argentina,2008-04-01,A.M.Leroi,,no genus
 1239,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,no genus
 1240,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,no data; likely Bamfield,no genus
-1246,Bivalvia,,Ostreida,,NA,NA,NA,NA,NA,NA,NA,"Knokke, Het Zwin",Flanders,Belgium,1976-01-01,A.M.Leroi,,no genus
+1246,Bivalvia,NA,Ostreida,NA,NA,NA,NA,NA,NA,NA,NA,"Knokke, Het Zwin",Flanders,Belgium,1976-01-01,A.M.Leroi,,no genus
 1,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Cypraea,Naria,citrina,citrina,J. E. Gray,1825,NA,"Lighthouse Park, Durban",KwaZulu-Natal,South Africa,1975-12-01,R.Zurich,beach,unaccepted
 7,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Cypraea,Naria,helvola,helvola,Linnaeus,1758,NA,Jeffrey's Bay,Cape,South Africa,1975-01-01,G.Monough,beach,unaccepted
 8,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Cypraea,Naria,helvola,helvola,Linnaeus,1758,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,unaccepted
