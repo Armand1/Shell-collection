@@ -159,7 +159,7 @@ id,class,subclass,order,family,genus_original,genus_WoRMS,species_original,speci
 176,Gastropoda,Caenogastropoda,Littorinimorpha,Cassidae,Phalium,Phalium,NA,NA,Link,1807,"subtidal, trawled",Durban,KwaZulu-Natal,South Africa,1972-08-01,H.Boswell,"id. as P. africanus, but no such species",
 259,Gastropoda,Caenogastropoda,Littorinimorpha,Ranellidae,Ranella,Ranella,olearium,olearium,"Linnaeus, 1758",,"subtidal, trawled 330m",NA,KwaZulu-Natal,South Africa,1959-01-01,H.Boswell,,
 1175,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Poirieria,Poirieria,zealandica,zelandica,(Quoy & Gaimard),1833,"subtidal, trawled, 100m",Auckland,North Island,New Zealand,1987-01-01,J.Leroi,,species misspelled as zealandica; AphiaID 564697
-1144,Gastropoda,,,Marginellidae,Stazzania,,marginata,,,,"subtidal, trawled, 200ft",Georgetown,NA,Guyana,1987-01-01,J.Leroi,,no WoRMS match
+1144,Gastropoda,Caenogastropoda,Neogastropoda,Marginellidae,Stazzania,Stazzania,marginata,marginata,(Michelotti),1847,"subtidal, trawled, 200ft",Georgetown,NA,Guyana,1987-01-01,J.Leroi,,extinct; AphiaID 868310
 1187,Gastropoda,Caenogastropoda,Neogastropoda,Volutidae,Fusivoluta,Fusivoluta,clarkei,clarkei,Rehder,1969,"subtidal, trawled, on mud",NA,NA,Mozambique,1987-12-01,,,
 1178,Gastropoda,Vetigastropoda,Trochida,Trochidae,Lirularia,Lirularia,lirulata,lirulata,"P. P. Carpenter, 1864",,under rocks,"Vancouver Island, S. W. Barkley Sound, Deer Group, Seppings Island",British Columbia,Canada,1982-01-01,A.M.Leroi,,
 49,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Macrocypraea,Macrocypraea,cervinetta,cervinetta,"Kiener, 1844",,under rocks,Vera Cruz,NA,Panama,1976-07-01,Collins,,
