@@ -1,467 +1,467 @@
 id,class,subclass,order,family,genus_original,genus_WoRMS,species_original,species_WoRMS,describer_WoRMs,description_date_WoRMs,habitat,location_specific,location_region,location_country,date_collected,collector,comments ,WoRMs_note
-220,Bivalvia,Autobranchia,Cardiida,,Cerastoderma,Cerastoderma,edule,,"Linnaeus, 1758",,Albufeira fishmarket,Faro,Algarve,Portugal,1980-08-01,A.M.Leroi,,
-258,Bivalvia,Autobranchia,Cardiida,,Donax,Donax,vittatus,,"da Costa, 1778",,Albufeira fishmarket,Faro,Algarve,Portugal,1980-08-01,A.M.Leroi,,
-254,Bivalvia,Autobranchia,Venerida,,Polititapes,Polititapes,rhomboides,,"Pennant, 1777",,Albufeira fishmarket,Faro,Algarve,Portugal,1980-08-01,,,
-226,Bivalvia,Autobranchia,Adapedonta,,Solen,Solen,capensis,,P. Fischer,1881,Albufeira fishmarket,Faro,Algarve,Portugal,1980-08-01,A.M.Leroi,,
-257,Bivalvia,Autobranchia,Venerida,,Spisula,Spisula,subtruncata,,"da Costa, 1778",,Albufeira fishmarket,Faro,Algarve,Portugal,1980-08-01,A.M.Leroi,,
-222,Bivalvia,Autobranchia,Venerida,,Venus,Venus,verrucosa,,Linnaeus,1758,Albufeira fishmarket,Faro,Algarve,Portugal,1980-08-01,A.M.Leroi,,
-279,Gastropoda,Caenogastropoda,Littorinimorpha,,Sinustrombus,Latissistrombus,sinuatus,,"[Lightfoot], 1786",,bought Eaton's London,NA,NA,NA,1976-11-01,,juvenile,original status: superseded combination; mismatch: genus: Sinustrombus → Latissistrombus
-217,Gastropoda,Caenogastropoda,Neogastropoda,,Oliva,Oliva,tricolor,,Lamarck,1811,"bought Sea Biological Museum, Hague, Netherlands",NA,NA,Phillipines,1976-06-01,,,
-274,NA,NA,NA,NA,Akleistostoma,NA,carolinensis,NA,NA,NA,"buried in sand and gravel, marl","Caloosahatchie River, Ft. Denaud",Florida,USA,1979-01-01,J.Hetrich,fossil: mid  Pliocine,no WoRMS match
-275,NA,NA,NA,NA,Akleistostoma,NA,carolinensis,NA,NA,NA,"buried in sand and gravel, marl","Kissemer River, North of Okeechobee",Florida,USA,1979-01-01,J.Hetrich,early  Pliocine var. floridiana,no WoRMS match
+220,Bivalvia,Autobranchia,Cardiida,Cardiidae,Cerastoderma,Cerastoderma,edule,,"Linnaeus, 1758",,Albufeira fishmarket,Faro,Algarve,Portugal,1980-08-01,A.M.Leroi,,
+258,Bivalvia,Autobranchia,Cardiida,Donacidae,Donax,Donax,vittatus,,"da Costa, 1778",,Albufeira fishmarket,Faro,Algarve,Portugal,1980-08-01,A.M.Leroi,,
+254,Bivalvia,Autobranchia,Venerida,Veneridae,Polititapes,Polititapes,rhomboides,,"Pennant, 1777",,Albufeira fishmarket,Faro,Algarve,Portugal,1980-08-01,,,
+226,Bivalvia,Autobranchia,Adapedonta,Solenidae,Solen,Solen,capensis,,P. Fischer,1881,Albufeira fishmarket,Faro,Algarve,Portugal,1980-08-01,A.M.Leroi,,
+257,Bivalvia,Autobranchia,Venerida,Mactridae,Spisula,Spisula,subtruncata,,"da Costa, 1778",,Albufeira fishmarket,Faro,Algarve,Portugal,1980-08-01,A.M.Leroi,,
+222,Bivalvia,Autobranchia,Venerida,Veneridae,Venus,Venus,verrucosa,,Linnaeus,1758,Albufeira fishmarket,Faro,Algarve,Portugal,1980-08-01,A.M.Leroi,,
+279,Gastropoda,Caenogastropoda,Littorinimorpha,Strombidae,Sinustrombus,Latissistrombus,sinuatus,,"[Lightfoot], 1786",,bought Eaton's London,NA,NA,NA,1976-11-01,,juvenile,original status: superseded combination; mismatch: genus: Sinustrombus → Latissistrombus
+217,Gastropoda,Caenogastropoda,Neogastropoda,Olividae,Oliva,Oliva,tricolor,,Lamarck,1811,"bought Sea Biological Museum, Hague, Netherlands",NA,NA,Phillipines,1976-06-01,,,
+274,Na,Na,Na,Na,Akleistostoma,NA,carolinensis,NA,NA,NA,"buried in sand and gravel, marl","Caloosahatchie River, Ft. Denaud",Florida,USA,1979-01-01,J.Hetrich,fossil: mid  Pliocine,no WoRMS match
+275,Na,Na,Na,Na,Akleistostoma,NA,carolinensis,NA,NA,NA,"buried in sand and gravel, marl","Kissemer River, North of Okeechobee",Florida,USA,1979-01-01,J.Hetrich,early  Pliocine var. floridiana,no WoRMS match
 273,Gastropoda,Caenogastropoda,Littorinimorpha,,Cypraea,Siphocypraea,problematica,,Linnaeus,1758,"buried in sand and gravel, marl","Caloosahatchie River, Ft. Denaud",Florida,USA,1979-01-01,J.Hetrich,fossil: mid  Pliocine,"species ""problematica"" not found; genus-only match"
-237,Gastropoda,Caenogastropoda,Littorinimorpha,,Erronea,Erronea,caurica,,"Linnaeus, 1758",,"coral reef, on sand, near dead coral",NA,NA,Phillipines,1971-01-01,J.Miller,,
+237,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Erronea,Erronea,caurica,,"Linnaeus, 1758",,"coral reef, on sand, near dead coral",NA,NA,Phillipines,1971-01-01,J.Miller,,
 1016,Bivalvia,Autobranchia,Cardiida,Tellinidae,Tellina,Ameritella,carpenteri,carpenteri,Dall,1900,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,unaccepted
 1011,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Boreotrophon,Boreotrophon,pacificus,pacificus,Dall,1902,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1986-07-01,A.M.Leroi,,accepted
 1013,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Boreotrophon,Boreotrophon,clathratus,clathratus,Linnaeus,1767,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,"identification uncertain: may be B.stuarti, B. scitulus etc.",accepted
 1014,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Boreotrophon,Boreotrophon,macouni,macouni,Dall & Bartsch,1910,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,accepted
 1015,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Boreotrophon,Boreotrophon,NA,NA,P. Fischer,1884,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,
-1019,Bivalvia,Autobranchia,,,Cuspidarla,Cuspidaria,NA,NA,,,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,
+1019,Bivalvia,Autobranchia,,Cuspidariidae,Cuspidarla,Cuspidaria,NA,NA,,,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,
 1000,Gastropoda,Caenogastropoda,Neogastropoda,Granulinidae,Granulina,Granulina,margaritula,margaritula,P. P. Carpenter,1857,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,accepted
 1130,Gastropoda,Vetigastropoda,Trochida,Trochidae,Halistylus,Halistylus,pupoides,pupoideus,P. P. Carpenter,1864,"dredged, 20 fa","Satelliate Passage, Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1983-07-01,A.M.Leroi,,unaccepted
 1017,Bivalvia,Autobranchia,Venerida,Veneridae,Humilaria,Humilaria,kennerleyi,kennerleyi,Reeve,1863,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,accepted
 1003,Gastropoda,Caenogastropoda,Neogastropoda,Columbellidae,Mitrella,Mitrella,hypodra,hypodra,Dall,1916,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,no WoRMS match
-1002,Scaphopoda,NA,NA,NA,NA,NA,NA,NA,NA,NA,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-08-01,A.M.Leroi,,no genus
+1002,Scaphopoda,Na,Na,Na,NA,NA,NA,NA,NA,NA,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-08-01,A.M.Leroi,,no genus
 1018,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Boreotrophon,Nodulotrophon,dalli,coronatus,H. Adams & A. Adams,1864,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,junior subjective synonym
 1004,Gastropoda,Heterobranchia,Euthyneura,Pyramidellidae,Odostomia,Odostomia,NA,NA,J. Fleming,1813,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1986-08-01,A.M.Leroi,,
 1005,Gastropoda,Heterobranchia,Euthyneura,Pyramidellidae,Odostomia,Odostomia,NA,NA,J. Fleming,1813,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1986-08-01,A.M.Leroi,,
 1006,Gastropoda,Heterobranchia,Euthyneura,Pyramidellidae,Odostomia,Odostomia,NA,NA,J. Fleming,1813,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1986-08-01,A.M.Leroi,,
 1007,Gastropoda,Heterobranchia,Euthyneura,Pyramidellidae,Odostomia,Odostomia,NA,NA,J. Fleming,1813,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1986-08-01,A.M.Leroi,,
 1001,Gastropoda,Caenogastropoda,Caenogastropoda incertae sedis,Epitoniidae,Opalia,Opalia,wroblewskii,wroblewskyi,Mörch,1875,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,spelling corrected
-1012,Gastropoda,Caenogastropoda,,Turritellidae,Tachyrhynchus,Tachyrhynchus,lacteolus,lacteolus,P. P. Carpenter,1864,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,accepted
+1012,Gastropoda,Caenogastropoda,Caenogastropoda incertae sedis,Turritellidae,Tachyrhynchus,Tachyrhynchus,lacteolus,lacteolus,P. P. Carpenter,1864,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,accepted
 1008,Gastropoda,Heterobranchia,Euthyneura,Pyramidellidae,Turbonilla,Turbonilla,NA,NA,Risso,1826,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1986-08-01,A.M.Leroi,,
 1009,Gastropoda,Heterobranchia,Euthyneura,Pyramidellidae,Turbonilla,Turbonilla,NA,NA,Risso,1826,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1986-08-01,A.M.Leroi,,
 1010,Gastropoda,Heterobranchia,Euthyneura,Pyramidellidae,Turbonilla,Turbonilla,NA,NA,Risso,1826,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1986-08-01,A.M.Leroi,,
 1092,Gastropoda,Caenogastropoda,Littorinimorpha,Velutinidae,Velutina,Velutina,laevigata,velutina,O. F. Müller,1776,"dredged, 20 fa","Satelliate Passage, Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1986-08-01,A.M.Leroi,,accepted
 1134,Gastropoda,Heterobranchia,Cephalaspidea,Rhizoridae,Volvulella,Volvulella,cylindrica,cylindrica,P. P. Carpenter,1864,"dredged, 20 fa","Satelliate Passage, Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1983-07-01,A.M.Leroi,,accepted
-1201,Gastropoda,Caenogastropoda,Neogastropoda,,Mitra,Quasimitra,variabilis,,"Reeve, 1844",,in rubble,Hayman Island,Queensland,Australia,1987-01-01,J.Leroi,,original status: unaccepted; mismatch: genus: Mitra → Quasimitra
-227,Bivalvia,Autobranchia,Venerida,,Scissodesma,Scissodesma,spengleri,,"Linnaeus, 1767",,in sand,Muizenberg,Cape,South Africa,1976-01-01,A.Wilson,,
-221,Gastropoda,Patellogastropoda,Nacellida,,Lottia,Lottia,dorsuosa,,"A. A. Gould, 1859",,intertidal,"Nadacho Kusui, Wakayma Prefecture",Honshu Island,Japan,1980-08-01,A.M.Leroi,,
-277,Gastropoda,Caenogastropoda,Neogastropoda,,Hexaplex,Muricanthus,nigritus,,"R. A. Philippi, 1845",,intertidal,Saldada Bay,Guyamas,Mexico,1979-12-01,M.Hotner,,original status: superseded combination; mismatch: genus: Hexaplex → Muricanthus
-1148,Gastropoda,Caenogastropoda,Neogastropoda,MURICIDAE,Nucella,Nucella,lamellosa,,"Gmelin, 1791",,intertidal,"Vancouver, StanleyPark",British Columbia,Canada,1985-01-01,A.M.Leroi,,
-62,Gastropoda,Vetigastropoda,VETIGASTROPODA,TROCHIDAE,Monodonta,Monodonta,australis,,Lamarck,1822,"intertidal, among rocks","Port St. Johns, Sugarloaf Rock",Cape,South Africa,1976-03-01,R.Zurich,,
-172,Gastropoda,Caenogastropoda,Littorinimorpha,,Ranella,Ranella,australasia,,"G. Perry, 1811",,"intertidal, in rock pool","Port St. Johns, Sugarloaf Rock",Cape,South Africa,1975-03-01,R.Zurich,,
-173,Gastropoda,Caenogastropoda,Neogastropoda,,Peristernia,Peristernia,forskalii,,"Tapparone Canefri, 1875",,"intertidal, in rock pools, at night only","Port St. Johns, Agate Terrace",Cape,South Africa,1975-01-01,R.Zurich,,
-143,Gastropoda,Caenogastropoda,Neogastropoda,,Tenguella,Arakawania,granulata,,"Duclos, 1832",,"intertidal, in soft coral tidepool","Brighton Beach, near Durban",KwaZulu-Natal,South Africa,1977-10-01,A.M.Leroi,,original status: superseded combination; mismatch: genus: Tenguella → Arakawania
-110,Gastropoda,Caenogastropoda,Neogastropoda,,Bullia,Bullia,rhodostoma,,Reeve,1847,"intertidal, in surf",Port St. Johns,Cape,South Africa,1976-01-01,R.Zurich,,
-114,Gastropoda,Caenogastropoda,Neogastropoda,,Bullia,Bullia,natalensis,,"Krauss, 1848",,"intertidal, in surf, buried 4 inches deep",Port Edward,KwaZulu-Natal,South Africa,1971-10-01,R.Zurich,,
-23,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Monetaria,Monetaria,caputserpentis,,"Linnaeus, 1758",,"intertidal, low","Port St. Johns, Sugarloaf Rock",Cape,South Africa,1975-03-01,R.Zurich,,
-232,Bivalvia,Autobranchia,Mytilida,,Mytilus,Mytilus,galloprovincialis,,Lamarck,1819,"intertidal, low-medium, on rocks, abundant",Albufeira,Algarve,Portugal,,,,
-50,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Mauritia,Mauritia,arabica,,"Linnaeus, 1758",,"intertidal, low, on reef","Inhambane, Coconut Bay",Inhambane,Mozambique,1975-04-01,C.Edwards,,
-1143,Gastropoda,Caenogastropoda,Littorinimorpha,TRIVIIDAE,Trivia,Trivia,monacha,,"da Costa, 1778",,"intertidal, low, under rocks",Villamoura,Algarve,Portugal,1980-01-01,C.Lages,,
-1192,Gastropoda,Caenogastropoda,Littorinimorpha,,Trivia,Trivia,monacha,,"da Costa, 1778",,"intertidal, low, under rocks",Villamoura,Algarve,Portugal,1980-01-01,C.Lages,,
-1136,Gastropoda,Caenogastropoda,Neogastropoda,MURICIDAE,Bolinus,Bolinus,brandaris,,"Linnaeus, 1758",,"intertidal, mud",Olhao,Algarve,Portugal,1980-03-01,C.Lages,,
-1202,Bivalvia,Autobranchia,Venerida,,Ruditapes,Ruditapes,decussatus,,Chiamenti,1900,"intertidal, mud","Faro, Rio Formosa",Algarve,Portugal,1980-01-01,C.Lages,,"species ""descussatus"" not found; genus-only match"
-225,Gastropoda,Caenogastropoda,Littorinimorpha,,Littorina,Littorina,obtusata,,"Linnaeus, 1758",,"intertidal, on algae, over rocks","Setubal, Praia de Figueirinha",NA,Portugal,1977-08-01,A.Monteiro,,
-1163,Gastropoda,Caenogastropoda,Neogastropoda,,Duplicaria,Duplicaria,bernardii,,"Deshayes, 1857",,"intertidal, on beach",Woolgoola,New South Wales,Australia,1985-01-01,J.Leroi,,
-85,Gastropoda,Patellogastropoda,PATELLOGASTROPODA,NACELLIDAE,Cellana,Cellana,capensis,,"Gmelin, 1791",,"intertidal, on rocks","Port St. Johns, Sugarloaf Rock",Cape,South Africa,1975-09-01,R.Zurich,,
-95,Gastropoda,Patellogastropoda,PATELLOGASTROPODA,NACELLIDAE,Cellana,Cellana,capensis,,"Gmelin, 1791",,"intertidal, on rocks","Port St. Johns, Agate Terrace",Cape,South Africa,1975-09-01,R.Zurich,,
-78,Gastropoda,Patellogastropoda,PATELLOGASTROPODA,PATELLIDAE,Cymbula,Cymbula,compressa,,"Linnaeus, 1758",,"intertidal, on rocks",Oranjemund,NA,Nambia,1973-07-01,R.Zurich,,
-87,Gastropoda,Patellogastropoda,PATELLOGASTROPODA,PATELLIDAE,Cymbula,Cymbula,oculus,,"Born, 1778",,"intertidal, on rocks","Port St. Johns, Agate Terrace",Cape,South Africa,1976-03-01,R.Zurich,,
-83,Gastropoda,Patellogastropoda,PATELLOGASTROPODA,PATELLIDAE,Helcion,Helcion,concolor,,"Krauss, 1848",,"intertidal, on rocks","Port St. Johns, Sugarloaf Rock",Cape,South Africa,1975-09-01,R.Zurich,,
-89,Gastropoda,Patellogastropoda,PATELLOGASTROPODA,PATELLIDAE,Helcion,Helcion,concolor,,"Krauss, 1848",,"intertidal, on rocks","Trafalgar, S. of Marina Beach",KwaZulu-Natal,South Africa,1971-09-01,R.Zurich,,
-228,Gastropoda,Caenogastropoda,Littorinimorpha,,Littorina,Littorina,saxatilis,,A. Férussac,1822,"intertidal, on rocks","Setubal, Praia de Figueirinha",NA,Portugal,1980-01-01,A.Monteiro,,"species ""saxatalis"" not found; genus-only match"
-56,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Neobernaya,Neobernaya,spadicea,,"Swainson, 1823",,"intertidal, on rocks",NA,California,USA,1978-01-01,M.Hotner,,
-96,Gastropoda,Neritimorpha,CYCLONERITIMORPHA,NERITIDAE,Nerita,Nerita,plicata,,Linnaeus,1758,"intertidal, on rocks","Port St. Johns, Agate Terrace",Cape,South Africa,1975-03-01,R.Zurich,,
-229,Gastropoda,Caenogastropoda,Neogastropoda,,Nucella,Nucella,lapillus,,"Linnaeus, 1758",,"intertidal, on rocks","Setubal, Praia de Figueirinha",NA,Portugal,1980-03-01,A.Monteiro,,
-230,Gastropoda,Caenogastropoda,Neogastropoda,,Nucella,Nucella,lapillus,,"Linnaeus, 1758",,"intertidal, on rocks",Ericeira,NA,Portugal,1980-03-01,A.Monteiro,,
-209,Gastropoda,Caenogastropoda,Neogastropoda,,Ocenebra,Ocenebra,edwardsii,,"Payraudeau, 1826",,"intertidal, on rocks",Ericeira,NA,Portugal,1980-03-01,A.Monteiro,,
-234,Gastropoda,Vetigastropoda,Trochida,,Phorcus,Phorcus,turbinatus,,"Born, 1778",,"intertidal, on rocks",Peniche,Oeste,Portugal,1980-02-01,A.Monteiro,,
-79,Gastropoda,Patellogastropoda,PATELLOGASTROPODA,PATELLIDAE,Scutellastra,Scutellastra,barbara,,"Linnaeus, 1758",,"intertidal, on rocks","Port St. Johns, Agate Terrace",Cape,South Africa,1975-09-01,R.Zurich,,
-80,Gastropoda,Patellogastropoda,PATELLOGASTROPODA,PATELLIDAE,Scutellastra,Scutellastra,granularis,,"Linnaeus, 1758",,"intertidal, on rocks","Port St. Johns, Agate Terrace",Cape,South Africa,1975-03-01,R.Zurich,,
-82,Gastropoda,Patellogastropoda,PATELLOGASTROPODA,PATELLIDAE,Scutellastra,Scutellastra,tabularis,,"Krauss, 1848",,"intertidal, on rocks","Kei River Mouth, 30km S. of Port St. Johns",Cape,South Africa,1975-04-01,R.Zurich,,
-88,Gastropoda,Patellogastropoda,PATELLOGASTROPODA,PATELLIDAE,Scutellastra,Scutellastra,longicosta,,"Lamarck, 1819",,"intertidal, on rocks",Port Edward,Cape,South Africa,1971-08-01,R.Zurich,,
-91,Gastropoda,Patellogastropoda,PATELLOGASTROPODA,PATELLIDAE,Scutellastra,Scutellastra,longicosta,,"Lamarck, 1819",,"intertidal, on rocks","Port St. Johns, Agate Terrace",Cape,South Africa,1975-09-01,R.Zurich,,
-93,Gastropoda,Patellogastropoda,PATELLOGASTROPODA,PATELLIDAE,Scutellastra,Scutellastra,granularis,,"Linnaeus, 1758",,"intertidal, on rocks","Port St. Johns, Agate Terrace",Cape,South Africa,1975-09-01,R.Zurich,,
-1155,Gastropoda,Patellogastropoda,PATELLOGASTROPODA,PATELLIDAE,Scutellastra,Scutellastra,granularis,,"Linnaeus, 1758",,"intertidal, on rocks","Port St. Johns, Sugarloaf Rock",Cape,South Africa,1975-09-01,R.Zurich,"NOTE! Originally catalogued as id_00084, already assigned to anothershell",
-212,Gastropoda,Heterobranchia,Siphonariida,,Siphonaria,Siphonaria,NA,NA,G. B. Sowerby I,1823,"intertidal, on rocks",Albufeira,Algarve,Portugal,1980-08-01,A.M.Leroi,,
-210,Gastropoda,Vetigastropoda,Trochida,,Steromphala,Steromphala,divaricata,,"Linnaeus, 1758",,"intertidal, on rocks",Estoril,NA,Portugal,1980-01-01,A.Monteiro,,
-117,Gastropoda,Neritimorpha,Cycloneritida,,Nerita,Nerita,albicilla,,Linnaeus,1758,"intertidal, on rocks, breakwater, near shore sand","Durban, North Beach",KwaZulu-Natal,South Africa,1977-10-01,A.M.Leroi,,
-288,Bivalvia,Autobranchia,Cardiida,,Cerastoderma,Cerastoderma,edule,,"Linnaeus, 1758",,"intertidal, on shelly gravel","Hague, Schevenigen",NA,Netherlands,1978-12-01,,,
-235,Gastropoda,Caenogastropoda,incertae sedis,,Zeacumantus,Zeacumantus,lutulentus,,"Kiener, 1841",,"intertidal, tidepools","Canterbury, Kaiapoi",South Island,New Zealand,1979-01-01,A.Wilson,,
-295,Gastropoda,Vetigastropoda,Trochida,,Calliostoma,Calliostoma,ornatum,,"Lamarck, 1822",,"intertidal, under rocks","Port St. Johns, Sugarloaf Rock",KwaZulu-Natal,South Africa,1974-01-01,R.Zurich,,status: unreplaced junior homonym
-248,Gastropoda,Caenogastropoda,Littorinimorpha,,Pseudozonaria,Pseudozonaria,robertsi,,"Hidalgo, 1906",,"intertidal, under rocks",Venado Island,Pacific coast,Panama,1979-02-01,G.Jeffrey,,
-196,Gastropoda,Vetigastropoda,Trochida,,Calliostoma,Calliostoma,ornatum,,"Lamarck, 1822",,"intertidal, under rocks, never more than one at a time","Port St. Johns, Sugarloaf Rock",Cape,South Africa,1976-01-01,R.Johnson,,status: unreplaced junior homonym
-231,Gastropoda,Caenogastropoda,Littorinimorpha,,Littorina,Littorina,littorea,,"Linnaeus, 1758",,"intertidal, under rocks, on mud",Lagoa de Obidos,Oeste,Portugal,1980-08-01,A.Monteiro,,
+1201,Gastropoda,Caenogastropoda,Neogastropoda,Mitridae,Mitra,Quasimitra,variabilis,,"Reeve, 1844",,in rubble,Hayman Island,Queensland,Australia,1987-01-01,J.Leroi,,original status: unaccepted; mismatch: genus: Mitra → Quasimitra
+227,Bivalvia,Autobranchia,Venerida,Mactridae,Scissodesma,Scissodesma,spengleri,,"Linnaeus, 1767",,in sand,Muizenberg,Cape,South Africa,1976-01-01,A.Wilson,,
+221,Gastropoda,Patellogastropoda,Nacellida,Lottiidae,Lottia,Lottia,dorsuosa,,"A. A. Gould, 1859",,intertidal,"Nadacho Kusui, Wakayma Prefecture",Honshu Island,Japan,1980-08-01,A.M.Leroi,,
+277,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Hexaplex,Muricanthus,nigritus,,"R. A. Philippi, 1845",,intertidal,Saldada Bay,Guyamas,Mexico,1979-12-01,M.Hotner,,original status: superseded combination; mismatch: genus: Hexaplex → Muricanthus
+1148,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Nucella,Nucella,lamellosa,,"Gmelin, 1791",,intertidal,"Vancouver, StanleyPark",British Columbia,Canada,1985-01-01,A.M.Leroi,,
+62,Gastropoda,Vetigastropoda,Vetigastropoda,Trochidae,Monodonta,Monodonta,australis,,Lamarck,1822,"intertidal, among rocks","Port St. Johns, Sugarloaf Rock",Cape,South Africa,1976-03-01,R.Zurich,,
+172,Gastropoda,Caenogastropoda,Littorinimorpha,Ranellidae,Ranella,Ranella,australasia,,"G. Perry, 1811",,"intertidal, in rock pool","Port St. Johns, Sugarloaf Rock",Cape,South Africa,1975-03-01,R.Zurich,,
+173,Gastropoda,Caenogastropoda,Neogastropoda,Fasciolariidae,Peristernia,Peristernia,forskalii,,"Tapparone Canefri, 1875",,"intertidal, in rock pools, at night only","Port St. Johns, Agate Terrace",Cape,South Africa,1975-01-01,R.Zurich,,
+143,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Tenguella,Arakawania,granulata,,"Duclos, 1832",,"intertidal, in soft coral tidepool","Brighton Beach, near Durban",KwaZulu-Natal,South Africa,1977-10-01,A.M.Leroi,,original status: superseded combination; mismatch: genus: Tenguella → Arakawania
+110,Gastropoda,Caenogastropoda,Neogastropoda,Nassariidae,Bullia,Bullia,rhodostoma,,Reeve,1847,"intertidal, in surf",Port St. Johns,Cape,South Africa,1976-01-01,R.Zurich,,
+114,Gastropoda,Caenogastropoda,Neogastropoda,Nassariidae,Bullia,Bullia,natalensis,,"Krauss, 1848",,"intertidal, in surf, buried 4 inches deep",Port Edward,KwaZulu-Natal,South Africa,1971-10-01,R.Zurich,,
+23,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Monetaria,Monetaria,caputserpentis,,"Linnaeus, 1758",,"intertidal, low","Port St. Johns, Sugarloaf Rock",Cape,South Africa,1975-03-01,R.Zurich,,
+232,Bivalvia,Autobranchia,Mytilida,Mytilidae,Mytilus,Mytilus,galloprovincialis,,Lamarck,1819,"intertidal, low-medium, on rocks, abundant",Albufeira,Algarve,Portugal,,,,
+50,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Mauritia,Mauritia,arabica,,"Linnaeus, 1758",,"intertidal, low, on reef","Inhambane, Coconut Bay",Inhambane,Mozambique,1975-04-01,C.Edwards,,
+1143,Gastropoda,Caenogastropoda,Littorinimorpha,Triviidae,Trivia,Trivia,monacha,,"da Costa, 1778",,"intertidal, low, under rocks",Villamoura,Algarve,Portugal,1980-01-01,C.Lages,,
+1192,Gastropoda,Caenogastropoda,Littorinimorpha,Triviidae,Trivia,Trivia,monacha,,"da Costa, 1778",,"intertidal, low, under rocks",Villamoura,Algarve,Portugal,1980-01-01,C.Lages,,
+1136,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Bolinus,Bolinus,brandaris,,"Linnaeus, 1758",,"intertidal, mud",Olhao,Algarve,Portugal,1980-03-01,C.Lages,,
+1202,Bivalvia,Autobranchia,Venerida,Veneridae,Ruditapes,Ruditapes,decussatus,,Chiamenti,1900,"intertidal, mud","Faro, Rio Formosa",Algarve,Portugal,1980-01-01,C.Lages,,"species ""descussatus"" not found; genus-only match"
+225,Gastropoda,Caenogastropoda,Littorinimorpha,Littorinidae,Littorina,Littorina,obtusata,,"Linnaeus, 1758",,"intertidal, on algae, over rocks","Setubal, Praia de Figueirinha",NA,Portugal,1977-08-01,A.Monteiro,,
+1163,Gastropoda,Caenogastropoda,Neogastropoda,Terebridae,Duplicaria,Duplicaria,bernardii,,"Deshayes, 1857",,"intertidal, on beach",Woolgoola,New South Wales,Australia,1985-01-01,J.Leroi,,
+85,Gastropoda,Patellogastropoda,Patellogastropoda,Nacellidae,Cellana,Cellana,capensis,,"Gmelin, 1791",,"intertidal, on rocks","Port St. Johns, Sugarloaf Rock",Cape,South Africa,1975-09-01,R.Zurich,,
+95,Gastropoda,Patellogastropoda,Patellogastropoda,Nacellidae,Cellana,Cellana,capensis,,"Gmelin, 1791",,"intertidal, on rocks","Port St. Johns, Agate Terrace",Cape,South Africa,1975-09-01,R.Zurich,,
+78,Gastropoda,Patellogastropoda,Patellogastropoda,Patellidae,Cymbula,Cymbula,compressa,,"Linnaeus, 1758",,"intertidal, on rocks",Oranjemund,NA,Nambia,1973-07-01,R.Zurich,,
+87,Gastropoda,Patellogastropoda,Patellogastropoda,Patellidae,Cymbula,Cymbula,oculus,,"Born, 1778",,"intertidal, on rocks","Port St. Johns, Agate Terrace",Cape,South Africa,1976-03-01,R.Zurich,,
+83,Gastropoda,Patellogastropoda,Patellogastropoda,Patellidae,Helcion,Helcion,concolor,,"Krauss, 1848",,"intertidal, on rocks","Port St. Johns, Sugarloaf Rock",Cape,South Africa,1975-09-01,R.Zurich,,
+89,Gastropoda,Patellogastropoda,Patellogastropoda,Patellidae,Helcion,Helcion,concolor,,"Krauss, 1848",,"intertidal, on rocks","Trafalgar, S. of Marina Beach",KwaZulu-Natal,South Africa,1971-09-01,R.Zurich,,
+228,Gastropoda,Caenogastropoda,Littorinimorpha,Littorinidae,Littorina,Littorina,saxatilis,,A. Férussac,1822,"intertidal, on rocks","Setubal, Praia de Figueirinha",NA,Portugal,1980-01-01,A.Monteiro,,"species ""saxatalis"" not found; genus-only match"
+56,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Neobernaya,Neobernaya,spadicea,,"Swainson, 1823",,"intertidal, on rocks",NA,California,USA,1978-01-01,M.Hotner,,
+96,Gastropoda,Neritimorpha,Cycloneritimorpha,Neritidae,Nerita,Nerita,plicata,,Linnaeus,1758,"intertidal, on rocks","Port St. Johns, Agate Terrace",Cape,South Africa,1975-03-01,R.Zurich,,
+229,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Nucella,Nucella,lapillus,,"Linnaeus, 1758",,"intertidal, on rocks","Setubal, Praia de Figueirinha",NA,Portugal,1980-03-01,A.Monteiro,,
+230,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Nucella,Nucella,lapillus,,"Linnaeus, 1758",,"intertidal, on rocks",Ericeira,NA,Portugal,1980-03-01,A.Monteiro,,
+209,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Ocenebra,Ocenebra,edwardsii,,"Payraudeau, 1826",,"intertidal, on rocks",Ericeira,NA,Portugal,1980-03-01,A.Monteiro,,
+234,Gastropoda,Vetigastropoda,Trochida,Trochidae,Phorcus,Phorcus,turbinatus,,"Born, 1778",,"intertidal, on rocks",Peniche,Oeste,Portugal,1980-02-01,A.Monteiro,,
+79,Gastropoda,Patellogastropoda,Patellogastropoda,Patellidae,Scutellastra,Scutellastra,barbara,,"Linnaeus, 1758",,"intertidal, on rocks","Port St. Johns, Agate Terrace",Cape,South Africa,1975-09-01,R.Zurich,,
+80,Gastropoda,Patellogastropoda,Patellogastropoda,Patellidae,Scutellastra,Scutellastra,granularis,,"Linnaeus, 1758",,"intertidal, on rocks","Port St. Johns, Agate Terrace",Cape,South Africa,1975-03-01,R.Zurich,,
+82,Gastropoda,Patellogastropoda,Patellogastropoda,Patellidae,Scutellastra,Scutellastra,tabularis,,"Krauss, 1848",,"intertidal, on rocks","Kei River Mouth, 30km S. of Port St. Johns",Cape,South Africa,1975-04-01,R.Zurich,,
+88,Gastropoda,Patellogastropoda,Patellogastropoda,Patellidae,Scutellastra,Scutellastra,longicosta,,"Lamarck, 1819",,"intertidal, on rocks",Port Edward,Cape,South Africa,1971-08-01,R.Zurich,,
+91,Gastropoda,Patellogastropoda,Patellogastropoda,Patellidae,Scutellastra,Scutellastra,longicosta,,"Lamarck, 1819",,"intertidal, on rocks","Port St. Johns, Agate Terrace",Cape,South Africa,1975-09-01,R.Zurich,,
+93,Gastropoda,Patellogastropoda,Patellogastropoda,Patellidae,Scutellastra,Scutellastra,granularis,,"Linnaeus, 1758",,"intertidal, on rocks","Port St. Johns, Agate Terrace",Cape,South Africa,1975-09-01,R.Zurich,,
+1155,Gastropoda,Patellogastropoda,Patellogastropoda,Patellidae,Scutellastra,Scutellastra,granularis,,"Linnaeus, 1758",,"intertidal, on rocks","Port St. Johns, Sugarloaf Rock",Cape,South Africa,1975-09-01,R.Zurich,"NOTE! Originally catalogued as id_00084, already assigned to anothershell",
+212,Gastropoda,Heterobranchia,Siphonariida,Siphonariidae,Siphonaria,Siphonaria,NA,NA,G. B. Sowerby I,1823,"intertidal, on rocks",Albufeira,Algarve,Portugal,1980-08-01,A.M.Leroi,,
+210,Gastropoda,Vetigastropoda,Trochida,Trochidae,Steromphala,Steromphala,divaricata,,"Linnaeus, 1758",,"intertidal, on rocks",Estoril,NA,Portugal,1980-01-01,A.Monteiro,,
+117,Gastropoda,Neritimorpha,Cycloneritida,Neritidae,Nerita,Nerita,albicilla,,Linnaeus,1758,"intertidal, on rocks, breakwater, near shore sand","Durban, North Beach",KwaZulu-Natal,South Africa,1977-10-01,A.M.Leroi,,
+288,Bivalvia,Autobranchia,Cardiida,Cardiidae,Cerastoderma,Cerastoderma,edule,,"Linnaeus, 1758",,"intertidal, on shelly gravel","Hague, Schevenigen",NA,Netherlands,1978-12-01,,,
+235,Gastropoda,Caenogastropoda,Incertae sedis,Batillariidae,Zeacumantus,Zeacumantus,lutulentus,,"Kiener, 1841",,"intertidal, tidepools","Canterbury, Kaiapoi",South Island,New Zealand,1979-01-01,A.Wilson,,
+295,Gastropoda,Vetigastropoda,Trochida,Calliostomatidae,Calliostoma,Calliostoma,ornatum,,"Lamarck, 1822",,"intertidal, under rocks","Port St. Johns, Sugarloaf Rock",KwaZulu-Natal,South Africa,1974-01-01,R.Zurich,,status: unreplaced junior homonym
+248,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Pseudozonaria,Pseudozonaria,robertsi,,"Hidalgo, 1906",,"intertidal, under rocks",Venado Island,Pacific coast,Panama,1979-02-01,G.Jeffrey,,
+196,Gastropoda,Vetigastropoda,Trochida,Calliostomatidae,Calliostoma,Calliostoma,ornatum,,"Lamarck, 1822",,"intertidal, under rocks, never more than one at a time","Port St. Johns, Sugarloaf Rock",Cape,South Africa,1976-01-01,R.Johnson,,status: unreplaced junior homonym
+231,Gastropoda,Caenogastropoda,Littorinimorpha,Littorinidae,Littorina,Littorina,littorea,,"Linnaeus, 1758",,"intertidal, under rocks, on mud",Lagoa de Obidos,Oeste,Portugal,1980-08-01,A.Monteiro,,
 5,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Cypraea,Erronea,ovum,ovum,Gmelin,1791,NA,NA,NA,Philippines,1975-01-01,Carfel,,unaccepted
 9,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Cypraea,Talostolida,teres,teres,Gmelin,1791,NA,NA,NA,Philippines,,Carfel,,unaccepted
-1235,NA,NA,NA,NA,Venericor,NA,planicosta,NA,NA,NA,on beach,"Knokke, Het Zwin",Flanders,Belgium,1976-01-01,A.M.Leroi,", fossil, Eocene, 56Ð34 MYA",no WoRMS match
-1191,Gastropoda,Caenogastropoda,Neogastropoda,,Anachis,Anachis,fluctuata,,"G. B. Sowerby I, 1832",,on rocks,"Panama City, Punta Paitilla",NA,Panama,1984-12-01,S.DeMarzo,,
-168,Gastropoda,Caenogastropoda,Neogastropoda,,Burnupena,Burnupena,lagenaria,,"Lamarck, 1822",,on rocks,"Port St. Johns, Second Beach",Cape,South Africa,1975-03-01,R.Zurich,,
-181,Gastropoda,Caenogastropoda,Littorinimorpha,,Littoraria,Littoraria,coccinea,,"Gmelin, 1791",,on rocks,Oslo Beach,KwaZulu-Natal,South Africa,1971-09-01,R.Zurich,,
-101,Gastropoda,Neritimorpha,Cycloneritida,,Nerita,Nerita,albicilla,,Linnaeus,1758,on rocks,"Port St. Johns, Sugarloaf Rock",Cape,South Africa,1975-03-01,R.Zurich,,
-128,Gastropoda,Heterobranchia,Siphonariida,,Siphonaria,Siphonaria,capensis,,Quoy & Gaimard,1833,on rocks,Port Shepstone,KwaZulu-Natal,South Africa,1971-08-01,R.Zurich,,
-131,Gastropoda,Heterobranchia,Siphonariida,,Siphonaria,Siphonaria,capensis,,Quoy & Gaimard,1833,on rocks,"Port St. Johns, Agate Terrace",Cape,South Africa,1975-03-01,R.Zurich,,
-115,Gastropoda,Neritimorpha,Cycloneritida,,Nerita,Nerita,polita,,Linnaeus,1758,on rocks in rock pool,Port St. Johns,Cape,South Africa,1975-03-01,R.Zurich,,
-1169,Gastropoda,Caenogastropoda,Neogastropoda,,Purpurellus,Purpurellus,gambiensis,,"Reeve, 1845",,"on rocks, 18m",NA,NA,Senegal,1986-01-01,J.Leroi,,
-1183,Gastropoda,Caenogastropoda,Neogastropoda,,Jaton,Jaton,decussatus,,Pusch,1837,"on rocks, 4m",Goree Bay,Dakar,Senegal,1984-01-01,J.Leroi,,"species ""descussatus"" not found; genus-only match"
-1145,Bivalvia,Autobranchia,VENERIDA,CARDIIDAE,Vasticardium,Vasticardium,flavum,,"Linnaeus, 1758",,on sand,Hervey Bay,Queensland,Australia,1982-01-01,J.Leroi,,
-1203,Gastropoda,Caenogastropoda,Littorinimorpha,,Crepipatella,Crepipatella,lingulata,,"A. A. Gould, 1846",,"on Tegula, a habitat unusual for Crepipatella, more typical of Crepidula adunca","Vancouver Island, S. W. Barkley Sound, Broken Group, Effingham Island, Great Tide Pool",British Columbia,Canada,1983-07-01,A.M.Leroi,,
+1235,Na,Na,Na,Na,Venericor,NA,planicosta,NA,NA,NA,on beach,"Knokke, Het Zwin",Flanders,Belgium,1976-01-01,A.M.Leroi,", fossil, Eocene, 56Ð34 MYA",no WoRMS match
+1191,Gastropoda,Caenogastropoda,Neogastropoda,Columbellidae,Anachis,Anachis,fluctuata,,"G. B. Sowerby I, 1832",,on rocks,"Panama City, Punta Paitilla",NA,Panama,1984-12-01,S.DeMarzo,,
+168,Gastropoda,Caenogastropoda,Neogastropoda,Buccinoidea incertae sedis,Burnupena,Burnupena,lagenaria,,"Lamarck, 1822",,on rocks,"Port St. Johns, Second Beach",Cape,South Africa,1975-03-01,R.Zurich,,
+181,Gastropoda,Caenogastropoda,Littorinimorpha,Littorinidae,Littoraria,Littoraria,coccinea,,"Gmelin, 1791",,on rocks,Oslo Beach,KwaZulu-Natal,South Africa,1971-09-01,R.Zurich,,
+101,Gastropoda,Neritimorpha,Cycloneritida,Neritidae,Nerita,Nerita,albicilla,,Linnaeus,1758,on rocks,"Port St. Johns, Sugarloaf Rock",Cape,South Africa,1975-03-01,R.Zurich,,
+128,Gastropoda,Heterobranchia,Siphonariida,Siphonariidae,Siphonaria,Siphonaria,capensis,,Quoy & Gaimard,1833,on rocks,Port Shepstone,KwaZulu-Natal,South Africa,1971-08-01,R.Zurich,,
+131,Gastropoda,Heterobranchia,Siphonariida,Siphonariidae,Siphonaria,Siphonaria,capensis,,Quoy & Gaimard,1833,on rocks,"Port St. Johns, Agate Terrace",Cape,South Africa,1975-03-01,R.Zurich,,
+115,Gastropoda,Neritimorpha,Cycloneritida,Neritidae,Nerita,Nerita,polita,,Linnaeus,1758,on rocks in rock pool,Port St. Johns,Cape,South Africa,1975-03-01,R.Zurich,,
+1169,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Purpurellus,Purpurellus,gambiensis,,"Reeve, 1845",,"on rocks, 18m",NA,NA,Senegal,1986-01-01,J.Leroi,,
+1183,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Jaton,Jaton,decussatus,,Pusch,1837,"on rocks, 4m",Goree Bay,Dakar,Senegal,1984-01-01,J.Leroi,,"species ""descussatus"" not found; genus-only match"
+1145,Bivalvia,Autobranchia,Venerida,Cardiidae,Vasticardium,Vasticardium,flavum,,"Linnaeus, 1758",,on sand,Hervey Bay,Queensland,Australia,1982-01-01,J.Leroi,,
+1203,Gastropoda,Caenogastropoda,Littorinimorpha,Calyptraeidae,Crepipatella,Crepipatella,lingulata,,"A. A. Gould, 1846",,"on Tegula, a habitat unusual for Crepipatella, more typical of Crepidula adunca","Vancouver Island, S. W. Barkley Sound, Broken Group, Effingham Island, Great Tide Pool",British Columbia,Canada,1983-07-01,A.M.Leroi,,
 999,Gastropoda,Caenogastropoda,Neogastropoda,Mangeliidae,Kurtzia,Kurtzia,arteaga,arteaga,Dall & Bartsch,1910,shell sand,"Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-08-01,A.M.Leroi,,possible match: Kurtzia arteaga
-251,Gastropoda,Caenogastropoda,Littorinimorpha,,Naria,Naria,poraria,,"Linnaeus, 1758",,"subtidal, 1.5m, on coral reef","Cebu Island, Davon North",NA,Phillipines,1980-01-01,P.Clover,,
-252,Gastropoda,Caenogastropoda,Littorinimorpha,,Pustularia,Pustularia,cicercula,,"Linnaeus, 1758",,"subtidal, 1.5m, on coral reef",Uuiah (?),Samar Sea,Phillipines,1980-01-01,P.Clover,,
-269,Gastropoda,Vetigastropoda,Lepetellida,,Emarginula,Emarginula,octaviana,,Coen,1939,"subtidal, 15m, from grit",Mazara del Valho,Sicily,Italy,1980-01-01,A.Monteiro,,
-294,Gastropoda,Caenogastropoda,Neogastropoda,,Chicoreus,Chicoreus,aculeatus,,"Lamarck, 1822",,"subtidal, 1m, on dead coral from fishtraps",Mactan,NA,Phillipines,1979-01-01,J.Leroi,,
-219,Gastropoda,Caenogastropoda,Neogastropoda,,Conus,Conus,trochulus,,Reeve,1844,"subtidal, 3-5m, among rocks, by diver","Sal Rei, Boa Vista Island",,Cape Verde Islands,1980-08-01,A.Monteiro,,
-1174,Bivalvia,Autobranchia,Venerida,,Callista,Callista,chione,,"Linnaeus, 1758",,"subtidal, 30m",Sesimbra,NA,Portugal,1980-01-01,C.Lages,,
-280,Gastropoda,Caenogastropoda,Littorinimorpha,,Distorsio,Distorsio,decussata,,"Valenciennes, 1832",,"subtidal, 30m, dredged",Manzanilla,,Mexico,1976-01-01,M.Hotner,,
-276,Gastropoda,Caenogastropoda,Neogastropoda,,Harpa,Harpa,crenata,,Swainson,1822,"subtidal, 30m, dredged",Manzanilla,,Mexico,1976-01-01,M.Hotner,,
-233,Bivalvia,Autobranchia,Cardiida,,Acanthocardia,Acanthocardia,echinata,,"Linnaeus, 1758",,"subtidal, 40-80m, entangled fishing nets",Albufeira,Algarve,Portugal,1980-08-01,A.M.Leroi,dead; live animals were bright red,
-264,Gastropoda,Vetigastropoda,Trochida,,Bolma,Bolma,rugosa,,"Linnaeus, 1767",,"subtidal, 40-80m, entangled fishing nets",Albufeira,Algarve,Portugal,1980-01-01,A.M.Leroi,,
-265,Gastropoda,Caenogastropoda,Neogastropoda,,Cymbium,Cymbium,olla,,"Linnaeus, 1758",,"subtidal, 40-80m, entangled fishing nets",Albufeira,Algarve,Portugal,1980-01-01,A.M.Leroi,"purple, yellow  mottled animal",
-1193,Gastropoda,Caenogastropoda,Neogastropoda,,Colus,Colus,gracilis,,"da Costa, 1778",,"subtidal, 80m",Setubal,NA,Portugal,1980-01-01,C.Lages,,
-40,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Ficadusta,Ficadusta,pulchella,,"Swainson, 1823",,"subtidal, among madreporite corals, 2-5m",NA,NA,Thailand,1975-01-01,Jeffreys,,
-1247,Gastropoda,Caenogastropoda,Neogastropoda,,Zidona,Zidona,dufresnei,,"Donovan, 1823",,"subtidal, bought stall",NA,Punta del Este,Uruguay,2010-01-01,A.M.Leroi,"bought,beachstall",original status: misspelling - incorrect subsequent spelling
-214,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"subtidal, dead in tangle net 40-80m",Albufeira,Algarve,Portugal,1980-08-01,A.M.Leroi,,no genus
-287,Gastropoda,Caenogastropoda,Neogastropoda,,Athleta,Athleta,abyssicola,,"A. Adams & Reeve, 1848",,"subtidal, deep",,Cape,South Africa,1976-01-01,,,
-33,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Erronea,Erronea,onyx,,"Linnaeus, 1758",,"subtidal, dived by natives, 25ft",NA,NA,Kenya,1972-01-01,R.Zurich,var. adjusta,
-1238,Bivalvia,Autobranchia,Carditida,,Beguina,Beguina,gubernaculum,,"Reeve, 1843",,"subtidal, dived, from Octopus lair",NA,NA,Oman,2007-01-01,A.M.Leroi,,
-1142,Gastropoda,Caenogastropoda,Neogastropoda,BUCCINIDAE,Neptunea,Neptunea,phoenicea,,"Dall, 1891",,"subtidal, dredged","Vancouver Island, S. W. Barkley Sound",British Columbia,Canada,1986-01-01,A.M.Leroi,,
-1028,Scaphopoda,,Dentaliida,,Dentalium,Dentalium,NA,NA,Linnaeus,1758,"subtidal, dredged, 18m","Vancouver Island, S. W. Barkley Sound, off Execution Point",British Columbia,Canada,1983-01-01,A.M.Leroi,,
-1025,Gastropoda,Protobranchia,Solemyida,,Solemya,Petrasma,reidi,,"Kuroda, 1948",,"subtidal, dredged, 18m","Vancouver Island, S. W. Barkley Sound, off Execution Point",British Columbia,Canada,1983-01-01,A.M.Leroi,,original status: junior subjective synonym; mismatch: genus: Solemya → Petrasma
-1037,Gastropoda,Protobranchia,Nuculida,,Acila,Acila,castrensis,,"Hinds, 1843",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel, off Whistle Buoy,",British Columbia,Canada,1983-01-01,A.M.Leroi,,
-1199,Gastropoda,Protobranchia,Nuculida,,Acila,Acila,castrensis,,"Hinds, 1843",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel",British Columbia,Canada,1986-01-01,A.M.Leroi,,
-1024,Gastropoda,Heterobranchia,Cephalaspidea,,Acteocina,Acteocina,culcitella,,"A. A. Gould, 1853",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel",British Columbia,Canada,1984-07-01,A.M.Leroi,,
-1027,Gastropoda,Vetigastropoda,Trochida,,Calliostoma,Calliostoma,variegatum,,P. P. Carpenter,1864,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel, off Whistle Buoy,",British Columbia,Canada,1983-01-01,A.M.Leroi,,
-1023,Bivalvia,Autobranchia,Cardiida,,Clinocardium,Clinocardium,nuttallii,,"Conrad, 1837",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel",British Columbia,Canada,1984-07-01,A.M.Leroi,juvenile,
-1171,Gastropoda,Caenogastropoda,incertae sedis,,Epitonium,Epitonium,tinctum,,"P. P. Carpenter, 1864",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel",British Columbia,Canada,1986-01-01,A.M.Leroi,,
-1038,Bivalvia,Autobranchia,Galeommatida,,Kellia,Kellia,laperousii,,"Deshayes, 1839",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel, off Whistle Buoy,",British Columbia,Canada,1983-01-01,A.M.Leroi,,
-1031,Gastropoda,Patellogastropoda,Nacellida,,Lepeta,Lepeta,caeca,,"O. F. Müller, 1776",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel, off Whistle Buoy,",British Columbia,Canada,1983-01-01,A.M.Leroi,,
-1021,Bivalvia,Autobranchia,Cardiida,,Limecola,Macoma,balthica,,"Linnaeus, 1758",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel",British Columbia,Canada,1984-07-01,A.M.Leroi,,original status: unaccepted; mismatch: genus: Limecola → Macoma
-1029,Gastropoda,Caenogastropoda,Littorinimorpha,,Melanella,Melanella,micans,,"P. P. Carpenter, 1865",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel, off Whistle Buoy,",British Columbia,Canada,1983-01-01,A.M.Leroi,,
-1034,Gastropoda,Caenogastropoda,Littorinimorpha,,Melanella,Melanella,NA,NA,Bowdich,1822,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel, off Whistle Buoy,",British Columbia,Canada,1983-01-01,A.M.Leroi,,
-1170,Gastropoda,Vetigastropoda,Trochida,,Solariella,Minolia,peramabilis,,"P. P. Carpenter, 1864",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel",British Columbia,Canada,1986-01-01,A.M.Leroi,,original status: superseded combination; mismatch: genus: Solariella → Minolia
-1035,Gastropoda,Caenogastropoda,Neogastropoda,,Mitrella,Mitrella,hypodra,hypodra,Dall,1916,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel, off Whistle Buoy,",British Columbia,Canada,1983-07-01,A.M.Leroi,,"species ""hypodrya"" not found; genus-only match"
-1026,Gastropoda,Protobranchia,Nuculanida,,Nuculana,Nuculana,NA,NA,Link,1807,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel, off Whistle Buoy,",British Columbia,Canada,1983-01-01,A.M.Leroi,,
-1030,Gastropoda,Protobranchia,Nuculanida,,Nuculana,Nuculana,NA,NA,Link,1807,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel, off Whistle Buoy,",British Columbia,Canada,1983-01-01,A.M.Leroi,,
-1022,Bivalvia,Autobranchia,Pectinida,,Pododesmus,Pododesmus,macrochisma,,"Deshayes, 1839",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel",British Columbia,Canada,1984-07-01,A.M.Leroi,,
-1032,Gastropoda,Vetigastropoda,Lepetellida,,Cranopsis,Puncturella,cucullata,,"A. A. Gould, 1846",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel, off Whistle Buoy,",British Columbia,Canada,1983-01-01,A.M.Leroi,,original status: unaccepted; mismatch: genus: Cranopsis → Puncturella
-1036,Gastropoda,Vetigastropoda,Lepetellida,,Puncturella,Puncturella,major,,Dall,1891,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel, off Whistle Buoy,",British Columbia,Canada,1983-01-01,A.M.Leroi,,
-1020,Bivalvia,Autobranchia,Cardiida,,Semele,Semele,rubropicta,,Dall,1871,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel",British Columbia,Canada,1984-07-01,A.M.Leroi,,
-1033,Gastropoda,Caenogastropoda,Littorinimorpha,,Trichotropis,Trichotropis,cancellata,,Hinds,1843,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel, off Whistle Buoy,",British Columbia,Canada,1983-01-01,A.M.Leroi,,
-1185,Bivalvia,Autobranchia,Venerida,,Zemysina,Zemysina,orbella,,"A. A. Gould, 1851",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel",British Columbia,Canada,1986-01-01,A.M.Leroi,,
-1177,Gastropoda,Caenogastropoda,Neogastropoda,,Nassarius,Nassarius,mendicus,,"A. A. Gould, 1850",,"subtidal, dredged, 36m ,ubiquitous in soft sediment","Vancouver Island, S. W. Barkley Sound, Trevor Channel",British Columbia,Canada,1986-01-01,A.M.Leroi,,
-1181,Gastropoda,Caenogastropoda,Neogastropoda,,Marginella,Marginella,desjardini,,Marche-Marchad,1957,"subtidal, dredged, 73m",NA,Cayor,Senegal,1982-04-01,J.Leroi,,
-282,Gastropoda,Caenogastropoda,Littorinimorpha,,Distorsio,Distorsio,ridens,,"Reeve, 1844",,"subtidal, from fishermen",NA,NA,Senegal,1976-02-01,G.Jeffrey,,
-213,Gastropoda,Caenogastropoda,Neogastropoda,,Tritia,Tritia,reticulata,,"Linnaeus, 1758",,"subtidal, from fishing boat",Cascais,NA,Portugal,1980-08-01,A.M.Leroi,,
-244,Gastropoda,Caenogastropoda,Littorinimorpha,,Naria,Naria,nebrites,,"Melvill, 1888",,"subtidal, in coral, 2-3m",Marsa Bareika,Red Sea,Egypt,1980-01-01,P.Clover,,
-44,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Mauritia,Mauritia,maculifera,,F. A. Schilder,1932,"subtidal, in coral, 6-5ft",Oahu,Hawaii,USA,1976-01-01,Grobler,,
-1249,Gastropoda,Caenogastropoda,Neogastropoda,,Buccinum,Buccinum,striatissimum,,G. B. Sowerby III,1899,"subtidal, Kyoto fishmarket",Kyoto,Kyoto,Japan,2017-01-01,A.M.Leroi,,
-1250,Gastropoda,Caenogastropoda,Neogastropoda,,Neptunea,Neptunea,kuroshio,,Oyama,1959,"subtidal, Kyoto fishmarket",Kyoto,Kyoto,Japan,2017-01-01,A.M.Leroi,,
-1252,Gastropoda,Caenogastropoda,Littorinimorpha,,Charonia,Charonia,variegata,,"Lamarck, 1816",,"subtidal, Monastiraki market",NA,NA,Greece,2011-01-01,A.M.Leroi,,
-1253,Gastropoda,Caenogastropoda,Littorinimorpha,,Charonia,Charonia,variegata,,"Lamarck, 1816",,"subtidal, Monastiraki market",NA,NA,Greece,2011-01-01,A.M.Leroi,,
-211,Gastropoda,Vetigastropoda,Trochida,,Jujubinus,Jujubinus,gravinae,,"Dautzenberg, 1881",,"subtidal, on algae, by diver -3m","Setubal, Galapos",NA,Portugal,1980-01-01,A.Monteiro,,
-1244,Gastropoda,Caenogastropoda,Neogastropoda,,Coralliophila,Coralliophila,violacea,,"Kiener, 1836",,"subtidal, on shallow coral",NA,Rabaul,Papua-New Guinea,1978-01-01,J.Leroi,,
-247,Gastropoda,Caenogastropoda,Littorinimorpha,,Palmadusta,Palmadusta,ziczac,,Iredale,1930,"subtidal, shallow, on eelgrass",NA,Sulu Sea,Phillipines,1970-11-01,R.Cumtos,,"species ""ziczag"" not found; genus-only match"
-262,Gastropoda,Caenogastropoda,Neogastropoda,,Oliva,Oliva,caribaeensis,,Lamarck,1811,"subtidal, shrimp fishery",NA,NA,Guyana,1978-01-01,,,original status: unaccepted
-1196,Bivalvia,Autobranchia,Mytilida,,Gibbomodiola,Modiolus,adriatica,,Lamarck,1819,"subtidal, trawled",Quartiera,Algarve,Portugal,1980-01-01,C.Lages,,original status: unaccepted; mismatch: genus: Gibbomodiola → Modiolus
-1160,NA,NA,NA,NA,Latrius,NA,polygonus,NA,NA,NA,"subtidal, trawled",Lady Musgrave Island,Queensland,Australia,1985-01-01,J.Leroi,,no WoRMS match
-176,Gastropoda,Caenogastropoda,Littorinimorpha,,Phalium,Phalium,NA,NA,Link,1807,"subtidal, trawled",Durban,KwaZulu-Natal,South Africa,1972-08-01,H.Boswell,"id. as P. africanus, but no such species",
-259,Gastropoda,Caenogastropoda,Littorinimorpha,,Ranella,Ranella,olearium,,"Linnaeus, 1758",,"subtidal, trawled 330m",NA,KwaZulu-Natal,South Africa,1959-01-01,H.Boswell,,
-1175,NA,NA,NA,NA,Poirieria,NA,zealandica,NA,NA,NA,"subtidal, trawled, 100m",Auckland,North Island,New Zealand,1987-01-01,J.Leroi,,no WoRMS match
-1144,Gastropoda,,,MARGINELLIDAE,Stazzania,,marginata,,,,"subtidal, trawled, 200ft",Georgetown,NA,Guyana,1987-01-01,J.Leroi,,no WoRMS match
-1187,Gastropoda,Caenogastropoda,Neogastropoda,,Fusivoluta,Fusivoluta,clarkei,,Rehder,1969,"subtidal, trawled, on mud",NA,NA,Mozambique,1987-12-01,,,
-1178,Gastropoda,Vetigastropoda,Trochida,,Lirularia,Lirularia,lirulata,,"P. P. Carpenter, 1864",,under rocks,"Vancouver Island, S. W. Barkley Sound, Deer Group, Seppings Island",British Columbia,Canada,1982-01-01,A.M.Leroi,,
-49,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Macrocypraea,Macrocypraea,cervinetta,,"Kiener, 1844",,under rocks,Vera Cruz,NA,Panama,1976-07-01,Collins,,
-1150,Bivalvia,Autobranchia,VENERIDA,CARDIIDAE,Acanthocardia,Acanthocardia,tuberculata,,"Linnaeus, 1758",,NA,Armacao de Pera,Algarve,Portugal,1980-01-01,C.Lages,,
-1248,Gastropoda,Caenogastropoda,Neogastropoda,,Adelomelon,Adelomelon,beckii,,"Broderip, 1836",,NA,NA,Punta del Este,Uruguay,2010-01-01,A.M.Leroi,"bought,beachstall",
-1242,Bivalvia,Autobranchia,Pectinida,,Aequipecten,Aequipecten,opercularis,,"Linnaeus, 1758",,NA,Armacao de Pera,Algarve,Portugal,1980-01-01,C.Lages,,
-71,Gastropoda,Vetigastropoda,VETIGASTROPODA,TROCHIDAE,Gibbula,Agagus,perspectiva,,Jousseaume,1894,NA,Shelly Beach,KwaZulu-Natal,South Africa,1976-01-01,,,original status: unaccepted; mismatch: genus: Gibbula → Agagus
-121,Gastropoda,Caenogastropoda,Neogastropoda,,Amalda,Amalda,obtusa,,"Swainson, 1825",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,H.Killick,beach,
-122,Gastropoda,Caenogastropoda,Neogastropoda,,Amalda,Amalda,obtusa,,"Swainson, 1825",,NA,Marina Beach,KwaZulu-Natal,South Africa,1968-01-01,A.Wilson,beach,
-1230,Gastropoda,Caenogastropoda,Neogastropoda,,Amoria,Amoria,undulata,,"Lamarck, 1804",,NA,NA,NA,NA,,A.M.Leroi&J.C.Leroi,"no data; beach from parents's shells, likely Australia, New South Wales, Sydney",
-1206,Gastropoda,Caenogastropoda,Neogastropoda,,Amphissa,Amphissa,versicolor,,Dall,1871,NA,"Vancouver Island, S. W. Barkley Sound, Cape Beale",British Columbia,Canada,1983-07-01,A.M.Leroi,,
-123,Gastropoda,Caenogastropoda,Neogastropoda,,Ancilla,Ancilla,fasciata,,Perry,1811,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,status: nomen dubium
-1214,Gastropoda,Caenogastropoda,Littorinimorpha,,Aporrhais,Aporrhais,pespelecani,,"Linnaeus, 1758",,NA,NA,NA,NA,,,"no data; likely Catania, Sicily",
-144,Gastropoda,Caenogastropoda,Neogastropoda,,Tenguella,Arakawania,granulata,,"Duclos, 1832",,NA,"Durban, South Beach",KwaZulu-Natal,South Africa,1976-11-01,A.Wilson,,original status: superseded combination; mismatch: genus: Tenguella → Arakawania
-146,Gastropoda,Caenogastropoda,Neogastropoda,,Tenguella,Arakawania,granulata,,"Duclos, 1832",,NA,Bazaruto Archipelago,Inhambane,Mozambique,1972-08-01,R.Zurich,,original status: superseded combination; mismatch: genus: Tenguella → Arakawania
-41,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Arestorides,Arestorides,argus,,"Linnaeus, 1758",,NA,NA,NA,Phillipines,1977-01-01,Grobler,,
-1215,Gastropoda,Caenogastropoda,Neogastropoda,,Austroginella,Austroginella,muscaria,,"Lamarck, 1822",,NA,Bulli jetty,New South Wales,Australia,1985-01-01,J.Leroi,,
-1241,Gastropoda,Caenogastropoda,Neogastropoda,,Babylonia,Babylonia,NA,NA,Schlüter,1838,NA,NA,NA,NA,1982-01-01,G.Holm,seized US-Canadaborder,
-1243,Gastropoda,Caenogastropoda,Neogastropoda,,Babylonia,Babylonia,NA,NA,Schlüter,1838,NA,NA,NA,NA,,,,
-1194,Gastropoda,Caenogastropoda,Littorinimorpha,,Barleeia,Barleeia,unifasciata,,"Montagu, 1803",,NA,Vila Novade Milfontes,Algarve,Portugal,1980-01-01,C.Lages,,
-1166,Gastropoda,Caenogastropoda,Neogastropoda,,Belloliva,Belloliva,triticea,,"Duclos, 1835",,NA,"Sydney,off Sow and Pig reef,6fa",New South Wales,Australia,1958-01-01,J.Leroi,,
-21,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Bistolida,Bistolida,kieneri,,"Hidalgo, 1906",,NA,NA,"Samar Sea, Eastern",Phillipines,1978-01-01,Carfel,,
-17,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Blasicrura,Blasicrura,pallidula,,"Gaskoin, 1849",,NA,NA,"Samar Sea, Eastern",Phillipines,1979-01-01,Carfel,,
-1210,Gastropoda,Caenogastropoda,Neogastropoda,,Bolinus,Bolinus,brandaris,,"Linnaeus, 1758",,NA,NA,NA,NA,,,"no data; likely Catania, Sicily",
-1159,Gastropoda,Vetigastropoda,Trochida,,Bolma,Bolma,rugosa,,"Linnaeus, 1767",,NA,Arrecife,Lanzarote Island,Canary Islands,1975-01-01,C.Lages,,
-1167,Gastropoda,Caenogastropoda,Neogastropoda,,Buccinanops,Buccinastrum,duartei,,"Klappenbach, 1961",,NA,La Coronilha,Rocha,Uruguay,1975-01-01,C.Lages,,original status: unaccepted; mismatch: genus: Buccinanops → Buccinastrum
-203,Gastropoda,Heterobranchia,Cephalaspidea,,Bulla,Bulla,ampulla,,Linnaeus,1758,NA,Marina Beach,KwaZulu-Natal,South Africa,1976-12-01,A.Wilson,,
-98,Gastropoda,Caenogastropoda,,NASSARIIDAE,Bullia,Bullia,annulata,,"Lamarck, 1816",,NA,Margate,KwaZulu-Natal,South Africa,1976-01-01,L.Baartman,,
-107,Gastropoda,Caenogastropoda,Neogastropoda,,Bullia,Bullia,annulata,,"Lamarck, 1816",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,,
-108,Gastropoda,Caenogastropoda,Neogastropoda,,Bullia,Bullia,digitalis,,"Dillwyn, 1817",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,,
-109,Gastropoda,Caenogastropoda,Neogastropoda,,Bullia,Bullia,laevissima,,"Gmelin, 1791",,NA,FalseBay,Cape,South Africa,1976-10-01,A.Wilson,,
-111,Gastropoda,Caenogastropoda,Neogastropoda,,Bullia,Bullia,callosa,,"W. Wood, 1828",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,K.Worthington,,
-112,Gastropoda,Caenogastropoda,Neogastropoda,,Bullia,Bullia,pura,,Melvill,1885,NA,Jeffrey's Bay,Cape,South Africa,1977-01-01,H.Boswell,beach,
-161,Gastropoda,Caenogastropoda,Neogastropoda,,Bullia,Bullia,digitalis,,"Dillwyn, 1817",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,H.Boswell,beach,
-166,Gastropoda,Caenogastropoda,Neogastropoda,,Burnupena,Burnupena,cincta,,"Röding, 1798",,NA,"Port St. Johns, Sugarloaf Rock",Cape,South Africa,1976-03-01,R.Zurich,,
-186,Gastropoda,Caenogastropoda,Neogastropoda,,Burnupena,Burnupena,pubescens,,"Küster, 1858",,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,beach,
-197,Gastropoda,Caenogastropoda,Neogastropoda,,Burnupena,Burnupena,lagenaria,,"Lamarck, 1822",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
-1140,Gastropoda,Heterobranchia,STYLOMMATOPHORA,ACHATINIDAE,Burtoa,Burtoa,nilotica,,"L. Pfeiffer, 1861",,NA,Durban,KwaZulu-Natal,South Africa,1987-01-01,N.Scheurkogel,dead,
-164,Gastropoda,Caenogastropoda,Littorinimorpha,,Cabestana,Cabestana,cutacea,,"Linnaeus, 1767",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
-171,Gastropoda,Caenogastropoda,Littorinimorpha,,Cabestana,Cabestana,cutacea,,"Linnaeus, 1767",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Killick,beach,
-1198,Gastropoda,Vetigastropoda,Trochida,,Calliostoma,Calliostoma,laugieri,,"Payraudeau, 1826",,NA,Alpurtuche,Arrabida,Portugal,1980-01-01,C.Lages,,
-152,Gastropoda,Caenogastropoda,Littorinimorpha,,Calyptraea,Calyptraea,chinensis,,"Linnaeus, 1758",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
-1254,Gastropoda,Caenogastropoda,Littorinimorpha,,Cassis,Cassis,madagascariensis,,Lamarck,1822,NA,NA,NA,NA,2016-01-01,A.M.Leroi,"bought,charity shop,London",
-1255,Gastropoda,Caenogastropoda,Littorinimorpha,,Cassis,Cassis,cornuta,,"Linnaeus, 1758",,NA,NA,NA,NA,"bought,stall,Portobello Rd,London-01-01",A.M.Leroi,,
-94,Gastropoda,Patellogastropoda,PATELLOGASTROPODA,NACELLIDAE,Cellana,Cellana,capensis,,"Gmelin, 1791",,NA,Port Edward,KwaZulu-Natal,South Africa,1971-09-01,R.Zurich,,
-1251,Gastropoda,Caenogastropoda,Littorinimorpha,,Charonia,Charonia,variegata,,"Lamarck, 1816",,NA,"Lesvos, Kalloni",East Aegean,Greece,2001-01-01,A.M.Leroi,"from Dimitris Biris, fisherman",
-69,Gastropoda,Vetigastropoda,VETIGASTROPODA,TROCHIDAE,Clanculus,Clanculus,NA,NA,Montfort,1810,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,,
-70,Gastropoda,Vetigastropoda,VETIGASTROPODA,TROCHIDAE,Clanculus,Clanculus,corallinus,,"Gmelin, 1791",,NA,Syracuse,Sicily,Italy,1975-01-01,,,
-1180,Gastropoda,Vetigastropoda,Trochida,,Clanculus,Clanculus,jussieui,,"Payraudeau, 1826",,NA,Alpurtuche,Arrabida,Portugal,1980-01-01,C.Lages,,
-136,Gastropoda,Caenogastropoda,Neogastropoda,,Clionella,Clionella,kraussii,,"E. A. Smith, 1877",,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,beach,
-200,Gastropoda,Caenogastropoda,Neogastropoda,,Clionella,Clionella,rosaria,,"Reeve, 1846",,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,beach,
-183,Gastropoda,Caenogastropoda,incertae sedis,,Clypeomorus,Clypeomorus,bifasciata,,"G. B. Sowerby II, 1855",,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,,
-1138,Gastropoda,Caenogastropoda,Neogastropoda,COLUMBELLIDAE,Columbella,Columbella,rustica,,"Linnaeus, 1758",,NA,Medano,Tenerife,Canary Islands,1985-01-01,C.Lages,,
-158,Gastropoda,Caenogastropoda,Neogastropoda,,Cominella,Cominella,quoyana,,A. Adams,1855,NA,NA,Wainere Island,New Zealand,1976-01-01,Osborne,beach,
-205,Gastropoda,Caenogastropoda,Neogastropoda,,Cominella,Cominella,maculosa,,"Martyn, 1784",,NA,Wellington,North Island,New Zealand,1979-01-01,J.Leroi,beach,
-284,Gastropoda,Caenogastropoda,Littorinimorpha,,Conomurex,Conomurex,decorus,,"Röding, 1798",,NA,Santa Carolina Island,NA,Mozambique,1976-01-01,H.Boswell,,
-241,Gastropoda,Caenogastropoda,Littorinimorpha,,Contradusta,Contradusta,walkeri,,"J. E. Gray, 1832",,NA,Siasi,Sulu Sea,Phillipines,1980-01-01,P.Clover,var. surabajensis,
-124,Gastropoda,Caenogastropoda,Neogastropoda,,Conus,Conus,janus,,Hwass,1792,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
-167,Gastropoda,Caenogastropoda,Neogastropoda,,Conus,Conus,ebraeus,,Linnaeus,1758,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,beach,
-174,Gastropoda,Caenogastropoda,Neogastropoda,,Conus,Conus,striatus,,Linnaeus,1758,NA,NA,NA,Mozambique,1976-01-01,Grobler,,
-184,Gastropoda,Caenogastropoda,Neogastropoda,,Conus,Conus,tinianus,,Hwass,1792,NA,"Kei River Mouth, 30km S. of Port St. Johns",Cape,South Africa,1976-01-01,R.Zurich,beach,
-218,Gastropoda,Caenogastropoda,Neogastropoda,,Conus,Conus,coccineus,,Gmelin,1791,NA,NA,NA,Phillipines,1980-08-01,A.Monteiro,,
-255,Gastropoda,Caenogastropoda,Neogastropoda,,Conus,Conus,litteratus,,Linnaeus,1758,NA,NA,NA,Phillipines,1975-01-01,H.Boswell,,
-1164,Gastropoda,Caenogastropoda,Neogastropoda,,Conus,Conus,victoriae,,Reeve,1843,NA,Port Hedland,Western Australia,Australia,1985-01-01,J.Leroi,,
-1211,Gastropoda,Caenogastropoda,Neogastropoda,,Conus,Conus,mucronatus,,Reeve,1843,NA,Mactan Island,NA,Phillipines,1986-06-01,J.Leroi,,
-149,Gastropoda,Caenogastropoda,Neogastropoda,,Coralliophila,Coralliophila,fritschi,,"E. von Martens, 1874",,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,beach,
-1179,Gastropoda,Caenogastropoda,Neogastropoda,,Coralliophila,Coralliophila,meyendorffii,,"Calcara, 1845",,NA,Costa del Silencio,Tenerife,Canary Islands,1975-01-01,C.Lages,,
-1219,Bivalvia,Autobranchia,Ostreida,,Gryphaea,Crassostrea,NA,NA,Sacco,1897,NA,NA,NA,NA,2000-01-01,A.M.Leroi,nodata; likely bought Lyme Regis,original status: misapplication; mismatch: genus: Gryphaea → Crassostrea
-1236,Bivalvia,Autobranchia,Ostreida,,Gryphaea,Crassostrea,NA,NA,Sacco,1897,NA,Punta del Inca,Cordillera,Argentina,2008-01-01,A.M.Leroi,fossil; Darwin's locality,original status: misapplication; mismatch: genus: Gryphaea → Crassostrea
-153,Gastropoda,Caenogastropoda,Littorinimorpha,,Crepidula,Crepidula,porcellana,,Lamarck,1801,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
-157,Gastropoda,Caenogastropoda,Littorinimorpha,,Crepidula,Crepidula,porcellana,,Lamarck,1801,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,beach,
-1226,Gastropoda,Caenogastropoda,Littorinimorpha,,Crepidula,Crepidula,fornicata,,"Linnaeus, 1758",,NA,NA,NA,NA,,,"no data; likely Bamfield but could be Woods Hole, Mass",
-30,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Cribrarula,Cribrarula,cribraria,,"Linnaeus, 1758",,NA,Albany Gulf,Western Australia?,Australia?,1979-01-01,Carfel,,
-297,Gastropoda,Caenogastropoda,Littorinimorpha,,Cribrarula,Cribrarula,cribellum,,Strand,1929,NA,NA,NA,Papua-New Guinea,1980-01-01,J.Leroi,,"species ""cribaria"" not found; genus-only match"
-278,Gastropoda,Caenogastropoda,Neogastropoda,,Cymbiola,Cymbiola,imperialis,,"[Lightfoot], 1786",,NA,NA,NA,Phillipines,1980-01-01,,,
-293,Gastropoda,Caenogastropoda,Neogastropoda,,Cymbiola,Cymbiola,vespertilio,,"Linnaeus, 1758",,NA,NA,NA,Phillipines,1976-01-01,,,
-76,Gastropoda,Patellogastropoda,PATELLOGASTROPODA,PATELLIDAE,Cymbula,Cymbula,oculus,,"Born, 1778",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
-77,Gastropoda,Patellogastropoda,PATELLOGASTROPODA,PATELLIDAE,Cymbula,Cymbula,compressa,,"Linnaeus, 1758",,NA,Transkei,Cape,South Africa,1976-01-01,A.Wilson,beach,
-81,Gastropoda,Patellogastropoda,PATELLOGASTROPODA,PATELLIDAE,Cymbula,Cymbula,miniata,,"Born, 1778",,NA,Port Edward,KwaZulu-Natal,South Africa,1971-09-01,R.Zurich,beach,
-38,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Cypraea,Cypraea,NA,NA,Linnaeus,1758,NA,Sydney,New South Wales,Australia,1978-01-01,M.Leroi,,
-54,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Cypraea,Cypraea,tigris,,Linnaeus,1758,NA,,Queensland,Australia,1964-01-01,A.M.Leroi(father),,
+251,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Naria,Naria,poraria,,"Linnaeus, 1758",,"subtidal, 1.5m, on coral reef","Cebu Island, Davon North",NA,Phillipines,1980-01-01,P.Clover,,
+252,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Pustularia,Pustularia,cicercula,,"Linnaeus, 1758",,"subtidal, 1.5m, on coral reef",Uuiah (?),Samar Sea,Phillipines,1980-01-01,P.Clover,,
+269,Gastropoda,Vetigastropoda,Lepetellida,Fissurellidae,Emarginula,Emarginula,octaviana,,Coen,1939,"subtidal, 15m, from grit",Mazara del Valho,Sicily,Italy,1980-01-01,A.Monteiro,,
+294,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Chicoreus,Chicoreus,aculeatus,,"Lamarck, 1822",,"subtidal, 1m, on dead coral from fishtraps",Mactan,NA,Phillipines,1979-01-01,J.Leroi,,
+219,Gastropoda,Caenogastropoda,Neogastropoda,Conidae,Conus,Conus,trochulus,,Reeve,1844,"subtidal, 3-5m, among rocks, by diver","Sal Rei, Boa Vista Island",,Cape Verde Islands,1980-08-01,A.Monteiro,,
+1174,Bivalvia,Autobranchia,Venerida,Veneridae,Callista,Callista,chione,,"Linnaeus, 1758",,"subtidal, 30m",Sesimbra,NA,Portugal,1980-01-01,C.Lages,,
+280,Gastropoda,Caenogastropoda,Littorinimorpha,Personidae,Distorsio,Distorsio,decussata,,"Valenciennes, 1832",,"subtidal, 30m, dredged",Manzanilla,,Mexico,1976-01-01,M.Hotner,,
+276,Gastropoda,Caenogastropoda,Neogastropoda,Harpidae,Harpa,Harpa,crenata,,Swainson,1822,"subtidal, 30m, dredged",Manzanilla,,Mexico,1976-01-01,M.Hotner,,
+233,Bivalvia,Autobranchia,Cardiida,Cardiidae,Acanthocardia,Acanthocardia,echinata,,"Linnaeus, 1758",,"subtidal, 40-80m, entangled fishing nets",Albufeira,Algarve,Portugal,1980-08-01,A.M.Leroi,dead; live animals were bright red,
+264,Gastropoda,Vetigastropoda,Trochida,Turbinidae,Bolma,Bolma,rugosa,,"Linnaeus, 1767",,"subtidal, 40-80m, entangled fishing nets",Albufeira,Algarve,Portugal,1980-01-01,A.M.Leroi,,
+265,Gastropoda,Caenogastropoda,Neogastropoda,Volutidae,Cymbium,Cymbium,olla,,"Linnaeus, 1758",,"subtidal, 40-80m, entangled fishing nets",Albufeira,Algarve,Portugal,1980-01-01,A.M.Leroi,"purple, yellow  mottled animal",
+1193,Gastropoda,Caenogastropoda,Neogastropoda,Colidae,Colus,Colus,gracilis,,"da Costa, 1778",,"subtidal, 80m",Setubal,NA,Portugal,1980-01-01,C.Lages,,
+40,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Ficadusta,Ficadusta,pulchella,,"Swainson, 1823",,"subtidal, among madreporite corals, 2-5m",NA,NA,Thailand,1975-01-01,Jeffreys,,
+1247,Gastropoda,Caenogastropoda,Neogastropoda,Volutidae,Zidona,Zidona,dufresnei,,"Donovan, 1823",,"subtidal, bought stall",NA,Punta del Este,Uruguay,2010-01-01,A.M.Leroi,"bought,beachstall",original status: misspelling - incorrect subsequent spelling
+214,Na,Na,Na,Na,NA,NA,NA,NA,NA,NA,"subtidal, dead in tangle net 40-80m",Albufeira,Algarve,Portugal,1980-08-01,A.M.Leroi,,no genus
+287,Gastropoda,Caenogastropoda,Neogastropoda,Volutidae,Athleta,Athleta,abyssicola,,"A. Adams & Reeve, 1848",,"subtidal, deep",,Cape,South Africa,1976-01-01,,,
+33,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Erronea,Erronea,onyx,,"Linnaeus, 1758",,"subtidal, dived by natives, 25ft",NA,NA,Kenya,1972-01-01,R.Zurich,var. adjusta,
+1238,Bivalvia,Autobranchia,Carditida,Carditidae,Beguina,Beguina,gubernaculum,,"Reeve, 1843",,"subtidal, dived, from Octopus lair",NA,NA,Oman,2007-01-01,A.M.Leroi,,
+1142,Gastropoda,Caenogastropoda,Neogastropoda,Buccinidae,Neptunea,Neptunea,phoenicea,,"Dall, 1891",,"subtidal, dredged","Vancouver Island, S. W. Barkley Sound",British Columbia,Canada,1986-01-01,A.M.Leroi,,
+1028,Scaphopoda,,Dentaliida,Dentaliidae,Dentalium,Dentalium,NA,NA,Linnaeus,1758,"subtidal, dredged, 18m","Vancouver Island, S. W. Barkley Sound, off Execution Point",British Columbia,Canada,1983-01-01,A.M.Leroi,,
+1025,Gastropoda,Protobranchia,Solemyida,Solemyidae,Solemya,Petrasma,reidi,,"Kuroda, 1948",,"subtidal, dredged, 18m","Vancouver Island, S. W. Barkley Sound, off Execution Point",British Columbia,Canada,1983-01-01,A.M.Leroi,,original status: junior subjective synonym; mismatch: genus: Solemya → Petrasma
+1037,Gastropoda,Protobranchia,Nuculida,Nuculidae,Acila,Acila,castrensis,,"Hinds, 1843",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel, off Whistle Buoy,",British Columbia,Canada,1983-01-01,A.M.Leroi,,
+1199,Gastropoda,Protobranchia,Nuculida,Nuculidae,Acila,Acila,castrensis,,"Hinds, 1843",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel",British Columbia,Canada,1986-01-01,A.M.Leroi,,
+1024,Gastropoda,Heterobranchia,Cephalaspidea,Tornatinidae,Acteocina,Acteocina,culcitella,,"A. A. Gould, 1853",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel",British Columbia,Canada,1984-07-01,A.M.Leroi,,
+1027,Gastropoda,Vetigastropoda,Trochida,Calliostomatidae,Calliostoma,Calliostoma,variegatum,,P. P. Carpenter,1864,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel, off Whistle Buoy,",British Columbia,Canada,1983-01-01,A.M.Leroi,,
+1023,Bivalvia,Autobranchia,Cardiida,Cardiidae,Clinocardium,Clinocardium,nuttallii,,"Conrad, 1837",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel",British Columbia,Canada,1984-07-01,A.M.Leroi,juvenile,
+1171,Gastropoda,Caenogastropoda,Incertae sedis,Epitoniidae,Epitonium,Epitonium,tinctum,,"P. P. Carpenter, 1864",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel",British Columbia,Canada,1986-01-01,A.M.Leroi,,
+1038,Bivalvia,Autobranchia,Galeommatida,Lasaeidae,Kellia,Kellia,laperousii,,"Deshayes, 1839",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel, off Whistle Buoy,",British Columbia,Canada,1983-01-01,A.M.Leroi,,
+1031,Gastropoda,Patellogastropoda,Nacellida,Lepetidae,Lepeta,Lepeta,caeca,,"O. F. Müller, 1776",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel, off Whistle Buoy,",British Columbia,Canada,1983-01-01,A.M.Leroi,,
+1021,Bivalvia,Autobranchia,Cardiida,Tellinidae,Limecola,Macoma,balthica,,"Linnaeus, 1758",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel",British Columbia,Canada,1984-07-01,A.M.Leroi,,original status: unaccepted; mismatch: genus: Limecola → Macoma
+1029,Gastropoda,Caenogastropoda,Littorinimorpha,Eulimidae,Melanella,Melanella,micans,,"P. P. Carpenter, 1865",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel, off Whistle Buoy,",British Columbia,Canada,1983-01-01,A.M.Leroi,,
+1034,Gastropoda,Caenogastropoda,Littorinimorpha,Eulimidae,Melanella,Melanella,NA,NA,Bowdich,1822,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel, off Whistle Buoy,",British Columbia,Canada,1983-01-01,A.M.Leroi,,
+1170,Gastropoda,Vetigastropoda,Trochida,Solariellidae,Solariella,Minolia,peramabilis,,"P. P. Carpenter, 1864",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel",British Columbia,Canada,1986-01-01,A.M.Leroi,,original status: superseded combination; mismatch: genus: Solariella → Minolia
+1035,Gastropoda,Caenogastropoda,Neogastropoda,Columbellidae,Mitrella,Mitrella,hypodra,hypodra,Dall,1916,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel, off Whistle Buoy,",British Columbia,Canada,1983-07-01,A.M.Leroi,,"species ""hypodrya"" not found; genus-only match"
+1026,Gastropoda,Protobranchia,Nuculanida,Nuculanidae,Nuculana,Nuculana,NA,NA,Link,1807,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel, off Whistle Buoy,",British Columbia,Canada,1983-01-01,A.M.Leroi,,
+1030,Gastropoda,Protobranchia,Nuculanida,Nuculanidae,Nuculana,Nuculana,NA,NA,Link,1807,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel, off Whistle Buoy,",British Columbia,Canada,1983-01-01,A.M.Leroi,,
+1022,Bivalvia,Autobranchia,Pectinida,Anomiidae,Pododesmus,Pododesmus,macrochisma,,"Deshayes, 1839",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel",British Columbia,Canada,1984-07-01,A.M.Leroi,,
+1032,Gastropoda,Vetigastropoda,Lepetellida,Fissurellidae,Cranopsis,Puncturella,cucullata,,"A. A. Gould, 1846",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel, off Whistle Buoy,",British Columbia,Canada,1983-01-01,A.M.Leroi,,original status: unaccepted; mismatch: genus: Cranopsis → Puncturella
+1036,Gastropoda,Vetigastropoda,Lepetellida,Fissurellidae,Puncturella,Puncturella,major,,Dall,1891,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel, off Whistle Buoy,",British Columbia,Canada,1983-01-01,A.M.Leroi,,
+1020,Bivalvia,Autobranchia,Cardiida,Semelidae,Semele,Semele,rubropicta,,Dall,1871,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel",British Columbia,Canada,1984-07-01,A.M.Leroi,,
+1033,Gastropoda,Caenogastropoda,Littorinimorpha,Capulidae,Trichotropis,Trichotropis,cancellata,,Hinds,1843,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel, off Whistle Buoy,",British Columbia,Canada,1983-01-01,A.M.Leroi,,
+1185,Bivalvia,Autobranchia,Venerida,Ungulinidae,Zemysina,Zemysina,orbella,,"A. A. Gould, 1851",,"subtidal, dredged, 36m","Vancouver Island, S. W. Barkley Sound, Trevor Channel",British Columbia,Canada,1986-01-01,A.M.Leroi,,
+1177,Gastropoda,Caenogastropoda,Neogastropoda,Nassariidae,Nassarius,Nassarius,mendicus,,"A. A. Gould, 1850",,"subtidal, dredged, 36m ,ubiquitous in soft sediment","Vancouver Island, S. W. Barkley Sound, Trevor Channel",British Columbia,Canada,1986-01-01,A.M.Leroi,,
+1181,Gastropoda,Caenogastropoda,Neogastropoda,Marginellidae,Marginella,Marginella,desjardini,,Marche-Marchad,1957,"subtidal, dredged, 73m",NA,Cayor,Senegal,1982-04-01,J.Leroi,,
+282,Gastropoda,Caenogastropoda,Littorinimorpha,Personidae,Distorsio,Distorsio,ridens,,"Reeve, 1844",,"subtidal, from fishermen",NA,NA,Senegal,1976-02-01,G.Jeffrey,,
+213,Gastropoda,Caenogastropoda,Neogastropoda,Nassariidae,Tritia,Tritia,reticulata,,"Linnaeus, 1758",,"subtidal, from fishing boat",Cascais,NA,Portugal,1980-08-01,A.M.Leroi,,
+244,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Naria,Naria,nebrites,,"Melvill, 1888",,"subtidal, in coral, 2-3m",Marsa Bareika,Red Sea,Egypt,1980-01-01,P.Clover,,
+44,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Mauritia,Mauritia,maculifera,,F. A. Schilder,1932,"subtidal, in coral, 6-5ft",Oahu,Hawaii,USA,1976-01-01,Grobler,,
+1249,Gastropoda,Caenogastropoda,Neogastropoda,Buccinidae,Buccinum,Buccinum,striatissimum,,G. B. Sowerby III,1899,"subtidal, Kyoto fishmarket",Kyoto,Kyoto,Japan,2017-01-01,A.M.Leroi,,
+1250,Gastropoda,Caenogastropoda,Neogastropoda,Buccinidae,Neptunea,Neptunea,kuroshio,,Oyama,1959,"subtidal, Kyoto fishmarket",Kyoto,Kyoto,Japan,2017-01-01,A.M.Leroi,,
+1252,Gastropoda,Caenogastropoda,Littorinimorpha,Charoniidae,Charonia,Charonia,variegata,,"Lamarck, 1816",,"subtidal, Monastiraki market",NA,NA,Greece,2011-01-01,A.M.Leroi,,
+1253,Gastropoda,Caenogastropoda,Littorinimorpha,Charoniidae,Charonia,Charonia,variegata,,"Lamarck, 1816",,"subtidal, Monastiraki market",NA,NA,Greece,2011-01-01,A.M.Leroi,,
+211,Gastropoda,Vetigastropoda,Trochida,Trochidae,Jujubinus,Jujubinus,gravinae,,"Dautzenberg, 1881",,"subtidal, on algae, by diver -3m","Setubal, Galapos",NA,Portugal,1980-01-01,A.Monteiro,,
+1244,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Coralliophila,Coralliophila,violacea,,"Kiener, 1836",,"subtidal, on shallow coral",NA,Rabaul,Papua-New Guinea,1978-01-01,J.Leroi,,
+247,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Palmadusta,Palmadusta,ziczac,,Iredale,1930,"subtidal, shallow, on eelgrass",NA,Sulu Sea,Phillipines,1970-11-01,R.Cumtos,,"species ""ziczag"" not found; genus-only match"
+262,Gastropoda,Caenogastropoda,Neogastropoda,Olividae,Oliva,Oliva,caribaeensis,,Lamarck,1811,"subtidal, shrimp fishery",NA,NA,Guyana,1978-01-01,,,original status: unaccepted
+1196,Bivalvia,Autobranchia,Mytilida,Modiolidae,Gibbomodiola,Modiolus,adriatica,,Lamarck,1819,"subtidal, trawled",Quartiera,Algarve,Portugal,1980-01-01,C.Lages,,original status: unaccepted; mismatch: genus: Gibbomodiola → Modiolus
+1160,Na,Na,Na,Na,Latrius,NA,polygonus,NA,NA,NA,"subtidal, trawled",Lady Musgrave Island,Queensland,Australia,1985-01-01,J.Leroi,,no WoRMS match
+176,Gastropoda,Caenogastropoda,Littorinimorpha,Cassidae,Phalium,Phalium,NA,NA,Link,1807,"subtidal, trawled",Durban,KwaZulu-Natal,South Africa,1972-08-01,H.Boswell,"id. as P. africanus, but no such species",
+259,Gastropoda,Caenogastropoda,Littorinimorpha,Ranellidae,Ranella,Ranella,olearium,,"Linnaeus, 1758",,"subtidal, trawled 330m",NA,KwaZulu-Natal,South Africa,1959-01-01,H.Boswell,,
+1175,Na,Na,Na,Na,Poirieria,NA,zealandica,NA,NA,NA,"subtidal, trawled, 100m",Auckland,North Island,New Zealand,1987-01-01,J.Leroi,,no WoRMS match
+1144,Gastropoda,,,Marginellidae,Stazzania,,marginata,,,,"subtidal, trawled, 200ft",Georgetown,NA,Guyana,1987-01-01,J.Leroi,,no WoRMS match
+1187,Gastropoda,Caenogastropoda,Neogastropoda,Volutidae,Fusivoluta,Fusivoluta,clarkei,,Rehder,1969,"subtidal, trawled, on mud",NA,NA,Mozambique,1987-12-01,,,
+1178,Gastropoda,Vetigastropoda,Trochida,Trochidae,Lirularia,Lirularia,lirulata,,"P. P. Carpenter, 1864",,under rocks,"Vancouver Island, S. W. Barkley Sound, Deer Group, Seppings Island",British Columbia,Canada,1982-01-01,A.M.Leroi,,
+49,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Macrocypraea,Macrocypraea,cervinetta,,"Kiener, 1844",,under rocks,Vera Cruz,NA,Panama,1976-07-01,Collins,,
+1150,Bivalvia,Autobranchia,Venerida,Cardiidae,Acanthocardia,Acanthocardia,tuberculata,,"Linnaeus, 1758",,NA,Armacao de Pera,Algarve,Portugal,1980-01-01,C.Lages,,
+1248,Gastropoda,Caenogastropoda,Neogastropoda,Volutidae,Adelomelon,Adelomelon,beckii,,"Broderip, 1836",,NA,NA,Punta del Este,Uruguay,2010-01-01,A.M.Leroi,"bought,beachstall",
+1242,Bivalvia,Autobranchia,Pectinida,Pectinidae,Aequipecten,Aequipecten,opercularis,,"Linnaeus, 1758",,NA,Armacao de Pera,Algarve,Portugal,1980-01-01,C.Lages,,
+71,Gastropoda,Vetigastropoda,Vetigastropoda,Trochidae,Gibbula,Agagus,perspectiva,,Jousseaume,1894,NA,Shelly Beach,KwaZulu-Natal,South Africa,1976-01-01,,,original status: unaccepted; mismatch: genus: Gibbula → Agagus
+121,Gastropoda,Caenogastropoda,Neogastropoda,Ancillariidae,Amalda,Amalda,obtusa,,"Swainson, 1825",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,H.Killick,beach,
+122,Gastropoda,Caenogastropoda,Neogastropoda,Ancillariidae,Amalda,Amalda,obtusa,,"Swainson, 1825",,NA,Marina Beach,KwaZulu-Natal,South Africa,1968-01-01,A.Wilson,beach,
+1230,Gastropoda,Caenogastropoda,Neogastropoda,Volutidae,Amoria,Amoria,undulata,,"Lamarck, 1804",,NA,NA,NA,NA,,A.M.Leroi&J.C.Leroi,"no data; beach from parents's shells, likely Australia, New South Wales, Sydney",
+1206,Gastropoda,Caenogastropoda,Neogastropoda,Columbellidae,Amphissa,Amphissa,versicolor,,Dall,1871,NA,"Vancouver Island, S. W. Barkley Sound, Cape Beale",British Columbia,Canada,1983-07-01,A.M.Leroi,,
+123,Gastropoda,Caenogastropoda,Neogastropoda,Ancillariidae,Ancilla,Ancilla,fasciata,,Perry,1811,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,status: nomen dubium
+1214,Gastropoda,Caenogastropoda,Littorinimorpha,Aporrhaidae,Aporrhais,Aporrhais,pespelecani,,"Linnaeus, 1758",,NA,NA,NA,NA,,,"no data; likely Catania, Sicily",
+144,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Tenguella,Arakawania,granulata,,"Duclos, 1832",,NA,"Durban, South Beach",KwaZulu-Natal,South Africa,1976-11-01,A.Wilson,,original status: superseded combination; mismatch: genus: Tenguella → Arakawania
+146,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Tenguella,Arakawania,granulata,,"Duclos, 1832",,NA,Bazaruto Archipelago,Inhambane,Mozambique,1972-08-01,R.Zurich,,original status: superseded combination; mismatch: genus: Tenguella → Arakawania
+41,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Arestorides,Arestorides,argus,,"Linnaeus, 1758",,NA,NA,NA,Phillipines,1977-01-01,Grobler,,
+1215,Gastropoda,Caenogastropoda,Neogastropoda,Marginellidae,Austroginella,Austroginella,muscaria,,"Lamarck, 1822",,NA,Bulli jetty,New South Wales,Australia,1985-01-01,J.Leroi,,
+1241,Gastropoda,Caenogastropoda,Neogastropoda,Babyloniidae,Babylonia,Babylonia,NA,NA,Schlüter,1838,NA,NA,NA,NA,1982-01-01,G.Holm,seized US-Canadaborder,
+1243,Gastropoda,Caenogastropoda,Neogastropoda,Babyloniidae,Babylonia,Babylonia,NA,NA,Schlüter,1838,NA,NA,NA,NA,,,,
+1194,Gastropoda,Caenogastropoda,Littorinimorpha,Barleeiidae,Barleeia,Barleeia,unifasciata,,"Montagu, 1803",,NA,Vila Novade Milfontes,Algarve,Portugal,1980-01-01,C.Lages,,
+1166,Gastropoda,Caenogastropoda,Neogastropoda,Bellolividae,Belloliva,Belloliva,triticea,,"Duclos, 1835",,NA,"Sydney,off Sow and Pig reef,6fa",New South Wales,Australia,1958-01-01,J.Leroi,,
+21,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Bistolida,Bistolida,kieneri,,"Hidalgo, 1906",,NA,NA,"Samar Sea, Eastern",Phillipines,1978-01-01,Carfel,,
+17,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Blasicrura,Blasicrura,pallidula,,"Gaskoin, 1849",,NA,NA,"Samar Sea, Eastern",Phillipines,1979-01-01,Carfel,,
+1210,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Bolinus,Bolinus,brandaris,,"Linnaeus, 1758",,NA,NA,NA,NA,,,"no data; likely Catania, Sicily",
+1159,Gastropoda,Vetigastropoda,Trochida,Turbinidae,Bolma,Bolma,rugosa,,"Linnaeus, 1767",,NA,Arrecife,Lanzarote Island,Canary Islands,1975-01-01,C.Lages,,
+1167,Gastropoda,Caenogastropoda,Neogastropoda,Buccinanopsidae,Buccinanops,Buccinastrum,duartei,,"Klappenbach, 1961",,NA,La Coronilha,Rocha,Uruguay,1975-01-01,C.Lages,,original status: unaccepted; mismatch: genus: Buccinanops → Buccinastrum
+203,Gastropoda,Heterobranchia,Cephalaspidea,Bullidae,Bulla,Bulla,ampulla,,Linnaeus,1758,NA,Marina Beach,KwaZulu-Natal,South Africa,1976-12-01,A.Wilson,,
+98,Gastropoda,Caenogastropoda,Neogastropoda,Nassariidae,Bullia,Bullia,annulata,,"Lamarck, 1816",,NA,Margate,KwaZulu-Natal,South Africa,1976-01-01,L.Baartman,,
+107,Gastropoda,Caenogastropoda,Neogastropoda,Nassariidae,Bullia,Bullia,annulata,,"Lamarck, 1816",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,,
+108,Gastropoda,Caenogastropoda,Neogastropoda,Nassariidae,Bullia,Bullia,digitalis,,"Dillwyn, 1817",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,,
+109,Gastropoda,Caenogastropoda,Neogastropoda,Nassariidae,Bullia,Bullia,laevissima,,"Gmelin, 1791",,NA,FalseBay,Cape,South Africa,1976-10-01,A.Wilson,,
+111,Gastropoda,Caenogastropoda,Neogastropoda,Nassariidae,Bullia,Bullia,callosa,,"W. Wood, 1828",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,K.Worthington,,
+112,Gastropoda,Caenogastropoda,Neogastropoda,Nassariidae,Bullia,Bullia,pura,,Melvill,1885,NA,Jeffrey's Bay,Cape,South Africa,1977-01-01,H.Boswell,beach,
+161,Gastropoda,Caenogastropoda,Neogastropoda,Nassariidae,Bullia,Bullia,digitalis,,"Dillwyn, 1817",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,H.Boswell,beach,
+166,Gastropoda,Caenogastropoda,Neogastropoda,Buccinoidea incertae sedis,Burnupena,Burnupena,cincta,,"Röding, 1798",,NA,"Port St. Johns, Sugarloaf Rock",Cape,South Africa,1976-03-01,R.Zurich,,
+186,Gastropoda,Caenogastropoda,Neogastropoda,Buccinoidea incertae sedis,Burnupena,Burnupena,pubescens,,"Küster, 1858",,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,beach,
+197,Gastropoda,Caenogastropoda,Neogastropoda,Buccinoidea incertae sedis,Burnupena,Burnupena,lagenaria,,"Lamarck, 1822",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
+1140,Gastropoda,Heterobranchia,Stylommatophora,Achatinidae,Burtoa,Burtoa,nilotica,,"L. Pfeiffer, 1861",,NA,Durban,KwaZulu-Natal,South Africa,1987-01-01,N.Scheurkogel,dead,
+164,Gastropoda,Caenogastropoda,Littorinimorpha,Cymatiidae,Cabestana,Cabestana,cutacea,,"Linnaeus, 1767",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
+171,Gastropoda,Caenogastropoda,Littorinimorpha,Cymatiidae,Cabestana,Cabestana,cutacea,,"Linnaeus, 1767",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Killick,beach,
+1198,Gastropoda,Vetigastropoda,Trochida,Calliostomatidae,Calliostoma,Calliostoma,laugieri,,"Payraudeau, 1826",,NA,Alpurtuche,Arrabida,Portugal,1980-01-01,C.Lages,,
+152,Gastropoda,Caenogastropoda,Littorinimorpha,Calyptraeidae,Calyptraea,Calyptraea,chinensis,,"Linnaeus, 1758",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
+1254,Gastropoda,Caenogastropoda,Littorinimorpha,Cassidae,Cassis,Cassis,madagascariensis,,Lamarck,1822,NA,NA,NA,NA,2016-01-01,A.M.Leroi,"bought,charity shop,London",
+1255,Gastropoda,Caenogastropoda,Littorinimorpha,Cassidae,Cassis,Cassis,cornuta,,"Linnaeus, 1758",,NA,NA,NA,NA,"bought,stall,Portobello Rd,London-01-01",A.M.Leroi,,
+94,Gastropoda,Patellogastropoda,Patellogastropoda,Nacellidae,Cellana,Cellana,capensis,,"Gmelin, 1791",,NA,Port Edward,KwaZulu-Natal,South Africa,1971-09-01,R.Zurich,,
+1251,Gastropoda,Caenogastropoda,Littorinimorpha,Charoniidae,Charonia,Charonia,variegata,,"Lamarck, 1816",,NA,"Lesvos, Kalloni",East Aegean,Greece,2001-01-01,A.M.Leroi,"from Dimitris Biris, fisherman",
+69,Gastropoda,Vetigastropoda,Vetigastropoda,Trochidae,Clanculus,Clanculus,NA,NA,Montfort,1810,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,,
+70,Gastropoda,Vetigastropoda,Vetigastropoda,Trochidae,Clanculus,Clanculus,corallinus,,"Gmelin, 1791",,NA,Syracuse,Sicily,Italy,1975-01-01,,,
+1180,Gastropoda,Vetigastropoda,Trochida,Trochidae,Clanculus,Clanculus,jussieui,,"Payraudeau, 1826",,NA,Alpurtuche,Arrabida,Portugal,1980-01-01,C.Lages,,
+136,Gastropoda,Caenogastropoda,Neogastropoda,Clavatulidae,Clionella,Clionella,kraussii,,"E. A. Smith, 1877",,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,beach,
+200,Gastropoda,Caenogastropoda,Neogastropoda,Clavatulidae,Clionella,Clionella,rosaria,,"Reeve, 1846",,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,beach,
+183,Gastropoda,Caenogastropoda,Incertae sedis,Cerithiidae,Clypeomorus,Clypeomorus,bifasciata,,"G. B. Sowerby II, 1855",,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,,
+1138,Gastropoda,Caenogastropoda,Neogastropoda,Columbellidae,Columbella,Columbella,rustica,,"Linnaeus, 1758",,NA,Medano,Tenerife,Canary Islands,1985-01-01,C.Lages,,
+158,Gastropoda,Caenogastropoda,Neogastropoda,Cominellidae,Cominella,Cominella,quoyana,,A. Adams,1855,NA,NA,Wainere Island,New Zealand,1976-01-01,Osborne,beach,
+205,Gastropoda,Caenogastropoda,Neogastropoda,Cominellidae,Cominella,Cominella,maculosa,,"Martyn, 1784",,NA,Wellington,North Island,New Zealand,1979-01-01,J.Leroi,beach,
+284,Gastropoda,Caenogastropoda,Littorinimorpha,Strombidae,Conomurex,Conomurex,decorus,,"Röding, 1798",,NA,Santa Carolina Island,NA,Mozambique,1976-01-01,H.Boswell,,
+241,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Contradusta,Contradusta,walkeri,,"J. E. Gray, 1832",,NA,Siasi,Sulu Sea,Phillipines,1980-01-01,P.Clover,var. surabajensis,
+124,Gastropoda,Caenogastropoda,Neogastropoda,Conidae,Conus,Conus,janus,,Hwass,1792,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
+167,Gastropoda,Caenogastropoda,Neogastropoda,Conidae,Conus,Conus,ebraeus,,Linnaeus,1758,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,beach,
+174,Gastropoda,Caenogastropoda,Neogastropoda,Conidae,Conus,Conus,striatus,,Linnaeus,1758,NA,NA,NA,Mozambique,1976-01-01,Grobler,,
+184,Gastropoda,Caenogastropoda,Neogastropoda,Conidae,Conus,Conus,tinianus,,Hwass,1792,NA,"Kei River Mouth, 30km S. of Port St. Johns",Cape,South Africa,1976-01-01,R.Zurich,beach,
+218,Gastropoda,Caenogastropoda,Neogastropoda,Conidae,Conus,Conus,coccineus,,Gmelin,1791,NA,NA,NA,Phillipines,1980-08-01,A.Monteiro,,
+255,Gastropoda,Caenogastropoda,Neogastropoda,Conidae,Conus,Conus,litteratus,,Linnaeus,1758,NA,NA,NA,Phillipines,1975-01-01,H.Boswell,,
+1164,Gastropoda,Caenogastropoda,Neogastropoda,Conidae,Conus,Conus,victoriae,,Reeve,1843,NA,Port Hedland,Western Australia,Australia,1985-01-01,J.Leroi,,
+1211,Gastropoda,Caenogastropoda,Neogastropoda,Conidae,Conus,Conus,mucronatus,,Reeve,1843,NA,Mactan Island,NA,Phillipines,1986-06-01,J.Leroi,,
+149,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Coralliophila,Coralliophila,fritschi,,"E. von Martens, 1874",,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,beach,
+1179,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Coralliophila,Coralliophila,meyendorffii,,"Calcara, 1845",,NA,Costa del Silencio,Tenerife,Canary Islands,1975-01-01,C.Lages,,
+1219,Bivalvia,Autobranchia,Ostreida,Ostreidae,Gryphaea,Crassostrea,NA,NA,Sacco,1897,NA,NA,NA,NA,2000-01-01,A.M.Leroi,nodata; likely bought Lyme Regis,original status: misapplication; mismatch: genus: Gryphaea → Crassostrea
+1236,Bivalvia,Autobranchia,Ostreida,Ostreidae,Gryphaea,Crassostrea,NA,NA,Sacco,1897,NA,Punta del Inca,Cordillera,Argentina,2008-01-01,A.M.Leroi,fossil; Darwin's locality,original status: misapplication; mismatch: genus: Gryphaea → Crassostrea
+153,Gastropoda,Caenogastropoda,Littorinimorpha,Calyptraeidae,Crepidula,Crepidula,porcellana,,Lamarck,1801,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
+157,Gastropoda,Caenogastropoda,Littorinimorpha,Calyptraeidae,Crepidula,Crepidula,porcellana,,Lamarck,1801,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,beach,
+1226,Gastropoda,Caenogastropoda,Littorinimorpha,Calyptraeidae,Crepidula,Crepidula,fornicata,,"Linnaeus, 1758",,NA,NA,NA,NA,,,"no data; likely Bamfield but could be Woods Hole, Mass",
+30,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Cribrarula,Cribrarula,cribraria,,"Linnaeus, 1758",,NA,Albany Gulf,Western Australia?,Australia?,1979-01-01,Carfel,,
+297,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Cribrarula,Cribrarula,cribellum,,Strand,1929,NA,NA,NA,Papua-New Guinea,1980-01-01,J.Leroi,,"species ""cribaria"" not found; genus-only match"
+278,Gastropoda,Caenogastropoda,Neogastropoda,Volutidae,Cymbiola,Cymbiola,imperialis,,"[Lightfoot], 1786",,NA,NA,NA,Phillipines,1980-01-01,,,
+293,Gastropoda,Caenogastropoda,Neogastropoda,Volutidae,Cymbiola,Cymbiola,vespertilio,,"Linnaeus, 1758",,NA,NA,NA,Phillipines,1976-01-01,,,
+76,Gastropoda,Patellogastropoda,Patellogastropoda,Patellidae,Cymbula,Cymbula,oculus,,"Born, 1778",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
+77,Gastropoda,Patellogastropoda,Patellogastropoda,Patellidae,Cymbula,Cymbula,compressa,,"Linnaeus, 1758",,NA,Transkei,Cape,South Africa,1976-01-01,A.Wilson,beach,
+81,Gastropoda,Patellogastropoda,Patellogastropoda,Patellidae,Cymbula,Cymbula,miniata,,"Born, 1778",,NA,Port Edward,KwaZulu-Natal,South Africa,1971-09-01,R.Zurich,beach,
+38,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Cypraea,Cypraea,NA,NA,Linnaeus,1758,NA,Sydney,New South Wales,Australia,1978-01-01,M.Leroi,,
+54,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Cypraea,Cypraea,tigris,,Linnaeus,1758,NA,,Queensland,Australia,1964-01-01,A.M.Leroi(father),,
 2,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Cypraea,Cypraeovula,fuscodentata,fuscodentata,J. E. Gray,1825,NA,Jeffrey's Bay,Cape,South Africa,,,beach,superseded combination
 3,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Cypraea,Cypraeovula,edentula,edentula,J. E. Gray,1825,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,unaccepted
 4,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Cypraea,Cypraeovula,edentula,edentula,J. E. Gray,1825,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Wilson,beach,unaccepted
-97,Gastropoda,Caenogastropoda,,NASSARIIDAE,Demoulia,Demoulia,ventricosa,,"Lamarck, 1816",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,,
-132,Gastropoda,Vetigastropoda,Lepetellida,,Dendrofissurella,Dendrofissurella,scutellum,,"Gmelin, 1791",,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,beach,
-133,Gastropoda,Vetigastropoda,Lepetellida,,Dendrofissurella,Dendrofissurella,scutellum,,"Gmelin, 1791",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
-268,Gastropoda,Caenogastropoda,Neogastropoda,,Dentimargo,Dentimargo,neglecta,,Cossmann,1899,NA,Table Bay,Cape,South Africa,1980-03-01,C.Connolly,,"species ""neglectus"" not found; genus-only match"
-1233,Gastropoda,Caenogastropoda,Neogastropoda,,Dicathais,Dicathais,orbita,,"Gmelin, 1791",,NA,NA,NA,NA,,A.M.Leroi&J.C.Leroi,"no data; beach from parents's shells, likely Australia, New South Wales, Sydney",
-125,Gastropoda,Vetigastropoda,Lepetellida,,Diodora,Diodora,calyculata,,"G. B. Sowerby I, 1823",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
-127,Gastropoda,Vetigastropoda,Lepetellida,,Diodora,Diodora,rupelli,,"G. B. Sowerby I, 1835",,NA,NA,NA,South Africa,,,beach,original status: unaccepted
-1216,Bivalvia,Autobranchia,Venerida,,Diplodonta,Diplodonta,NA,NA,Bronn,1831,NA,NA,NA,NA,,,no data; likely Bamfield,
-1208,Gastropoda,Caenogastropoda,Littorinimorpha,,Distorsio,Distorsio,anus,,"Linnaeus, 1758",,NA,NA,NA,NA,,,,
-204,Gastropoda,Caenogastropoda,Littorinimorpha,,Dolomena,Dolomena,plicata,,"Röding, 1798",,NA,NA,NA,Papua-New Guinea,1979-05-01,J.Leroi,,
-206,Gastropoda,Caenogastropoda,Littorinimorpha,,Dolomena,Dolomena,minima,,Wenz,1940,NA,NA,NA,Papua-New Guinea,1979-05-01,J.Leroi,,"species ""minimus"" not found; genus-only match"
-300,Bivalvia,Autobranchia,Cardiida,,Donax,Donax,NA,NA,Linnaeus,1758,NA,NA,"KwaZulu-Natal, South",South Africa,1976-01-01,A.Wilson,,
-1139,Bivalvia,Autobranchia,VENERIDA,VENERIDAE,Dosinia,Dosinia,exoleta,,"Linnaeus, 1758",,NA,Setubal,NA,Portugal,1980-01-01,C.Lages,,
-119,Gastropoda,Caenogastropoda,Neogastropoda,,Drupa,Drupa,NA,NA,Röding,1798,NA,NA,NA,South Africa?,,,,
-145,Gastropoda,Caenogastropoda,Neogastropoda,,Drupa,Drupa,NA,NA,Röding,1798,NA,Marina Beach,KwaZulu-Natal,South Africa,1968-11-01,A.Wilson,,
-169,Gastropoda,Caenogastropoda,Littorinimorpha,,Bursa,Dulcerana,granularis,,"Röding, 1798",,NA,Port Edward,KwaZulu-Natal,South Africa,1971-01-01,R.Zurich,,original status: unaccepted; mismatch: genus: Bursa → Dulcerana
-246,Gastropoda,Caenogastropoda,Littorinimorpha,,Eclogavena,Eclogavena,coxeni,,"J. C. Cox, 1873",,NA,NA,NA,Papua-New Guinea,1980-01-01,M.Hotner,,
-1213,Bivalvia,Autobranchia,Heteroconchia,,Entodesma,Entodesma,navicula,,"A. Adams & Reeve, 1850",,NA,"Vancouver Island, S. W. Barkley Sound",British Columbia,Canada,,A.M.Leroi,,
-32,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Erronea,Erronea,caurica,,"Linnaeus, 1758",,NA,Paradise Island,Bazaruto Archipelago,Mozambique,1974-11-01,Bullin,,
-37,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Erronea,Erronea,errones,,"Linnaeus, 1758",,NA,Sydney,New South Wales,Australia,1976-01-01,M.Leroi,,
-243,Gastropoda,Caenogastropoda,Littorinimorpha,,Erronea,Erronea,cylindrica,,"Born, 1778",,NA,Catbalogan Bay,Samar Sea,Phillipines,1980-01-01,P.Clover,,
-285,Gastropoda,Caenogastropoda,Littorinimorpha,,Euprotomus,Euprotomus,aurisdianae,,"Linnaeus, 1758",,NA,"Inhambane, Gozerar Pool",NA,Mozambique,1972-02-01,Walles,,
-1157,Gastropoda,Caenogastropoda,Neogastropoda,,Buccinulum,Euthria,corneum,,"Linnaeus, 1758",,NA,Armacao de Pera,Algarve,Portugal,1980-01-01,C.Lages,,original status: superseded combination; mismatch: genus: Buccinulum → Euthria
-286,Gastropoda,Caenogastropoda,Littorinimorpha,,Ficus,Ficus,ficus,,"Linnaeus, 1758",,NA,NA,NA,NA,,R.Zurich,,
-129,Gastropoda,Vetigastropoda,Lepetellida,,Fissurella,Fissurella,mutabilis,,G. B. Sowerby I,1835,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,,
-134,Gastropoda,Vetigastropoda,Lepetellida,,Fissurella,Fissurella,natalensis,,Krauss,1848,NA,Port Shepstone,KwaZulu-Natal,South Africa,,R.Zurich,,
-271,Gastropoda,Caenogastropoda,Neogastropoda,,Fusinus,Fusinus,colus,,"Linnaeus, 1758",,NA,NA,NA,Japan,1976-01-01,,,
-1223,Gastropoda,Caenogastropoda,Littorinimorpha,,Fusitriton,Fusitriton,oregonensis,,"Redfield, 1846",,NA,NA,NA,NA,,,no data; likely Bamfield,
-1162,Gastropoda,Caenogastropoda,Neogastropoda,,Gemophos,Gemophos,ringens,,"Reeve, 1846",,NA,Punta Calafate,NA,Panama,,,,
-283,Gastropoda,Caenogastropoda,Littorinimorpha,,Gibberulus,Gibberulus,gibberulus,,"Linnaeus, 1758",,NA,Inhaca Island,Maputo,Mozambique,1952-01-01,J.Polock,,
-192,Gastropoda,Vetigastropoda,Seguenziida,,Granata,Granata,imbricata,,"Lamarck, 1816",,NA,Sydney,New South Wales,Australia,1977-08-01,M.Leroi,beach,
-198,Gastropoda,Caenogastropoda,Littorinimorpha,,Gyrineum,Gyrineum,pusillum,,"Broderip, 1833",,NA,Zululand,KwaZulu-Natal,South Africa,1976-01-01,v.Hardijzer,rare,
-178,Gastropoda,Vetigastropoda,Lepetellida,,Haliotis,Haliotis,spadicea,,Donovan,1808,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
-1245,Gastropoda,Vetigastropoda,Lepetellida,,Haliotis,Haliotis,rufescens,,Swainson,1822,NA,Morro Bay,California,USA,1970-01-01,G.Holm,,
+97,Gastropoda,Caenogastropoda,Neogastropoda,Nassariidae,Demoulia,Demoulia,ventricosa,,"Lamarck, 1816",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,,
+132,Gastropoda,Vetigastropoda,Lepetellida,Fissurellidae,Dendrofissurella,Dendrofissurella,scutellum,,"Gmelin, 1791",,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,beach,
+133,Gastropoda,Vetigastropoda,Lepetellida,Fissurellidae,Dendrofissurella,Dendrofissurella,scutellum,,"Gmelin, 1791",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
+268,Gastropoda,Caenogastropoda,Neogastropoda,Marginellidae,Dentimargo,Dentimargo,neglecta,,Cossmann,1899,NA,Table Bay,Cape,South Africa,1980-03-01,C.Connolly,,"species ""neglectus"" not found; genus-only match"
+1233,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Dicathais,Dicathais,orbita,,"Gmelin, 1791",,NA,NA,NA,NA,,A.M.Leroi&J.C.Leroi,"no data; beach from parents's shells, likely Australia, New South Wales, Sydney",
+125,Gastropoda,Vetigastropoda,Lepetellida,Fissurellidae,Diodora,Diodora,calyculata,,"G. B. Sowerby I, 1823",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
+127,Gastropoda,Vetigastropoda,Lepetellida,Fissurellidae,Diodora,Diodora,rupelli,,"G. B. Sowerby I, 1835",,NA,NA,NA,South Africa,,,beach,original status: unaccepted
+1216,Bivalvia,Autobranchia,Venerida,Ungulinidae,Diplodonta,Diplodonta,NA,NA,Bronn,1831,NA,NA,NA,NA,,,no data; likely Bamfield,
+1208,Gastropoda,Caenogastropoda,Littorinimorpha,Personidae,Distorsio,Distorsio,anus,,"Linnaeus, 1758",,NA,NA,NA,NA,,,,
+204,Gastropoda,Caenogastropoda,Littorinimorpha,Strombidae,Dolomena,Dolomena,plicata,,"Röding, 1798",,NA,NA,NA,Papua-New Guinea,1979-05-01,J.Leroi,,
+206,Gastropoda,Caenogastropoda,Littorinimorpha,Strombidae,Dolomena,Dolomena,minima,,Wenz,1940,NA,NA,NA,Papua-New Guinea,1979-05-01,J.Leroi,,"species ""minimus"" not found; genus-only match"
+300,Bivalvia,Autobranchia,Cardiida,Donacidae,Donax,Donax,NA,NA,Linnaeus,1758,NA,NA,"KwaZulu-Natal, South",South Africa,1976-01-01,A.Wilson,,
+1139,Bivalvia,Autobranchia,Venerida,Veneridae,Dosinia,Dosinia,exoleta,,"Linnaeus, 1758",,NA,Setubal,NA,Portugal,1980-01-01,C.Lages,,
+119,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Drupa,Drupa,NA,NA,Röding,1798,NA,NA,NA,South Africa?,,,,
+145,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Drupa,Drupa,NA,NA,Röding,1798,NA,Marina Beach,KwaZulu-Natal,South Africa,1968-11-01,A.Wilson,,
+169,Gastropoda,Caenogastropoda,Littorinimorpha,Bursidae,Bursa,Dulcerana,granularis,,"Röding, 1798",,NA,Port Edward,KwaZulu-Natal,South Africa,1971-01-01,R.Zurich,,original status: unaccepted; mismatch: genus: Bursa → Dulcerana
+246,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Eclogavena,Eclogavena,coxeni,,"J. C. Cox, 1873",,NA,NA,NA,Papua-New Guinea,1980-01-01,M.Hotner,,
+1213,Bivalvia,Autobranchia,Heteroconchia,Lyonsiidae,Entodesma,Entodesma,navicula,,"A. Adams & Reeve, 1850",,NA,"Vancouver Island, S. W. Barkley Sound",British Columbia,Canada,,A.M.Leroi,,
+32,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Erronea,Erronea,caurica,,"Linnaeus, 1758",,NA,Paradise Island,Bazaruto Archipelago,Mozambique,1974-11-01,Bullin,,
+37,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Erronea,Erronea,errones,,"Linnaeus, 1758",,NA,Sydney,New South Wales,Australia,1976-01-01,M.Leroi,,
+243,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Erronea,Erronea,cylindrica,,"Born, 1778",,NA,Catbalogan Bay,Samar Sea,Phillipines,1980-01-01,P.Clover,,
+285,Gastropoda,Caenogastropoda,Littorinimorpha,Strombidae,Euprotomus,Euprotomus,aurisdianae,,"Linnaeus, 1758",,NA,"Inhambane, Gozerar Pool",NA,Mozambique,1972-02-01,Walles,,
+1157,Gastropoda,Caenogastropoda,Neogastropoda,Tudiclidae,Buccinulum,Euthria,corneum,,"Linnaeus, 1758",,NA,Armacao de Pera,Algarve,Portugal,1980-01-01,C.Lages,,original status: superseded combination; mismatch: genus: Buccinulum → Euthria
+286,Gastropoda,Caenogastropoda,Littorinimorpha,Ficidae,Ficus,Ficus,ficus,,"Linnaeus, 1758",,NA,NA,NA,NA,,R.Zurich,,
+129,Gastropoda,Vetigastropoda,Lepetellida,Fissurellidae,Fissurella,Fissurella,mutabilis,,G. B. Sowerby I,1835,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,,
+134,Gastropoda,Vetigastropoda,Lepetellida,Fissurellidae,Fissurella,Fissurella,natalensis,,Krauss,1848,NA,Port Shepstone,KwaZulu-Natal,South Africa,,R.Zurich,,
+271,Gastropoda,Caenogastropoda,Neogastropoda,Fasciolariidae,Fusinus,Fusinus,colus,,"Linnaeus, 1758",,NA,NA,NA,Japan,1976-01-01,,,
+1223,Gastropoda,Caenogastropoda,Littorinimorpha,Cymatiidae,Fusitriton,Fusitriton,oregonensis,,"Redfield, 1846",,NA,NA,NA,NA,,,no data; likely Bamfield,
+1162,Gastropoda,Caenogastropoda,Neogastropoda,Pisaniidae,Gemophos,Gemophos,ringens,,"Reeve, 1846",,NA,Punta Calafate,NA,Panama,,,,
+283,Gastropoda,Caenogastropoda,Littorinimorpha,Strombidae,Gibberulus,Gibberulus,gibberulus,,"Linnaeus, 1758",,NA,Inhaca Island,Maputo,Mozambique,1952-01-01,J.Polock,,
+192,Gastropoda,Vetigastropoda,Seguenziida,Chilodontidae,Granata,Granata,imbricata,,"Lamarck, 1816",,NA,Sydney,New South Wales,Australia,1977-08-01,M.Leroi,beach,
+198,Gastropoda,Caenogastropoda,Littorinimorpha,Cymatiidae,Gyrineum,Gyrineum,pusillum,,"Broderip, 1833",,NA,Zululand,KwaZulu-Natal,South Africa,1976-01-01,v.Hardijzer,rare,
+178,Gastropoda,Vetigastropoda,Lepetellida,Haliotidae,Haliotis,Haliotis,spadicea,,Donovan,1808,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
+1245,Gastropoda,Vetigastropoda,Lepetellida,Haliotidae,Haliotis,Haliotis,rufescens,,Swainson,1822,NA,Morro Bay,California,USA,1970-01-01,G.Holm,,
 1209,Gastropoda,,,,Haliotus,Haliotus,NA,NA,,,NA,NA,NA,NA,,,no data; likely C. lages,no WoRMS match
-281,Gastropoda,Caenogastropoda,Neogastropoda,,Harpa,Harpa,amouretta,,Röding,1798,NA,NA,NA,Mauritius,1974-01-01,A.Wissing,,
-290,Gastropoda,Caenogastropoda,Littorinimorpha,,Harpago,Harpago,chiragra,,"Linnaeus, 1758",,NA,NA,NA,Mauritius,1978-01-01,A.Wissing,var. arthitica,
-1256,Gastropoda,Caenogastropoda,Littorinimorpha,,Harpago,Harpago,chiragra,,"Linnaeus, 1758",,NA,NA,NA,Mozambique,1976-12-01,,was id_00291b but reassigned; var. arthitica,
-141,Gastropoda,Caenogastropoda,Neogastropoda,,Hastula,Hastula,rufopunctata,,"E. A. Smith, 1877",,NA,Marina Beach,KwaZulu-Natal,South Africa,1970-10-01,A.Wilson,beach,
-92,Gastropoda,Patellogastropoda,PATELLOGASTROPODA,PATELLIDAE,Helcion,Helcion,concolor,,"Krauss, 1848",,NA,Marina Beach,KwaZulu-Natal,South Africa,1976-11-01,A.Wilson,,
-1149,Gastropoda,Caenogastropoda,Neogastropoda,MURICIDAE,Hexaplex,Hexaplex,trunculus,,"Linnaeus, 1758",,NA,Olhao,Algarve,Portugal,1980-03-01,C.Lages,,
-1220,Gastropoda,Caenogastropoda,Neogastropoda,,Hexaplex,Hexaplex,trunculus,,"Linnaeus, 1758",,NA,NA,NA,NA,,,"no data; likely Catania, Sicily",
-72,Gastropoda,Caenogastropoda,Neogastropoda,MITRIDAE,Mitra,Isara,picta,,"Reeve, 1844",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,A.Wilson,,original status: unaccepted; mismatch: genus: Mitra → Isara
-73,Gastropoda,Caenogastropoda,Neogastropoda,MITRIDAE,Mitra,Isara,picta,,"Reeve, 1844",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,,original status: unaccepted; mismatch: genus: Mitra → Isara
-253,Gastropoda,Caenogastropoda,Littorinimorpha,,Jenneria,Jenneria,pustulata,,"[Lightfoot], 1786",,NA,Manzanilla,,Mexico,1980-01-01,M.Hotner,,
-1158,Gastropoda,Vetigastropoda,Trochida,,Jujubinus,Jujubinus,exasperatus,,"Pennant, 1777",,NA,Armacao de Pera,Algarve,Portugal,1980-01-01,C.Lages,,
-1147,Bivalvia,Autobranchia,VENERIDA,CARDIIDAE,Laevicardium,Laevicardium,norvegicum,,"Gmelin, 1791",,NA,Setubal,NA,Portugal,1980-01-01,C.Lages,,original status: unaccepted
-289,Gastropoda,Caenogastropoda,Littorinimorpha,,Lambis,Lambis,millepeda,,"Linnaeus, 1758",,NA,NA,NA,NA,1979-01-01,M.Matthews,Indo-Pacific,
-175,Gastropoda,Caenogastropoda,Littorinimorpha,,Bursa,Lampasopsis,cruentata,,"G. B. Sowerby II, 1835",,NA,Durban,KwaZulu-Natal,South Africa,1976-01-01,R.Johnson,,original status: unaccepted; mismatch: genus: Bursa → Lampasopsis
-298,Bivalvia,Autobranchia,Cardiida,,Donax,Latona,madagascariensis,,"W. Wood, 1828",,NA,"Durban, North Beach",KwaZulu-Natal,South Africa,1975-01-01,A.M.Leroi,beach,original status: superseded combination; mismatch: genus: Donax → Latona
-201,Gastropoda,Caenogastropoda,Littorinimorpha,,Lentigo,Lentigo,lentiginosus,,"Linnaeus, 1758",,NA,NA,NA,NA,1976-01-01,,,
-1165,Gastropoda,Caenogastropoda,Littorinimorpha,,Littorina,Littorina,saxatilis,,A. Férussac,1822,NA,Avencas Beach,Parede (Cascais),Portugal,1980-07-01,C.Lages,,"species ""saxatalis"" not found; genus-only match"
-64,Gastropoda,Vetigastropoda,VETIGASTROPODA,TURBINIDAE,Lunella,Lunella,coronatus,,Röding,1798,NA,Gonubie,Cape,South Africa,1976-01-01,J.Scheepers,,"species ""coronatus"" not found; genus-only match"
-65,Gastropoda,Vetigastropoda,VETIGASTROPODA,TROCHIDAE,Lunella,Lunella,coronata,,"Gmelin, 1791",,NA,Margate,KwaZulu-Natal,South Africa,1976-01-01,L.Baartman,beach,
-236,Gastropoda,Caenogastropoda,Littorinimorpha,,Luria,Luria,lurida,,"Linnaeus, 1758",,NA,Salina Bay,,Malta,1979-04-01,P.Clover,,
-250,Gastropoda,Caenogastropoda,Littorinimorpha,,Luria,Luria,isabella,,"Linnaeus, 1758",,NA,NA,KwaZulu-Natal,South Africa,1976-01-01,,,
-16,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Lyncina,Lyncina,carneola,,"Linnaeus, 1758",,NA,NA,NA,NA,1976-01-01,A.Wilson,Indian Ocean,
-26,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Lyncina,Lyncina,lynx,,"Linnaeus, 1758",,NA,Sydney,New South Wales,Australia,1976-01-01,M.Leroi,,
-34,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Lyncina,Lyncina,vitellus,,"Linnaeus, 1758",,NA,NA,NA,Timor,1975-01-01,H.Boswell,,
-35,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Lyncina,Lyncina,lynx,,"Linnaeus, 1758",,NA,NA,NA,Mauritius,1976-07-01,,,
-45,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Lyncina,Lyncina,carneola,,"Linnaeus, 1758",,NA,NA,NA,Timor,1975-01-01,H.Boswell,,
-46,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Lyncina,Lyncina,vitellus,,"Linnaeus, 1758",,NA,Zavora,Inhambane,Mozambique,1969-08-01,Wallace,,
-58,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Macrocypraea,Macrocypraea,cervinetta,,"Kiener, 1844",,NA,Nayarit,,Mexico,1978-01-01,M.Hotner,var. dwarf,
-223,Gastropoda,Caenogastropoda,Neogastropoda,,Macron,Macron,lividus,,"A. Adams, 1855",,NA,Deheney State Park,California,USA,1980-08-01,A.Monteiro,,
-142,Gastropoda,Caenogastropoda,Neogastropoda,,Thais,Mancinella,capensis,,"Petit de la Saussaye, 1852",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Killick,beach,original status: unaccepted; mismatch: genus: Thais → Mancinella
-177,Gastropoda,Caenogastropoda,Neogastropoda,,Reishia,Mancinella,capensis,,"Petit de la Saussaye, 1852",,NA,"Port St. Johns, Sugarloaf Rock",Cape,South Africa,1976-03-01,R.Zurich,,original status: unaccepted; mismatch: genus: Reishia → Mancinella
-160,Gastropoda,Caenogastropoda,Neogastropoda,,Marginella,Marginella,floccata,,G. B. Sowerby III,1889,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
-188,Gastropoda,Caenogastropoda,Neogastropoda,,Marginella,Marginella,piperata,,Hinds,1844,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,beach,
-191,Gastropoda,Caenogastropoda,Neogastropoda,,Marginella,Marginella,ornata,,Redfield,1870,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
-193,Gastropoda,Caenogastropoda,Neogastropoda,,Marginella,Marginella,piperata,,Hinds,1844,NA,"Kei River Mouth, 30km S. of Port St. Johns",Cape,South Africa,1976-04-01,R.Zurich,,
-194,Gastropoda,Caenogastropoda,Neogastropoda,,Marginella,Marginella,piperata,,Hinds,1844,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
-195,Gastropoda,Caenogastropoda,Neogastropoda,,Marginella,Marginella,piperata,,Hinds,1844,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,,
-266,Gastropoda,Caenogastropoda,Neogastropoda,,Marginella,Marginella,rosea,,Lamarck,1822,NA,Kommetjie,Cape,South Africa,1980-03-01,C.Connolly,,
-36,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Mauritia,Mauritia,arabica,,"Linnaeus, 1758",,NA,NA,NA,Timor,1975-01-01,H.Boswell,,
-42,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Mauritia,Mauritia,histrio,,"Gmelin, 1791",,NA,NA,La Dique Island,Seychelles,1974-01-01,S.Wissenger,,
-51,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Mauritia,Mauritia,arabica,,"Linnaeus, 1758",,NA,Conducia Bay,Nampala Province,Mozambique,1976-06-01,H.Boswell,,
-52,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Mauritia,Mauritia,eglantina,,"Duclos, 1833",,NA,NA,Sulu Sea,Phillipines,1978-01-01,Carfel,,
-239,Gastropoda,Caenogastropoda,Littorinimorpha,,Mauritia,Mauritia,scurra,,"Gmelin, 1791",,NA,NA,NA,Phillipines,1977-01-01,P.Clover,,
-1135,Gastropoda,Caenogastropoda,Neogastropoda,MURICIDAE,Maxwellia,Maxwellia,gemma,,"G. B. Sowerby II, 1879",,NA,NA,"California, Southern",USA,1980-01-01,J.Leroi,,
-120,Gastropoda,Caenogastropoda,Neogastropoda,,Melapium,Melapium,lineatum,,"Lamarck, 1822",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
-1141,Gastropoda,Caenogastropoda,,MELONGENIDAE,Melongena,Melongena,corona,,"Gmelin, 1791",,NA,Pass-a-GrilleBeach,Florida,USA,1985-01-01,,,
-1137,Gastropoda,Caenogastropoda,,TURRITELLIDAE,Mesalia,Mesalia,brevialis,,"Lamarck, 1822",,NA,"Faro, Rio Formosa",Algarve,Portugal,1980-01-01,C.Lages,,
-162,Gastropoda,Caenogastropoda,Neogastropoda,,Mipus,Mipus,rosaceus,,De Gregorio,1885,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,H.Boswell,beach,"species ""rosacea"" not found; genus-only match"
-272,Gastropoda,Caenogastropoda,Neogastropoda,,Mitra,Mitra,mitra,,"Linnaeus, 1758",,NA,NA,NA,Phillipines,1976-01-01,H.Boswell,,
+281,Gastropoda,Caenogastropoda,Neogastropoda,Harpidae,Harpa,Harpa,amouretta,,Röding,1798,NA,NA,NA,Mauritius,1974-01-01,A.Wissing,,
+290,Gastropoda,Caenogastropoda,Littorinimorpha,Strombidae,Harpago,Harpago,chiragra,,"Linnaeus, 1758",,NA,NA,NA,Mauritius,1978-01-01,A.Wissing,var. arthitica,
+1256,Gastropoda,Caenogastropoda,Littorinimorpha,Strombidae,Harpago,Harpago,chiragra,,"Linnaeus, 1758",,NA,NA,NA,Mozambique,1976-12-01,,was id_00291b but reassigned; var. arthitica,
+141,Gastropoda,Caenogastropoda,Neogastropoda,Terebridae,Hastula,Hastula,rufopunctata,,"E. A. Smith, 1877",,NA,Marina Beach,KwaZulu-Natal,South Africa,1970-10-01,A.Wilson,beach,
+92,Gastropoda,Patellogastropoda,Patellogastropoda,Patellidae,Helcion,Helcion,concolor,,"Krauss, 1848",,NA,Marina Beach,KwaZulu-Natal,South Africa,1976-11-01,A.Wilson,,
+1149,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Hexaplex,Hexaplex,trunculus,,"Linnaeus, 1758",,NA,Olhao,Algarve,Portugal,1980-03-01,C.Lages,,
+1220,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Hexaplex,Hexaplex,trunculus,,"Linnaeus, 1758",,NA,NA,NA,NA,,,"no data; likely Catania, Sicily",
+72,Gastropoda,Caenogastropoda,Neogastropoda,Mitridae,Mitra,Isara,picta,,"Reeve, 1844",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,A.Wilson,,original status: unaccepted; mismatch: genus: Mitra → Isara
+73,Gastropoda,Caenogastropoda,Neogastropoda,Mitridae,Mitra,Isara,picta,,"Reeve, 1844",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,,original status: unaccepted; mismatch: genus: Mitra → Isara
+253,Gastropoda,Caenogastropoda,Littorinimorpha,Ovulidae,Jenneria,Jenneria,pustulata,,"[Lightfoot], 1786",,NA,Manzanilla,,Mexico,1980-01-01,M.Hotner,,
+1158,Gastropoda,Vetigastropoda,Trochida,Trochidae,Jujubinus,Jujubinus,exasperatus,,"Pennant, 1777",,NA,Armacao de Pera,Algarve,Portugal,1980-01-01,C.Lages,,
+1147,Bivalvia,Autobranchia,Venerida,Cardiidae,Laevicardium,Laevicardium,norvegicum,,"Gmelin, 1791",,NA,Setubal,NA,Portugal,1980-01-01,C.Lages,,original status: unaccepted
+289,Gastropoda,Caenogastropoda,Littorinimorpha,Strombidae,Lambis,Lambis,millepeda,,"Linnaeus, 1758",,NA,NA,NA,NA,1979-01-01,M.Matthews,Indo-Pacific,
+175,Gastropoda,Caenogastropoda,Littorinimorpha,Bursidae,Bursa,Lampasopsis,cruentata,,"G. B. Sowerby II, 1835",,NA,Durban,KwaZulu-Natal,South Africa,1976-01-01,R.Johnson,,original status: unaccepted; mismatch: genus: Bursa → Lampasopsis
+298,Bivalvia,Autobranchia,Cardiida,Sididae,Donax,Latona,madagascariensis,,"W. Wood, 1828",,NA,"Durban, North Beach",KwaZulu-Natal,South Africa,1975-01-01,A.M.Leroi,beach,original status: superseded combination; mismatch: genus: Donax → Latona
+201,Gastropoda,Caenogastropoda,Littorinimorpha,Strombidae,Lentigo,Lentigo,lentiginosus,,"Linnaeus, 1758",,NA,NA,NA,NA,1976-01-01,,,
+1165,Gastropoda,Caenogastropoda,Littorinimorpha,Littorinidae,Littorina,Littorina,saxatilis,,A. Férussac,1822,NA,Avencas Beach,Parede (Cascais),Portugal,1980-07-01,C.Lages,,"species ""saxatalis"" not found; genus-only match"
+64,Gastropoda,Vetigastropoda,Vetigastropoda,Turbinidae,Lunella,Lunella,coronatus,,Röding,1798,NA,Gonubie,Cape,South Africa,1976-01-01,J.Scheepers,,"species ""coronatus"" not found; genus-only match"
+65,Gastropoda,Vetigastropoda,Vetigastropoda,Trochidae,Lunella,Lunella,coronata,,"Gmelin, 1791",,NA,Margate,KwaZulu-Natal,South Africa,1976-01-01,L.Baartman,beach,
+236,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Luria,Luria,lurida,,"Linnaeus, 1758",,NA,Salina Bay,,Malta,1979-04-01,P.Clover,,
+250,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Luria,Luria,isabella,,"Linnaeus, 1758",,NA,NA,KwaZulu-Natal,South Africa,1976-01-01,,,
+16,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Lyncina,Lyncina,carneola,,"Linnaeus, 1758",,NA,NA,NA,NA,1976-01-01,A.Wilson,Indian Ocean,
+26,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Lyncina,Lyncina,lynx,,"Linnaeus, 1758",,NA,Sydney,New South Wales,Australia,1976-01-01,M.Leroi,,
+34,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Lyncina,Lyncina,vitellus,,"Linnaeus, 1758",,NA,NA,NA,Timor,1975-01-01,H.Boswell,,
+35,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Lyncina,Lyncina,lynx,,"Linnaeus, 1758",,NA,NA,NA,Mauritius,1976-07-01,,,
+45,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Lyncina,Lyncina,carneola,,"Linnaeus, 1758",,NA,NA,NA,Timor,1975-01-01,H.Boswell,,
+46,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Lyncina,Lyncina,vitellus,,"Linnaeus, 1758",,NA,Zavora,Inhambane,Mozambique,1969-08-01,Wallace,,
+58,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Macrocypraea,Macrocypraea,cervinetta,,"Kiener, 1844",,NA,Nayarit,,Mexico,1978-01-01,M.Hotner,var. dwarf,
+223,Gastropoda,Caenogastropoda,Neogastropoda,Buccinoidea incertae sedis,Macron,Macron,lividus,,"A. Adams, 1855",,NA,Deheney State Park,California,USA,1980-08-01,A.Monteiro,,
+142,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Thais,Mancinella,capensis,,"Petit de la Saussaye, 1852",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Killick,beach,original status: unaccepted; mismatch: genus: Thais → Mancinella
+177,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Reishia,Mancinella,capensis,,"Petit de la Saussaye, 1852",,NA,"Port St. Johns, Sugarloaf Rock",Cape,South Africa,1976-03-01,R.Zurich,,original status: unaccepted; mismatch: genus: Reishia → Mancinella
+160,Gastropoda,Caenogastropoda,Neogastropoda,Marginellidae,Marginella,Marginella,floccata,,G. B. Sowerby III,1889,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
+188,Gastropoda,Caenogastropoda,Neogastropoda,Marginellidae,Marginella,Marginella,piperata,,Hinds,1844,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,beach,
+191,Gastropoda,Caenogastropoda,Neogastropoda,Marginellidae,Marginella,Marginella,ornata,,Redfield,1870,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
+193,Gastropoda,Caenogastropoda,Neogastropoda,Marginellidae,Marginella,Marginella,piperata,,Hinds,1844,NA,"Kei River Mouth, 30km S. of Port St. Johns",Cape,South Africa,1976-04-01,R.Zurich,,
+194,Gastropoda,Caenogastropoda,Neogastropoda,Marginellidae,Marginella,Marginella,piperata,,Hinds,1844,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
+195,Gastropoda,Caenogastropoda,Neogastropoda,Marginellidae,Marginella,Marginella,piperata,,Hinds,1844,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,,
+266,Gastropoda,Caenogastropoda,Neogastropoda,Marginellidae,Marginella,Marginella,rosea,,Lamarck,1822,NA,Kommetjie,Cape,South Africa,1980-03-01,C.Connolly,,
+36,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Mauritia,Mauritia,arabica,,"Linnaeus, 1758",,NA,NA,NA,Timor,1975-01-01,H.Boswell,,
+42,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Mauritia,Mauritia,histrio,,"Gmelin, 1791",,NA,NA,La Dique Island,Seychelles,1974-01-01,S.Wissenger,,
+51,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Mauritia,Mauritia,arabica,,"Linnaeus, 1758",,NA,Conducia Bay,Nampala Province,Mozambique,1976-06-01,H.Boswell,,
+52,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Mauritia,Mauritia,eglantina,,"Duclos, 1833",,NA,NA,Sulu Sea,Phillipines,1978-01-01,Carfel,,
+239,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Mauritia,Mauritia,scurra,,"Gmelin, 1791",,NA,NA,NA,Phillipines,1977-01-01,P.Clover,,
+1135,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Maxwellia,Maxwellia,gemma,,"G. B. Sowerby II, 1879",,NA,NA,"California, Southern",USA,1980-01-01,J.Leroi,,
+120,Gastropoda,Caenogastropoda,Neogastropoda,Strepsiduridae,Melapium,Melapium,lineatum,,"Lamarck, 1822",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
+1141,Gastropoda,Caenogastropoda,Neogastropoda,Melongenidae,Melongena,Melongena,corona,,"Gmelin, 1791",,NA,Pass-a-GrilleBeach,Florida,USA,1985-01-01,,,
+1137,Gastropoda,Caenogastropoda,Caenogastropoda incertae sedis,Turritellidae,Mesalia,Mesalia,brevialis,,"Lamarck, 1822",,NA,"Faro, Rio Formosa",Algarve,Portugal,1980-01-01,C.Lages,,
+162,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Mipus,Mipus,rosaceus,,De Gregorio,1885,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,H.Boswell,beach,"species ""rosacea"" not found; genus-only match"
+272,Gastropoda,Caenogastropoda,Neogastropoda,Mitridae,Mitra,Mitra,mitra,,"Linnaeus, 1758",,NA,NA,NA,Phillipines,1976-01-01,H.Boswell,,
 1132,Gastropoda,Caenogastropoda,Neogastropoda,Columbellidae,Mitrella,Mitrella,floccata,floccata,Reeve,1859,NA,Jeffrey's Bay,Cape,South Africa,,,,accepted
-1197,Gastropoda,Caenogastropoda,Neogastropoda,,Mitrella,Mitrella,albuginosa,,"Reeve, 1859",,NA,Jeffrey's Bay,Cape,South Africa,1978-01-01,H.Boswell,beach,
-14,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Monetaria,Monetaria,caputserpentis,,"Linnaeus, 1758",,NA,Sydney,New South Wales,Australia,1976-01-01,M.Leroi,,
-22,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Monetaria,Monetaria,annulus,,"Linnaeus, 1758",,NA,Sydney,New South Wales,Australia,1976-01-01,M.Leroi,beach,
-59,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Monetaria,Monetaria,moneta,,"Linnaeus, 1758",,NA,Sydney,New South Wales,Australia,1976-01-01,M.Leroi,,
-163,Gastropoda,Caenogastropoda,Littorinimorpha,,Cymatium,Monoplex,klenei,,"G. B. Sowerby III, 1890",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,,original status: superseded combination; mismatch: genus: Cymatium → Monoplex
-1227,Bivalvia,Autobranchia,Mytilida,,Mytilus,Mytilus,californianus,,Conrad,1837,NA,NA,NA,NA,,,no data; likely Bamfield,
-270,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,no genus
-1156,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,"A Patella, probably Portuguese, with the wronglabel",no genus
-1176,NA,NA,NA,NA,Haliotus,NA,brazeri,NA,NA,NA,NA,"Solitary Islands,Coffs Harbour",New South Wales,Australia,1987-01-01,J.Leroi,,no WoRMS match
-1186,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,no genus
-1188,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,New Zealand,1978-01-01,A.Wilson,,no genus
-1189,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Vancouver Island, S. W. Barkley Sound",British Columbia,Canada,1986-01-01,A.M.Leroi,,no genus
-1190,Gastropoda,,STYLOMMATOPHORA,ACHATINIDAE,NA,NA,NA,NA,NA,NA,NA,NA,NA,Angola,1980-01-01,A.Monteiro,,no genus
-1200,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Arinaga,Gran Canaria,Canary Islands,1980-01-01,C.Lages,,no genus
-1207,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ngorongoro,Tanzania,1980-01-01,A.Monteiro,dead,no genus
-1217,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,no data; likely Bamfield,no genus
-1221,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,no data; likely Bamfield,no genus
-1222,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,no data; likely Bamfield,no genus
-1224,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,no data; likely Bamfield,no genus
-1225,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,no data; likely Bamfield,no genus
-1231,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,no genus
-1232,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,no genus
-1237,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,near Puerto Deseado,Patagonia,Argentina,2008-04-01,A.M.Leroi,,no genus
-1239,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,no genus
-1240,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,no data; likely Bamfield,no genus
+1197,Gastropoda,Caenogastropoda,Neogastropoda,Columbellidae,Mitrella,Mitrella,albuginosa,,"Reeve, 1859",,NA,Jeffrey's Bay,Cape,South Africa,1978-01-01,H.Boswell,beach,
+14,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Monetaria,Monetaria,caputserpentis,,"Linnaeus, 1758",,NA,Sydney,New South Wales,Australia,1976-01-01,M.Leroi,,
+22,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Monetaria,Monetaria,annulus,,"Linnaeus, 1758",,NA,Sydney,New South Wales,Australia,1976-01-01,M.Leroi,beach,
+59,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Monetaria,Monetaria,moneta,,"Linnaeus, 1758",,NA,Sydney,New South Wales,Australia,1976-01-01,M.Leroi,,
+163,Gastropoda,Caenogastropoda,Littorinimorpha,Cymatiidae,Cymatium,Monoplex,klenei,,"G. B. Sowerby III, 1890",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,,original status: superseded combination; mismatch: genus: Cymatium → Monoplex
+1227,Bivalvia,Autobranchia,Mytilida,Mytilidae,Mytilus,Mytilus,californianus,,Conrad,1837,NA,NA,NA,NA,,,no data; likely Bamfield,
+270,Na,Na,Na,Na,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,no genus
+1156,Na,Na,Na,Na,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,"A Patella, probably Portuguese, with the wronglabel",no genus
+1176,Na,Na,Na,Na,Haliotus,NA,brazeri,NA,NA,NA,NA,"Solitary Islands,Coffs Harbour",New South Wales,Australia,1987-01-01,J.Leroi,,no WoRMS match
+1186,Na,Na,Na,Na,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,no genus
+1188,Na,Na,Na,Na,NA,NA,NA,NA,NA,NA,NA,NA,NA,New Zealand,1978-01-01,A.Wilson,,no genus
+1189,Na,Na,Na,Na,NA,NA,NA,NA,NA,NA,NA,"Vancouver Island, S. W. Barkley Sound",British Columbia,Canada,1986-01-01,A.M.Leroi,,no genus
+1190,Gastropoda,,Stylommatophora,Achatinidae,NA,NA,NA,NA,NA,NA,NA,NA,NA,Angola,1980-01-01,A.Monteiro,,no genus
+1200,Na,Na,Na,Na,NA,NA,NA,NA,NA,NA,NA,Arinaga,Gran Canaria,Canary Islands,1980-01-01,C.Lages,,no genus
+1207,Na,Na,Na,Na,NA,NA,NA,NA,NA,NA,NA,NA,Ngorongoro,Tanzania,1980-01-01,A.Monteiro,dead,no genus
+1217,Na,Na,Na,Na,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,no data; likely Bamfield,no genus
+1221,Na,Na,Na,Na,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,no data; likely Bamfield,no genus
+1222,Na,Na,Na,Na,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,no data; likely Bamfield,no genus
+1224,Na,Na,Na,Na,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,no data; likely Bamfield,no genus
+1225,Na,Na,Na,Na,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,no data; likely Bamfield,no genus
+1231,Na,Na,Na,Na,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,no genus
+1232,Na,Na,Na,Na,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,no genus
+1237,Na,Na,Na,Na,NA,NA,NA,NA,NA,NA,NA,near Puerto Deseado,Patagonia,Argentina,2008-04-01,A.M.Leroi,,no genus
+1239,Na,Na,Na,Na,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,no genus
+1240,Na,Na,Na,Na,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,no data; likely Bamfield,no genus
 1246,Bivalvia,,Ostreida,,NA,NA,NA,NA,NA,NA,NA,"Knokke, Het Zwin",Flanders,Belgium,1976-01-01,A.M.Leroi,,no genus
 1,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Cypraea,Naria,citrina,citrina,J. E. Gray,1825,NA,"Lighthouse Park, Durban",KwaZulu-Natal,South Africa,1975-12-01,R.Zurich,beach,unaccepted
 7,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Cypraea,Naria,helvola,helvola,Linnaeus,1758,NA,Jeffrey's Bay,Cape,South Africa,1975-01-01,G.Monough,beach,unaccepted
 8,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Cypraea,Naria,helvola,helvola,Linnaeus,1758,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,unaccepted
-29,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Naria,Naria,erosa,,"Linnaeus, 1758",,NA,Sydney,New South Wales,Australia,1976-01-01,M.Leroi,beach,
-31,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Naria,Naria,miliaris,,"Gmelin, 1791",,NA,NA,NA,Mauritius,1976-01-01,,,
-47,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Naria,Naria,erosa,,"Linnaeus, 1758",,NA,Inhaca Island,Maputo,Mozambique,1970-01-01,J.Polock,,
-48,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Naria,Naria,lamarckii,,"J. E. Gray, 1825",,NA,Inhambane,Inhambane,Mozambique,1969-01-01,Wallace,,
-55,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Erosaria,Naria,spurca,,"Linnaeus, 1758",,NA,NA,NA,NA,1978-01-01,M.Hotner,Mediterranean,original status: unaccepted; mismatch: genus: Erosaria → Naria
-57,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Naria,Naria,turdus,,"Lamarck, 1810",,NA,NA,NA,Red Sea,1978-01-01,M.Hotner,var. pardinalis,
-60,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Naria,Naria,ocellata,,"Linnaeus, 1758",,NA,NA,NA,India,1978-01-01,M.Hotner,,
-240,Gastropoda,Caenogastropoda,Littorinimorpha,,Naria,Naria,boivinii,,"Kiener, 1844",,NA,NA,NA,Phillipines,1980-01-01,P.Clover,,
-242,Gastropoda,Caenogastropoda,Littorinimorpha,,Erosaria,Naria,turdus,,"Lamarck, 1810",,NA,NA,NA,Australia,1980-01-01,M.Hotner,,original status: unaccepted; mismatch: genus: Erosaria → Naria
-249,Gastropoda,Caenogastropoda,Littorinimorpha,,Naria,Naria,helvola,,"Linnaeus, 1758",,NA,NA,NA,Phillipines,1970-01-01,R.Cumtos,,
-106,Gastropoda,Caenogastropoda,Neogastropoda,,Nassarius,Nassarius,capensis,,"Dunker, 1846",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,A.Wilson,,
-99,Gastropoda,Neritimorpha,CYCLONERITIMORPHA,NERITIDAE,Nerita,Nerita,plicata,,Linnaeus,1758,NA,Marina Beach,KwaZulu-Natal,South Africa,1970-11-01,A.Wilson,,
-104,Gastropoda,Neritimorpha,Cycloneritida,,Nerita,Nerita,textilis,,Gmelin,1791,NA,NA,Santa Carolina Island,Mozambique,1976-01-01,A.Wilson,,
-105,Gastropoda,Neritimorpha,Cycloneritida,,Nerita,Nerita,textilis,,Gmelin,1791,NA,Southbroom,KwaZulu-Natal,South Africa,1970-10-01,A.Wilson,,
-113,Gastropoda,Neritimorpha,Cycloneritida,,Nerita,Nerita,polita,,Linnaeus,1758,NA,Port Edward,KwaZulu-Natal,South Africa,1976-12-01,A.Wilson,,
-116,Gastropoda,Neritimorpha,Cycloneritida,,Nerita,Nerita,albicilla,,Linnaeus,1758,NA,Marina Beach,KwaZulu-Natal,South Africa,1976-11-01,A.Wilson,,
-263,Gastropoda,Neritimorpha,Cycloneritida,,Nerita,Nerita,NA,NA,Linnaeus,1758,NA,NA,NA,Papua-New Guinea,1979-01-01,J.Leroi,,
-1218,Gastropoda,Caenogastropoda,Littorinimorpha,,Neverita,Neverita,lewisii,,"A. A. Gould, 1847",,NA,NA,NA,NA,,,no data; likely Bamfield,
-1212,Gastropoda,Caenogastropoda,Neogastropoda,,Nucella,Nucella,ostrina,,"A. A. Gould, 1852",,NA,NA,NA,NA,1986-01-01,A.M.Leroi,no data; likely Bamfield,
-20,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Nucleolaria,Nucleolaria,nucleus,,"Linnaeus, 1758",,NA,NA,"Samar Sea, Eastern",Phillipines,1978-01-01,Carfel,,
-216,Gastropoda,Caenogastropoda,Neogastropoda,,Oliva,Oliva,incrassata,,"[Lightfoot], 1786",,NA,La Paz,,Mexico,1977-07-01,,,
-260,Gastropoda,Caenogastropoda,Neogastropoda,,Oliva,Oliva,bulbiformis,,Duclos,1840,NA,NA,NA,Phillipines,1973-01-01,,,
-165,Gastropoda,Caenogastropoda,incertae sedis,,Opalia,Opalia,coronata,,"R. A. Philippi & Scacchi, 1840",,NA,"Knokke, Het Zwin",Flanders,Belgium,1976-01-01,A.M.Leroi,beach,
-170,Gastropoda,Caenogastropoda,incertae sedis,,Opalia,Opalia,coronata,,"R. A. Philippi & Scacchi, 1840",,NA,Zululand,KwaZulu-Natal,South Africa,1976-01-01,v.Hardijzer,beach; uncertain ID,
-182,Gastropoda,Caenogastropoda,incertae sedis,,Opalia,Opalia,coronata,,"R. A. Philippi & Scacchi, 1840",,NA,Jeffrey's Bay,Cape,South Africa,1977-01-01,H.Boswell,,
-215,Gastropoda,Heterobranchia,Stylommatophora,,Opeas,Opeas,lineare,,"Krauss, 1848",,NA,"Farie-Glen, Pretoria",Gauteng,South Africa,1979-01-01,H.Zurich,most northern record,
-238,Gastropoda,Caenogastropoda,Littorinimorpha,,Ovatipsa,Ovatipsa,chinensis,,"Gmelin, 1791",,NA,NA,NA,Phillipines,1980-01-01,G.Jeffrey,,
-53,Gastropoda,Caenogastropoda,,OVULIDAE,Ovula,Ovula,ovum,,"Linnaeus, 1758",,NA,NA,NA,NA,1976-01-01,"Eaton Shells,London",,
-135,Gastropoda,Caenogastropoda,Neogastropoda,,Oxymeris,Oxymeris,dimidiata,,"Linnaeus, 1758",,NA,NA,North,Mozambique,1970-01-01,R.Zurich,,
-66,Gastropoda,Vetigastropoda,VETIGASTROPODA,TROCHIDAE,Oxystele,Oxystele,variegata,,D. G. Herbert,2015,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,,original status: unaccepted
-68,Gastropoda,Vetigastropoda,VETIGASTROPODA,TROCHIDAE,Oxystele,Oxystele,tabularis,,"Krauss, 1848",,NA,Marina Beach,KwaZulu-Natal,South Africa,1976-11-01,A.Wilson,beach,
-190,Gastropoda,Vetigastropoda,Trochida,,Oxystele,Oxystele,sinensis,,"Gmelin, 1791",,NA,Jeffrey's Bay,Cape,South Africa,1975-01-01,K.Worthington,beach,
-1228,Gastropoda,Caenogastropoda,Neogastropoda,,Adelomelon,Pachycymbiola,ferussacii,,"Donovan, 1824",,NA,Puerto Deseado,Patagonia,Argentina,,,fossil; Quaternary,original status: unaccepted; mismatch: genus: Adelomelon → Pachycymbiola
-13,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Palmadusta,Palmadusta,lutea,,"Gmelin, 1791",,NA,NA,Sulu Sea,Phillipines,1978-01-01,Carfel,,
-24,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Palmadusta,Palmadusta,diluculum,,"Reeve, 1845",,NA,NA,North,Mozambique,1968-01-01,A.Wilson,,
-25,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Palmadusta,Palmadusta,clandestina,,"Linnaeus, 1767",,NA,Mactan Island,NA,Phillipines,1978-01-01,Carfel,,
-39,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Palmadusta,Palmadusta,asellus,,"Linnaeus, 1758",,NA,NA,"Samar Sea, Eastern",Phillipines,1978-01-01,Carfel,,
-1173,Bivalvia,Autobranchia,Adapedonta,,Panopea,Panopea,glycimeris,,"Born, 1778",,NA,Setubal,NA,Portugal,1980-01-01,C.Lages,,
-1153,Gastropoda,Patellogastropoda,PATELLOGASTROPODA,PATELLIDAE,Patella,Patella,aspera,,Röding,1798,NA,Lagoa,Sao Miguel,Azores,1985-01-01,C.Lages,,
-1154,Bivalvia,Autobranchia,PECTINIDA,PECTINIDAE,Pecten,Pecten,maximus,,"Linnaeus, 1758",,NA,Armacao de Pera,Algarve,Portugal,1980-01-01,C.Lages,,
-1234,Gastropoda,Caenogastropoda,Neogastropoda,,Penion,Penion,mandarinus,,"Duclos, 1832",,NA,NA,NA,NA,,A.M.Leroi&J.C.Leroi,"no data; beach from parents's shells, likely Australia, New South Wales, Sydney",
-189,Gastropoda,Caenogastropoda,Neogastropoda,,Peristernia,Peristernia,forskalii,,"Tapparone Canefri, 1875",,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,beach,
-1182,Gastropoda,Vetigastropoda,Trochida,,Phasianella,Phasianella,ventricosa,,Swainson,1822,NA,Shell Harbour,New South Wales,Australia,1948-01-01,J.Leroi,beach,
-292,Bivalvia,Autobranchia,Ostreida,,Pinctada,Pinctada,capensis,,"G. B. Sowerby III, 1890",,NA,Jeffrey's Bay,Cape,South Africa,1969-10-01,A.Wilson,,
-291,Gastropoda,Caenogastropoda,Neogastropoda,,Pleuroploca,Pleuroploca,trapezium,,"Linnaeus, 1758",,NA,Mussel Bay,Cape,South Africa,1968-10-01,Jenner,,
-100,Gastropoda,Caenogastropoda,,NATICIDAE,Polinices,Polinices,mammilla,,"Linnaeus, 1758",,NA,North of St. Lucia,KwaZulu-Natal,South Africa,1973-11-01,R.Zurich,,
-256,Bivalvia,Autobranchia,Venerida,,Polititapes,Polititapes,rhomboides,,"Pennant, 1777",,NA,Portimao,Algarve,Portugal,1980-02-01,A.Monteiro,,
-148,Gastropoda,Caenogastropoda,Neogastropoda,,Pteropurpura,Poropteron,uncinaria,,"Lamarck, 1822",,NA,"Port St. Johns, Sugarloaf Rock",Cape,South Africa,1975-03-01,R.Zurich,,original status: unaccepted; mismatch: genus: Pteropurpura → Poropteron
-1229,Gastropoda,Caenogastropoda,Neogastropoda,,Fusinus,Propefusus,novaehollandiae,,"Reeve, 1848",,NA,NA,NA,NA,,A.M.Leroi&J.C.Leroi,"no data; beach from parents's shells, likely Australia, New South Wales, Sydney",original status: superseded combination; mismatch: genus: Fusinus → Propefusus
-245,Gastropoda,Caenogastropoda,Littorinimorpha,,Pseudozonaria,Pseudozonaria,arabicula,,"Lamarck, 1810",,NA,Manzanilla,,Mexico,,,,
-299,Gastropoda,Caenogastropoda,Neogastropoda,,Pteropurpura,Pteropurpura,,,Jousseaume,1880,NA,NA,NA,Papua-New Guinea,1979-05-01,J.Leroi,triptenus an invalid name,"species ""triptenus"" not found; genus-only match"
-130,Gastropoda,Vetigastropoda,Lepetellida,,Pupillaea,Pupillaea,aperta,,"G. B. Sowerby I, 1825",,NA,NA,NA,South Africa,,,,
-150,Gastropoda,Caenogastropoda,Neogastropoda,,Thais,Purpura,bufo,,Lamarck,1822,NA,Durban,KwaZulu-Natal,South Africa,1970-01-01,A.Wilson,,original status: superseded combination; mismatch: genus: Thais → Purpura
-207,Gastropoda,Caenogastropoda,Neogastropoda,,Purpura,Purpura,persica,,"Linnaeus, 1758",,NA,Cape Vidal,KwaZulu-Natal,South Africa,1977-01-01,E.Ralph,,
-19,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Purpuradusta,Purpuradusta,fimbriata,,"Gmelin, 1791",,NA,NA,North,Mozambique,1979-01-01,H.Boswell,juvenile,
-15,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Pustularia,Pustularia,bistrinotata,,M. Schilder & F. A. Schilder,1937,NA,NA,"Samar Sea, Eastern",Phillipines,1979-01-01,Carfel,,
-159,Gastropoda,Caenogastropoda,Neogastropoda,,Pyrene,Pyrene,flava,,"Bruguière, 1789",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Killick,beach,
-102,Gastropoda,Caenogastropoda,Littorinimorpha,,Naticarius,Quantonatica,alapapilionis,,"Röding, 1798",,NA,Marina Beach,KwaZulu-Natal,South Africa,1971-09-01,R.Zurich,beach,original status: unaccepted; mismatch: genus: Naticarius → Quantonatica
-74,Gastropoda,Caenogastropoda,Neogastropoda,MITRIDAE,Mitra,Quasimitra,latruncularia,,"Reeve, 1844",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,,original status: unaccepted; mismatch: genus: Mitra → Quasimitra
-187,Gastropoda,Caenogastropoda,Neogastropoda,,Quasimitra,Quasimitra,latruncularia,,"Reeve, 1844",,NA,Jeffrey's Bay,Cape,South Africa,1976-08-01,M.Killick,beach,
-1152,Gastropoda,Caenogastropoda,,RANELLIDAE,Ranella,Ranella,olearium,,"Linnaeus, 1758",,NA,Setubal,NA,Portugal,1980-01-01,C.Lages,,
-18,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Ransoniella,Ransoniella,punctata,,"Linnaeus, 1771",,NA,Mactan Island,NA,Phillipines,1978-01-01,Carfel,,
-1184,Bivalvia,Autobranchia,Venerida,,Ruditapes,Ruditapes,decussatus,,Chiamenti,1900,NA,Tavira,Algarve,Portugal,1980-01-01,C.Lages,,"species ""descussatus"" not found; genus-only match"
-261,Gastropoda,Caenogastropoda,Neogastropoda,,Scabricola,Scabricola,olivaeformis,,"Swainson, 1821",,NA,NA,NA,Papua-New Guinea,1979-01-01,J.Leroi,,status: unreplaced junior homonym
-155,Gastropoda,Caenogastropoda,Neogastropoda,,Scalptia,Scalptia,foveolata,,"G. B. Sowerby II, 1849",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
-156,Gastropoda,Caenogastropoda,Neogastropoda,,Scalptia,Scalptia,foveolata,,"G. B. Sowerby II, 1849",,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,beach,
-75,Gastropoda,Patellogastropoda,PATELLOGASTROPODA,PATELLIDAE,Scutellastra,Scutellastra,barbara,,"Linnaeus, 1758",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
-84,Gastropoda,Patellogastropoda,PATELLOGASTROPODA,PATELLIDAE,Scutellastra,Scutellastra,longicosta,,"Lamarck, 1819",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,,
-86,Gastropoda,Patellogastropoda,PATELLOGASTROPODA,PATELLIDAE,Scutellastra,Scutellastra,barbara,,"Linnaeus, 1758",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,,
-90,Gastropoda,Patellogastropoda,PATELLOGASTROPODA,PATELLIDAE,Scutellastra,Scutellastra,granularis,,"Linnaeus, 1758",,NA,Marina Beach,KwaZulu-Natal,South Africa,1976-12-01,A.Wilson,,
-202,Gastropoda,Patellogastropoda,Patellida,,Scutellastra,Scutellastra,argenvillei,,"Krauss, 1848",,NA,False Bay,Cape,South Africa,1976-01-01,Kerr,,
-180,Gastropoda,Caenogastropoda,Littorinimorpha,,Semicassis,Semicassis,labiata,,"G. Perry, 1811",,NA,10km N. of Port St. Johns,Cape,South Africa,1977-03-01,R.Zurich,beach,
-126,Gastropoda,Heterobranchia,Siphonariida,,Siphonaria,Siphonaria,serrata,,"Fischer von Waldheim, 1807",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
-118,Gastropoda,Neritimorpha,Cycloneritida,,Smaragdia,Smaragdia,viridis,,"Linnaeus, 1758",,NA,Jeffrey'sBay,KwaZulu-Natal,South Africa,1977-01-01,H.Boswell,beach,
-1146,Bivalvia,Autobranchia,VENERIDA,MACTRIDAE,Spisula,Spisula,solida,,"Linnaeus, 1758",,NA,NA,NA,Portugal,1980-01-01,C.Lages,,
-27,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Staphylaea,Staphylaea,staphylaea,,"Linnaeus, 1758",,NA,NA,Potias,Phillipines,1978-01-01,Carfel,unclear location,
-28,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Staphylaea,Staphylaea,limacina,,"Lamarck, 1810",,NA,NA,Samar Sea,Phillipines,1978-01-01,Carfel,,
-1195,Gastropoda,Vetigastropoda,Trochida,,Steromphala,Steromphala,cineraria,,"Linnaeus, 1758",,NA,Alpurtuche,Arrabida,Portugal,1980-01-01,C.Lages,,
-43,Gastropoda,Caenogastropoda,Littorinimorpha,CYPRAEIDAE,Talparia,Talparia,talpa,,"Linnaeus, 1758",,NA,NA,NA,Phillipines,1976-07-01,Grobler,,
-103,Gastropoda,Caenogastropoda,Littorinimorpha,,Tectonatica,Tectonatica,tecta,,"Anton, 1838",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
-199,Gastropoda,Caenogastropoda,Littorinimorpha,,Tectonatica,Tectonatica,tecta,,"Anton, 1838",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,H.Boswell,"beach, juvenile",
-1204,Bivalvia,Autobranchia,Venerida,,Tresus,Tresus,nuttallii,,"Conrad, 1837",,NA,"Vancouver Island, Patricia Bay",British Columbia,Canada,1978-06-01,A.M.Leroi,,
-208,Gastropoda,Vetigastropoda,Trochida,,Tricolia,Tricolia,pullus,,"Linnaeus, 1758",,NA,Olhao,Algarve,Portugal,1980-08-01,A.Monteiro,,
-151,Gastropoda,Caenogastropoda,Neogastropoda,,Trigonostoma,Trigonostoma,semidisjunctum,,"G. B. Sowerby II, 1849",,NA,Jeffrey's Bay,Cape,South Africa,,H.Boswell,beach,
-1168,Gastropoda,Caenogastropoda,Neogastropoda,,Tritia,Tritia,reticulata,,"Linnaeus, 1758",,NA,"Faro, Rio Formosa",Algarve,Portugal,1980-01-01,C.Lages,,
-1205,Gastropoda,Caenogastropoda,Neogastropoda,,Tritia,Tritia,reticulata,,"Linnaeus, 1758",,NA,"Faro, Rio Formosa",Algarve,Portugal,1980-01-01,C.Lages,,
+29,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Naria,Naria,erosa,,"Linnaeus, 1758",,NA,Sydney,New South Wales,Australia,1976-01-01,M.Leroi,beach,
+31,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Naria,Naria,miliaris,,"Gmelin, 1791",,NA,NA,NA,Mauritius,1976-01-01,,,
+47,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Naria,Naria,erosa,,"Linnaeus, 1758",,NA,Inhaca Island,Maputo,Mozambique,1970-01-01,J.Polock,,
+48,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Naria,Naria,lamarckii,,"J. E. Gray, 1825",,NA,Inhambane,Inhambane,Mozambique,1969-01-01,Wallace,,
+55,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Erosaria,Naria,spurca,,"Linnaeus, 1758",,NA,NA,NA,NA,1978-01-01,M.Hotner,Mediterranean,original status: unaccepted; mismatch: genus: Erosaria → Naria
+57,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Naria,Naria,turdus,,"Lamarck, 1810",,NA,NA,NA,Red Sea,1978-01-01,M.Hotner,var. pardinalis,
+60,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Naria,Naria,ocellata,,"Linnaeus, 1758",,NA,NA,NA,India,1978-01-01,M.Hotner,,
+240,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Naria,Naria,boivinii,,"Kiener, 1844",,NA,NA,NA,Phillipines,1980-01-01,P.Clover,,
+242,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Erosaria,Naria,turdus,,"Lamarck, 1810",,NA,NA,NA,Australia,1980-01-01,M.Hotner,,original status: unaccepted; mismatch: genus: Erosaria → Naria
+249,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Naria,Naria,helvola,,"Linnaeus, 1758",,NA,NA,NA,Phillipines,1970-01-01,R.Cumtos,,
+106,Gastropoda,Caenogastropoda,Neogastropoda,Nassariidae,Nassarius,Nassarius,capensis,,"Dunker, 1846",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,A.Wilson,,
+99,Gastropoda,Neritimorpha,Cycloneritimorpha,Neritidae,Nerita,Nerita,plicata,,Linnaeus,1758,NA,Marina Beach,KwaZulu-Natal,South Africa,1970-11-01,A.Wilson,,
+104,Gastropoda,Neritimorpha,Cycloneritida,Neritidae,Nerita,Nerita,textilis,,Gmelin,1791,NA,NA,Santa Carolina Island,Mozambique,1976-01-01,A.Wilson,,
+105,Gastropoda,Neritimorpha,Cycloneritida,Neritidae,Nerita,Nerita,textilis,,Gmelin,1791,NA,Southbroom,KwaZulu-Natal,South Africa,1970-10-01,A.Wilson,,
+113,Gastropoda,Neritimorpha,Cycloneritida,Neritidae,Nerita,Nerita,polita,,Linnaeus,1758,NA,Port Edward,KwaZulu-Natal,South Africa,1976-12-01,A.Wilson,,
+116,Gastropoda,Neritimorpha,Cycloneritida,Neritidae,Nerita,Nerita,albicilla,,Linnaeus,1758,NA,Marina Beach,KwaZulu-Natal,South Africa,1976-11-01,A.Wilson,,
+263,Gastropoda,Neritimorpha,Cycloneritida,Neritidae,Nerita,Nerita,NA,NA,Linnaeus,1758,NA,NA,NA,Papua-New Guinea,1979-01-01,J.Leroi,,
+1218,Gastropoda,Caenogastropoda,Littorinimorpha,Naticidae,Neverita,Neverita,lewisii,,"A. A. Gould, 1847",,NA,NA,NA,NA,,,no data; likely Bamfield,
+1212,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Nucella,Nucella,ostrina,,"A. A. Gould, 1852",,NA,NA,NA,NA,1986-01-01,A.M.Leroi,no data; likely Bamfield,
+20,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Nucleolaria,Nucleolaria,nucleus,,"Linnaeus, 1758",,NA,NA,"Samar Sea, Eastern",Phillipines,1978-01-01,Carfel,,
+216,Gastropoda,Caenogastropoda,Neogastropoda,Olividae,Oliva,Oliva,incrassata,,"[Lightfoot], 1786",,NA,La Paz,,Mexico,1977-07-01,,,
+260,Gastropoda,Caenogastropoda,Neogastropoda,Olividae,Oliva,Oliva,bulbiformis,,Duclos,1840,NA,NA,NA,Phillipines,1973-01-01,,,
+165,Gastropoda,Caenogastropoda,Incertae sedis,Epitoniidae,Opalia,Opalia,coronata,,"R. A. Philippi & Scacchi, 1840",,NA,"Knokke, Het Zwin",Flanders,Belgium,1976-01-01,A.M.Leroi,beach,
+170,Gastropoda,Caenogastropoda,Incertae sedis,Epitoniidae,Opalia,Opalia,coronata,,"R. A. Philippi & Scacchi, 1840",,NA,Zululand,KwaZulu-Natal,South Africa,1976-01-01,v.Hardijzer,beach; uncertain ID,
+182,Gastropoda,Caenogastropoda,Incertae sedis,Epitoniidae,Opalia,Opalia,coronata,,"R. A. Philippi & Scacchi, 1840",,NA,Jeffrey's Bay,Cape,South Africa,1977-01-01,H.Boswell,,
+215,Gastropoda,Heterobranchia,Stylommatophora,Achatinidae,Opeas,Opeas,lineare,,"Krauss, 1848",,NA,"Farie-Glen, Pretoria",Gauteng,South Africa,1979-01-01,H.Zurich,most northern record,
+238,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Ovatipsa,Ovatipsa,chinensis,,"Gmelin, 1791",,NA,NA,NA,Phillipines,1980-01-01,G.Jeffrey,,
+53,Gastropoda,Caenogastropoda,Littorinimorpha,Ovulidae,Ovula,Ovula,ovum,,"Linnaeus, 1758",,NA,NA,NA,NA,1976-01-01,"Eaton Shells,London",,
+135,Gastropoda,Caenogastropoda,Neogastropoda,Terebridae,Oxymeris,Oxymeris,dimidiata,,"Linnaeus, 1758",,NA,NA,North,Mozambique,1970-01-01,R.Zurich,,
+66,Gastropoda,Vetigastropoda,Vetigastropoda,Trochidae,Oxystele,Oxystele,variegata,,D. G. Herbert,2015,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,,original status: unaccepted
+68,Gastropoda,Vetigastropoda,Vetigastropoda,Trochidae,Oxystele,Oxystele,tabularis,,"Krauss, 1848",,NA,Marina Beach,KwaZulu-Natal,South Africa,1976-11-01,A.Wilson,beach,
+190,Gastropoda,Vetigastropoda,Trochida,Trochidae,Oxystele,Oxystele,sinensis,,"Gmelin, 1791",,NA,Jeffrey's Bay,Cape,South Africa,1975-01-01,K.Worthington,beach,
+1228,Gastropoda,Caenogastropoda,Neogastropoda,Volutidae,Adelomelon,Pachycymbiola,ferussacii,,"Donovan, 1824",,NA,Puerto Deseado,Patagonia,Argentina,,,fossil; Quaternary,original status: unaccepted; mismatch: genus: Adelomelon → Pachycymbiola
+13,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Palmadusta,Palmadusta,lutea,,"Gmelin, 1791",,NA,NA,Sulu Sea,Phillipines,1978-01-01,Carfel,,
+24,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Palmadusta,Palmadusta,diluculum,,"Reeve, 1845",,NA,NA,North,Mozambique,1968-01-01,A.Wilson,,
+25,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Palmadusta,Palmadusta,clandestina,,"Linnaeus, 1767",,NA,Mactan Island,NA,Phillipines,1978-01-01,Carfel,,
+39,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Palmadusta,Palmadusta,asellus,,"Linnaeus, 1758",,NA,NA,"Samar Sea, Eastern",Phillipines,1978-01-01,Carfel,,
+1173,Bivalvia,Autobranchia,Adapedonta,Hiatellidae,Panopea,Panopea,glycimeris,,"Born, 1778",,NA,Setubal,NA,Portugal,1980-01-01,C.Lages,,
+1153,Gastropoda,Patellogastropoda,Patellogastropoda,Patellidae,Patella,Patella,aspera,,Röding,1798,NA,Lagoa,Sao Miguel,Azores,1985-01-01,C.Lages,,
+1154,Bivalvia,Autobranchia,Pectinida,Pectinidae,Pecten,Pecten,maximus,,"Linnaeus, 1758",,NA,Armacao de Pera,Algarve,Portugal,1980-01-01,C.Lages,,
+1234,Gastropoda,Caenogastropoda,Neogastropoda,Austrosiphonidae,Penion,Penion,mandarinus,,"Duclos, 1832",,NA,NA,NA,NA,,A.M.Leroi&J.C.Leroi,"no data; beach from parents's shells, likely Australia, New South Wales, Sydney",
+189,Gastropoda,Caenogastropoda,Neogastropoda,Fasciolariidae,Peristernia,Peristernia,forskalii,,"Tapparone Canefri, 1875",,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,beach,
+1182,Gastropoda,Vetigastropoda,Trochida,Phasianellidae,Phasianella,Phasianella,ventricosa,,Swainson,1822,NA,Shell Harbour,New South Wales,Australia,1948-01-01,J.Leroi,beach,
+292,Bivalvia,Autobranchia,Ostreida,Margaritidae,Pinctada,Pinctada,capensis,,"G. B. Sowerby III, 1890",,NA,Jeffrey's Bay,Cape,South Africa,1969-10-01,A.Wilson,,
+291,Gastropoda,Caenogastropoda,Neogastropoda,Fasciolariidae,Pleuroploca,Pleuroploca,trapezium,,"Linnaeus, 1758",,NA,Mussel Bay,Cape,South Africa,1968-10-01,Jenner,,
+100,Gastropoda,Caenogastropoda,Littorinimorpha,Naticidae,Polinices,Polinices,mammilla,,"Linnaeus, 1758",,NA,North of St. Lucia,KwaZulu-Natal,South Africa,1973-11-01,R.Zurich,,
+256,Bivalvia,Autobranchia,Venerida,Veneridae,Polititapes,Polititapes,rhomboides,,"Pennant, 1777",,NA,Portimao,Algarve,Portugal,1980-02-01,A.Monteiro,,
+148,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Pteropurpura,Poropteron,uncinaria,,"Lamarck, 1822",,NA,"Port St. Johns, Sugarloaf Rock",Cape,South Africa,1975-03-01,R.Zurich,,original status: unaccepted; mismatch: genus: Pteropurpura → Poropteron
+1229,Gastropoda,Caenogastropoda,Neogastropoda,Fasciolariidae,Fusinus,Propefusus,novaehollandiae,,"Reeve, 1848",,NA,NA,NA,NA,,A.M.Leroi&J.C.Leroi,"no data; beach from parents's shells, likely Australia, New South Wales, Sydney",original status: superseded combination; mismatch: genus: Fusinus → Propefusus
+245,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Pseudozonaria,Pseudozonaria,arabicula,,"Lamarck, 1810",,NA,Manzanilla,,Mexico,,,,
+299,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Pteropurpura,Pteropurpura,,,Jousseaume,1880,NA,NA,NA,Papua-New Guinea,1979-05-01,J.Leroi,triptenus an invalid name,"species ""triptenus"" not found; genus-only match"
+130,Gastropoda,Vetigastropoda,Lepetellida,Fissurellidae,Pupillaea,Pupillaea,aperta,,"G. B. Sowerby I, 1825",,NA,NA,NA,South Africa,,,,
+150,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Thais,Purpura,bufo,,Lamarck,1822,NA,Durban,KwaZulu-Natal,South Africa,1970-01-01,A.Wilson,,original status: superseded combination; mismatch: genus: Thais → Purpura
+207,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Purpura,Purpura,persica,,"Linnaeus, 1758",,NA,Cape Vidal,KwaZulu-Natal,South Africa,1977-01-01,E.Ralph,,
+19,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Purpuradusta,Purpuradusta,fimbriata,,"Gmelin, 1791",,NA,NA,North,Mozambique,1979-01-01,H.Boswell,juvenile,
+15,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Pustularia,Pustularia,bistrinotata,,M. Schilder & F. A. Schilder,1937,NA,NA,"Samar Sea, Eastern",Phillipines,1979-01-01,Carfel,,
+159,Gastropoda,Caenogastropoda,Neogastropoda,Columbellidae,Pyrene,Pyrene,flava,,"Bruguière, 1789",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Killick,beach,
+102,Gastropoda,Caenogastropoda,Littorinimorpha,Naticidae,Naticarius,Quantonatica,alapapilionis,,"Röding, 1798",,NA,Marina Beach,KwaZulu-Natal,South Africa,1971-09-01,R.Zurich,beach,original status: unaccepted; mismatch: genus: Naticarius → Quantonatica
+74,Gastropoda,Caenogastropoda,Neogastropoda,Mitridae,Mitra,Quasimitra,latruncularia,,"Reeve, 1844",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,,original status: unaccepted; mismatch: genus: Mitra → Quasimitra
+187,Gastropoda,Caenogastropoda,Neogastropoda,Mitridae,Quasimitra,Quasimitra,latruncularia,,"Reeve, 1844",,NA,Jeffrey's Bay,Cape,South Africa,1976-08-01,M.Killick,beach,
+1152,Gastropoda,Caenogastropoda,Littorinimorpha,Ranellidae,Ranella,Ranella,olearium,,"Linnaeus, 1758",,NA,Setubal,NA,Portugal,1980-01-01,C.Lages,,
+18,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Ransoniella,Ransoniella,punctata,,"Linnaeus, 1771",,NA,Mactan Island,NA,Phillipines,1978-01-01,Carfel,,
+1184,Bivalvia,Autobranchia,Venerida,Veneridae,Ruditapes,Ruditapes,decussatus,,Chiamenti,1900,NA,Tavira,Algarve,Portugal,1980-01-01,C.Lages,,"species ""descussatus"" not found; genus-only match"
+261,Gastropoda,Caenogastropoda,Neogastropoda,Mitridae,Scabricola,Scabricola,olivaeformis,,"Swainson, 1821",,NA,NA,NA,Papua-New Guinea,1979-01-01,J.Leroi,,status: unreplaced junior homonym
+155,Gastropoda,Caenogastropoda,Neogastropoda,Cancellariidae,Scalptia,Scalptia,foveolata,,"G. B. Sowerby II, 1849",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
+156,Gastropoda,Caenogastropoda,Neogastropoda,Cancellariidae,Scalptia,Scalptia,foveolata,,"G. B. Sowerby II, 1849",,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,beach,
+75,Gastropoda,Patellogastropoda,Patellogastropoda,Patellidae,Scutellastra,Scutellastra,barbara,,"Linnaeus, 1758",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
+84,Gastropoda,Patellogastropoda,Patellogastropoda,Patellidae,Scutellastra,Scutellastra,longicosta,,"Lamarck, 1819",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,,
+86,Gastropoda,Patellogastropoda,Patellogastropoda,Patellidae,Scutellastra,Scutellastra,barbara,,"Linnaeus, 1758",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,,
+90,Gastropoda,Patellogastropoda,Patellogastropoda,Patellidae,Scutellastra,Scutellastra,granularis,,"Linnaeus, 1758",,NA,Marina Beach,KwaZulu-Natal,South Africa,1976-12-01,A.Wilson,,
+202,Gastropoda,Patellogastropoda,Patellida,Patellidae,Scutellastra,Scutellastra,argenvillei,,"Krauss, 1848",,NA,False Bay,Cape,South Africa,1976-01-01,Kerr,,
+180,Gastropoda,Caenogastropoda,Littorinimorpha,Cassidae,Semicassis,Semicassis,labiata,,"G. Perry, 1811",,NA,10km N. of Port St. Johns,Cape,South Africa,1977-03-01,R.Zurich,beach,
+126,Gastropoda,Heterobranchia,Siphonariida,Siphonariidae,Siphonaria,Siphonaria,serrata,,"Fischer von Waldheim, 1807",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
+118,Gastropoda,Neritimorpha,Cycloneritida,Neritidae,Smaragdia,Smaragdia,viridis,,"Linnaeus, 1758",,NA,Jeffrey'sBay,KwaZulu-Natal,South Africa,1977-01-01,H.Boswell,beach,
+1146,Bivalvia,Autobranchia,Venerida,Mactridae,Spisula,Spisula,solida,,"Linnaeus, 1758",,NA,NA,NA,Portugal,1980-01-01,C.Lages,,
+27,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Staphylaea,Staphylaea,staphylaea,,"Linnaeus, 1758",,NA,NA,Potias,Phillipines,1978-01-01,Carfel,unclear location,
+28,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Staphylaea,Staphylaea,limacina,,"Lamarck, 1810",,NA,NA,Samar Sea,Phillipines,1978-01-01,Carfel,,
+1195,Gastropoda,Vetigastropoda,Trochida,Trochidae,Steromphala,Steromphala,cineraria,,"Linnaeus, 1758",,NA,Alpurtuche,Arrabida,Portugal,1980-01-01,C.Lages,,
+43,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Talparia,Talparia,talpa,,"Linnaeus, 1758",,NA,NA,NA,Phillipines,1976-07-01,Grobler,,
+103,Gastropoda,Caenogastropoda,Littorinimorpha,Naticidae,Tectonatica,Tectonatica,tecta,,"Anton, 1838",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
+199,Gastropoda,Caenogastropoda,Littorinimorpha,Naticidae,Tectonatica,Tectonatica,tecta,,"Anton, 1838",,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,H.Boswell,"beach, juvenile",
+1204,Bivalvia,Autobranchia,Venerida,Mactridae,Tresus,Tresus,nuttallii,,"Conrad, 1837",,NA,"Vancouver Island, Patricia Bay",British Columbia,Canada,1978-06-01,A.M.Leroi,,
+208,Gastropoda,Vetigastropoda,Trochida,Phasianellidae,Tricolia,Tricolia,pullus,,"Linnaeus, 1758",,NA,Olhao,Algarve,Portugal,1980-08-01,A.Monteiro,,
+151,Gastropoda,Caenogastropoda,Neogastropoda,Cancellariidae,Trigonostoma,Trigonostoma,semidisjunctum,,"G. B. Sowerby II, 1849",,NA,Jeffrey's Bay,Cape,South Africa,,H.Boswell,beach,
+1168,Gastropoda,Caenogastropoda,Neogastropoda,Nassariidae,Tritia,Tritia,reticulata,,"Linnaeus, 1758",,NA,"Faro, Rio Formosa",Algarve,Portugal,1980-01-01,C.Lages,,
+1205,Gastropoda,Caenogastropoda,Neogastropoda,Nassariidae,Tritia,Tritia,reticulata,,"Linnaeus, 1758",,NA,"Faro, Rio Formosa",Algarve,Portugal,1980-01-01,C.Lages,,
 6,Gastropoda,Caenogastropoda,Littorinimorpha,Triviidae,Trivia,Trivellona,suavis,suavis,F. A. Schilder,1931,NA,Jeffrey's Bay,Cape,South Africa,1977-01-01,,beach,unaccepted
 10,Gastropoda,Caenogastropoda,Littorinimorpha,Triviidae,Trivia,Triviella,ovulata,ovulata,Lamarck,1810,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,unaccepted
 11,Gastropoda,Caenogastropoda,Littorinimorpha,Triviidae,Trivia,Triviella,phalacra,phalacra,F. A. Schilder,1930,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,superseded combination
 12,Gastropoda,Caenogastropoda,Littorinimorpha,Triviidae,Trivia,Triviella,aperta,aperta,Swainson,1822,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,unaccepted
-154,Gastropoda,Caenogastropoda,Littorinimorpha,,Calyptraea,Trochita,helicoidea,,G. B. Sowerby II,1883,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,original status: unaccepted; mismatch: genus: Calyptraea → Trochita
-63,Gastropoda,Vetigastropoda,VETIGASTROPODA,TROCHIDAE,Trochus,Trochus,nigropunctatus,,Reeve,1861,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,,
-61,Gastropoda,Vetigastropoda,VETIGASTROPODA,TURBINIDAE,Turbo,Turbo,cidaris,,Gmelin,1791,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,,
-67,Gastropoda,Vetigastropoda,VETIGASTROPODA,TURBINIDAE,Turbo,Turbo,cidaris,,Gmelin,1791,NA,Margate,KwaZulu-Natal,South Africa,1976-01-01,L.Baartman,beach var. natalensis,
-137,Gastropoda,Caenogastropoda,incertae sedis,Turritellidae,Turritella,Turritella,carinifera,,Lamarck,1822,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
-138,Gastropoda,Caenogastropoda,incertae sedis,Turritellidae,Turritella,Turritella,sanguinea,,Reeve,1849,NA,Mossel Bay,Cape,South Africa,1966-01-01,Jenner,,
-139,Gastropoda,Caenogastropoda,incertae sedis,Turritellidae,Turritella,Turritella,capensis,,Krauss,1848,NA,Jeffrey's Bay,Cape,South Africa,1977-01-01,H.Boswell,beach,
-140,Gastropoda,Caenogastropoda,incertae sedis,Turritellidae,Turritella,Turritella,carinifera,,Lamarck,1822,NA,NA,NA,South Africa,,,beach,
-185,Gastropoda,Caenogastropoda,incertae sedis,,Turritella,Turritella,carinifera,,Lamarck,1822,NA,Jeffrey's Bay,Cape,South Africa,1977-01-01,,beach,
-147,Gastropoda,Caenogastropoda,Neogastropoda,,Thais,Tylothais,virgata,,Röding,1798,NA,Inhaca Island,Maputo,Mozambique,1969-01-01,J.Polock,,"species ""virgata"" not found; genus-only match"
-1161,Gastropoda,Caenogastropoda,Neogastropoda,,Unedogemmula,Unedogemmula,indica,,"Röding, 1798",,NA,NA,NA,NA,,probably J.Leroi Australia,,
-296,Gastropoda,Caenogastropoda,Littorinimorpha,,Varicospira,Varicospira,cancellata,,"Lamarck, 1816",,NA,NA,NA,Papua-New Guinea,1978-01-01,J.Leroi,,
-1151,Bivalvia,Autobranchia,VENERIDA,VENERIDAE,Venus,Venus,verrucosa,,Linnaeus,1758,NA,Setubal,NA,Portugal,1980-01-01,C.Lages,,
-1172,Gastropoda,Caenogastropoda,Neogastropoda,,Vexillum,Vexillum,NA,NA,Röding,1798,NA,NA,NA,NA,1988-01-01,,,
-179,Gastropoda,Caenogastropoda,Neogastropoda,,Voluta,Voluta,NA,NA,Linnaeus,1758,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach; id as bulliotiana,
-224,Gastropoda,Caenogastropoda,Neogastropoda,,Voluta,Voluta,musica,,Linnaeus,1758,NA,Kings Reef,Queensland,Australia,1972-08-01,J.Leroi,very juvenile,
-267,Gastropoda,Caenogastropoda,Neogastropoda,,Volvarina,Volvarina,bilineata,,"Kiener, 1841",,NA,Table Bay,Cape,South Africa,1980-03-01,C.Connolly,,original status: unaccepted
+154,Gastropoda,Caenogastropoda,Littorinimorpha,Calyptraeidae,Calyptraea,Trochita,helicoidea,,G. B. Sowerby II,1883,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,original status: unaccepted; mismatch: genus: Calyptraea → Trochita
+63,Gastropoda,Vetigastropoda,Vetigastropoda,Trochidae,Trochus,Trochus,nigropunctatus,,Reeve,1861,NA,Plettenburg Bay,Cape,South Africa,1976-12-01,G.Monogue,,
+61,Gastropoda,Vetigastropoda,Vetigastropoda,Turbinidae,Turbo,Turbo,cidaris,,Gmelin,1791,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,,
+67,Gastropoda,Vetigastropoda,Vetigastropoda,Turbinidae,Turbo,Turbo,cidaris,,Gmelin,1791,NA,Margate,KwaZulu-Natal,South Africa,1976-01-01,L.Baartman,beach var. natalensis,
+137,Gastropoda,Caenogastropoda,Incertae sedis,Turritellidae,Turritella,Turritella,carinifera,,Lamarck,1822,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach,
+138,Gastropoda,Caenogastropoda,Incertae sedis,Turritellidae,Turritella,Turritella,sanguinea,,Reeve,1849,NA,Mossel Bay,Cape,South Africa,1966-01-01,Jenner,,
+139,Gastropoda,Caenogastropoda,Incertae sedis,Turritellidae,Turritella,Turritella,capensis,,Krauss,1848,NA,Jeffrey's Bay,Cape,South Africa,1977-01-01,H.Boswell,beach,
+140,Gastropoda,Caenogastropoda,Incertae sedis,Turritellidae,Turritella,Turritella,carinifera,,Lamarck,1822,NA,NA,NA,South Africa,,,beach,
+185,Gastropoda,Caenogastropoda,Incertae sedis,Turritellidae,Turritella,Turritella,carinifera,,Lamarck,1822,NA,Jeffrey's Bay,Cape,South Africa,1977-01-01,,beach,
+147,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Thais,Tylothais,virgata,,Röding,1798,NA,Inhaca Island,Maputo,Mozambique,1969-01-01,J.Polock,,"species ""virgata"" not found; genus-only match"
+1161,Gastropoda,Caenogastropoda,Neogastropoda,Turridae,Unedogemmula,Unedogemmula,indica,,"Röding, 1798",,NA,NA,NA,NA,,probably J.Leroi Australia,,
+296,Gastropoda,Caenogastropoda,Littorinimorpha,Rimellidae,Varicospira,Varicospira,cancellata,,"Lamarck, 1816",,NA,NA,NA,Papua-New Guinea,1978-01-01,J.Leroi,,
+1151,Bivalvia,Autobranchia,Venerida,Veneridae,Venus,Venus,verrucosa,,Linnaeus,1758,NA,Setubal,NA,Portugal,1980-01-01,C.Lages,,
+1172,Gastropoda,Caenogastropoda,Neogastropoda,Costellariidae,Vexillum,Vexillum,NA,NA,Röding,1798,NA,NA,NA,NA,1988-01-01,,,
+179,Gastropoda,Caenogastropoda,Neogastropoda,Volutidae,Voluta,Voluta,NA,NA,Linnaeus,1758,NA,Jeffrey's Bay,Cape,South Africa,1976-01-01,M.Mullan,beach; id as bulliotiana,
+224,Gastropoda,Caenogastropoda,Neogastropoda,Volutidae,Voluta,Voluta,musica,,Linnaeus,1758,NA,Kings Reef,Queensland,Australia,1972-08-01,J.Leroi,very juvenile,
+267,Gastropoda,Caenogastropoda,Neogastropoda,Marginellidae,Volvarina,Volvarina,bilineata,,"Kiener, 1841",,NA,Table Bay,Cape,South Africa,1980-03-01,C.Connolly,,original status: unaccepted
