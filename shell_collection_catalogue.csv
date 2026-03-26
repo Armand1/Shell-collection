@@ -296,7 +296,7 @@ id,class,subclass,order,family,genus_original,genus_WoRMS,species_original,speci
 298,Bivalvia,Autobranchia,Cardiida,Sididae,Donax,Latona,madagascariensis,madagascariensis,"W. Wood, 1828",,NA,"Durban, North Beach",KwaZulu-Natal,South Africa,1975-01-01,A.M.Leroi,beach,original status: superseded combination; mismatch: genus: Donax → Latona
 201,Gastropoda,Caenogastropoda,Littorinimorpha,Strombidae,Lentigo,Lentigo,lentiginosus,lentiginosus,"Linnaeus, 1758",,NA,NA,NA,NA,1976-01-01,,,
 1165,Gastropoda,Caenogastropoda,Littorinimorpha,Littorinidae,Littorina,Littorina,saxatilis,saxatilis,A. Férussac,1822,NA,Avencas Beach,Parede (Cascais),Portugal,1980-07-01,C.Lages,,"species ""saxatalis"" not found; genus-only match"
-64,Gastropoda,Vetigastropoda,Vetigastropoda,Turbinidae,Lunella,Lunella,coronatus,,Röding,1798,NA,Gonubie,Cape,South Africa,1976-01-01,J.Scheepers,,"species ""coronatus"" not found; genus-only match"
+64,Gastropoda,Vetigastropoda,Trochida,Turbinidae,Lunella,Lunella,coronatus,coronata,(Gmelin),1791,NA,Gonubie,Cape,South Africa,1976-01-01,J.Scheepers,,species misspelled as coronatus; AphiaID 216363
 65,Gastropoda,Vetigastropoda,Vetigastropoda,Trochidae,Lunella,Lunella,coronata,coronata,"Gmelin, 1791",,NA,Margate,KwaZulu-Natal,South Africa,1976-01-01,L.Baartman,beach,
 236,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Luria,Luria,lurida,lurida,"Linnaeus, 1758",,NA,Salina Bay,,Malta,1979-04-01,P.Clover,,
 250,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Luria,Luria,isabella,isabella,"Linnaeus, 1758",,NA,NA,KwaZulu-Natal,South Africa,1976-01-01,,,
