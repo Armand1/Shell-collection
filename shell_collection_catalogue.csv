@@ -155,7 +155,7 @@ id,class,subclass,order,family,genus_original,genus_WoRMS,species_original,speci
 247,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Palmadusta,Palmadusta,ziczac,ziczac,Iredale,1930,"subtidal, shallow, on eelgrass",NA,Sulu Sea,Phillipines,1970-11-01,R.Cumtos,,"species ""ziczag"" not found; genus-only match"
 262,Gastropoda,Caenogastropoda,Neogastropoda,Olividae,Oliva,Oliva,caribaeensis,scripta,Lamarck,1811,"subtidal, shrimp fishery",NA,NA,Guyana,1978-01-01,,,original status: unaccepted
 1196,Bivalvia,Autobranchia,Mytilida,Modiolidae,Gibbomodiola,Modiolus,adriatica,adriaticus,Lamarck,1819,"subtidal, trawled",Quartiera,Algarve,Portugal,1980-01-01,C.Lages,,original status: unaccepted; mismatch: genus: Gibbomodiola → Modiolus
-1160,NA,NA,NA,NA,Latrius,NA,polygonus,NA,NA,NA,"subtidal, trawled",Lady Musgrave Island,Queensland,Australia,1985-01-01,J.Leroi,,no WoRMS match
+1160,Gastropoda,Caenogastropoda,Neogastropoda,Fasciolariidae,Latrius,Latirus,polygonus,polygonus,(Gmelin),1791,"subtidal, trawled",Lady Musgrave Island,Queensland,Australia,1985-01-01,J.Leroi,,genus misspelled as Latrius; AphiaID 211131
 176,Gastropoda,Caenogastropoda,Littorinimorpha,Cassidae,Phalium,Phalium,NA,NA,Link,1807,"subtidal, trawled",Durban,KwaZulu-Natal,South Africa,1972-08-01,H.Boswell,"id. as P. africanus, but no such species",
 259,Gastropoda,Caenogastropoda,Littorinimorpha,Ranellidae,Ranella,Ranella,olearium,olearium,"Linnaeus, 1758",,"subtidal, trawled 330m",NA,KwaZulu-Natal,South Africa,1959-01-01,H.Boswell,,
 1175,NA,NA,NA,NA,Poirieria,NA,zealandica,NA,NA,NA,"subtidal, trawled, 100m",Auckland,North Island,New Zealand,1987-01-01,J.Leroi,,no WoRMS match
