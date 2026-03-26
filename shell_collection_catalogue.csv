@@ -337,7 +337,7 @@ id,class,subclass,order,family,genus_original,genus_WoRMS,species_original,speci
 1227,Bivalvia,Autobranchia,Mytilida,Mytilidae,Mytilus,Mytilus,californianus,californianus,Conrad,1837,NA,NA,NA,NA,,,no data; likely Bamfield,
 270,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,no genus
 1156,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,"A Patella, probably Portuguese, with the wronglabel",no genus
-1176,NA,NA,NA,NA,Haliotus,NA,brazeri,NA,NA,NA,NA,"Solitary Islands,Coffs Harbour",New South Wales,Australia,1987-01-01,J.Leroi,,no WoRMS match
+1176,Gastropoda,Vetigastropoda,Lepetellida,Haliotidae,Haliotus,Haliotis,brazeri,brazieri,Angas,1869,NA,"Solitary Islands,Coffs Harbour",New South Wales,Australia,1987-01-01,J.Leroi,,genus misspelled as Haliotus; species misspelled as brazeri; AphiaID 445303
 1186,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,,,no genus
 1188,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,New Zealand,1978-01-01,A.Wilson,,no genus
 1189,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Vancouver Island, S. W. Barkley Sound",British Columbia,Canada,1986-01-01,A.M.Leroi,,no genus
