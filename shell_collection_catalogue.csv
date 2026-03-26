@@ -85,7 +85,7 @@ id,class,subclass,order,family,genus_original,genus_WoRMS,species_original,speci
 231,Gastropoda,Caenogastropoda,Littorinimorpha,Littorinidae,Littorina,Littorina,littorea,littorea,"Linnaeus, 1758",,"intertidal, under rocks, on mud",Lagoa de Obidos,Oeste,Portugal,1980-08-01,A.Monteiro,,
 5,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Cypraea,Erronea,ovum,ovum,Gmelin,1791,NA,NA,NA,Philippines,1975-01-01,Carfel,,unaccepted
 9,Gastropoda,Caenogastropoda,Littorinimorpha,Cypraeidae,Cypraea,Talostolida,teres,teres,Gmelin,1791,NA,NA,NA,Philippines,,Carfel,,unaccepted
-1235,NA,NA,NA,NA,Venericor,NA,planicosta,NA,NA,NA,on beach,"Knokke, Het Zwin",Flanders,Belgium,1976-01-01,A.M.Leroi,", fossil, Eocene, 56Ð34 MYA",no WoRMS match
+1235,Bivalvia,Autobranchia,Carditida,Carditidae,Venericor,Venericor,planicosta,planicosta,(Lamarck),1801,on beach,"Knokke, Het Zwin",Flanders,Belgium,1976-01-01,A.M.Leroi,", fossil, Eocene, 56Ð34 MYA",extinct; AphiaID 1557254
 1191,Gastropoda,Caenogastropoda,Neogastropoda,Columbellidae,Anachis,Anachis,fluctuata,fluctuata,"G. B. Sowerby I, 1832",,on rocks,"Panama City, Punta Paitilla",NA,Panama,1984-12-01,S.DeMarzo,,
 168,Gastropoda,Caenogastropoda,Neogastropoda,Buccinoidea incertae sedis,Burnupena,Burnupena,lagenaria,lagenaria,"Lamarck, 1822",,on rocks,"Port St. Johns, Second Beach",Cape,South Africa,1975-03-01,R.Zurich,,
 181,Gastropoda,Caenogastropoda,Littorinimorpha,Littorinidae,Littoraria,Littoraria,coccinea,coccinea,"Gmelin, 1791",,on rocks,Oslo Beach,KwaZulu-Natal,South Africa,1971-09-01,R.Zurich,,
