@@ -158,7 +158,7 @@ id,class,subclass,order,family,genus_original,genus_WoRMS,species_original,speci
 1160,Gastropoda,Caenogastropoda,Neogastropoda,Fasciolariidae,Latrius,Latirus,polygonus,polygonus,(Gmelin),1791,"subtidal, trawled",Lady Musgrave Island,Queensland,Australia,1985-01-01,J.Leroi,,genus misspelled as Latrius; AphiaID 211131
 176,Gastropoda,Caenogastropoda,Littorinimorpha,Cassidae,Phalium,Phalium,NA,NA,Link,1807,"subtidal, trawled",Durban,KwaZulu-Natal,South Africa,1972-08-01,H.Boswell,"id. as P. africanus, but no such species",
 259,Gastropoda,Caenogastropoda,Littorinimorpha,Ranellidae,Ranella,Ranella,olearium,olearium,"Linnaeus, 1758",,"subtidal, trawled 330m",NA,KwaZulu-Natal,South Africa,1959-01-01,H.Boswell,,
-1175,NA,NA,NA,NA,Poirieria,NA,zealandica,NA,NA,NA,"subtidal, trawled, 100m",Auckland,North Island,New Zealand,1987-01-01,J.Leroi,,no WoRMS match
+1175,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Poirieria,Poirieria,zealandica,zelandica,(Quoy & Gaimard),1833,"subtidal, trawled, 100m",Auckland,North Island,New Zealand,1987-01-01,J.Leroi,,species misspelled as zealandica; AphiaID 564697
 1144,Gastropoda,,,Marginellidae,Stazzania,,marginata,,,,"subtidal, trawled, 200ft",Georgetown,NA,Guyana,1987-01-01,J.Leroi,,no WoRMS match
 1187,Gastropoda,Caenogastropoda,Neogastropoda,Volutidae,Fusivoluta,Fusivoluta,clarkei,clarkei,Rehder,1969,"subtidal, trawled, on mud",NA,NA,Mozambique,1987-12-01,,,
 1178,Gastropoda,Vetigastropoda,Trochida,Trochidae,Lirularia,Lirularia,lirulata,lirulata,"P. P. Carpenter, 1864",,under rocks,"Vancouver Island, S. W. Barkley Sound, Deer Group, Seppings Island",British Columbia,Canada,1982-01-01,A.M.Leroi,,
