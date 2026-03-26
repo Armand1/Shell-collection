@@ -1,21 +1,21 @@
 ﻿Accession No,Class,Clade 1,Clade 2,Family ,Subfamily,Genus,genus_WoRMs,species,species_WoRMs,describer_WoRMs,description_date_WoRMs,Habitat,Specific locality,General locality,Country,date_collected,Collector,Comments,Checked?,WoRMs_note
-1,Gastropoda,Caenogastropoda,,Cypraeidae,,Cypraea,Naria,citrina,citrina,(J. E. Gray),1825,Beach,"Lighthouse Park, Durban",Natal,South Africa,1975-12-01,R. Zurich,,,unaccepted
-2,Gastropoda,Caenogastropoda,,Cypraeidae,,Cypraea,Cypraeovula,fuscodentata,fuscodentata,(J. E. Gray),1825,Beach,Jeffrey's Bay,Cape Province,South Africa,,,,,superseded combination
-3,Gastropoda,Caenogastropoda,,Cypraeidae,,Cypraea,Cypraeovula,edentula,edentula,(J. E. Gray),1825,Beach,Jeffrey's Bay,Cape Province,South Africa,1976-01-01,M. Mullan,,,unaccepted
-4,Gastropoda,Caenogastropoda,,Cypraeidae,,Cypraea,Cypraeovula,edentula,edentula,(J. E. Gray),1825,Beach,Jeffrey's Bay,Cape Province,South Africa,1976-01-01,M. Wilson,,,unaccepted
-5,Gastropoda,Caenogastropoda,,Cypraeidae,,Cypraea,Erronea,ovum,ovum,(Gmelin),1791,Live,,,Philippines,1975-01-01,Carfel,,,unaccepted
-6,Gastropoda,Caenogastropoda,,Triviidae,,Trivia,Trivellona,suavis,suavis,(F. A. Schilder),1931,Beach,Jeffrey's Bay,Cape Province,South Africa,1977-01-01,,,,unaccepted
-7,Gastropoda,Caenogastropoda,,Cypraeidae,,Cypraea,Naria,helvola,helvola,(Linnaeus),1758,Beach,Jeffrey's Bay,Cape Province,South Africa,1975-01-01,G. Monough,,,unaccepted
-8,Gastropoda,Caenogastropoda,,Cypraeidae,,Cypraea,Naria,helvola,helvola,(Linnaeus),1758,Beach,Jeffrey's Bay,Cape Province,South Africa,1976-01-01,M. Mullan,,,unaccepted
-9,Gastropoda,Caenogastropoda,,Cypraeidae,,Cypraea,Talostolida,teres,teres,(Gmelin),1791,Live,,,Philippines,,Carfel,,,unaccepted
-10,Gastropoda,Caenogastropoda,,Triviidae,,Trivia,Triviella,ovulata,ovulata,(Lamarck),1810,Beach,Jeffrey's Bay,Cape Province,South Africa,1976-01-01,M. Mullan,,,unaccepted
-11,Gastropoda,Caenogastropoda,,Triviidae,,Trivia,Triviella,phalacra ,phalacra,F. A. Schilder,1930,Beach,Jeffrey's Bay,Cape Province,South Africa,1976-01-01,M. Mullan,,,superseded combination
-12,Gastropoda,Caenogastropoda,,Triviidae,,Trivia,Triviella,aperta,aperta,(Swainson),1822,Beach,Jeffrey's Bay,Cape Province,South Africa,1976-01-01,M. Mullan,,,unaccepted
-999,Gastropoda,Caenogastropoda,Neogastropoda,Turridae,,Kurtzia,Kurtzia,arteaga,arteaga,(Dall & Bartsch),1910,shell sand,"Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-08-01,A.M.Leroi,,,possible match: Kurtzia arteaga
-1000,Gastropoda,Caenogastropoda,Neogastropoda,Marginellidae,,Granulina,Granulina,margaritula,margaritula,(P. P. Carpenter),1857,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,,accepted
-1001,Gastropoda,Caenogastropoda,Clade A,Epitoniiidae,,Opalia,Opalia,wroblewskii,wroblewskyi,(Mörch),1875,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,,spelling corrected
+1,Gastropoda,Littorinimorpha,,Cypraeidae,,Cypraea,Naria,citrina,citrina,(J. E. Gray),1825,Beach,"Lighthouse Park, Durban",Natal,South Africa,1975-12-01,R. Zurich,,,unaccepted
+2,Gastropoda,Littorinimorpha,,Cypraeidae,,Cypraea,Cypraeovula,fuscodentata,fuscodentata,(J. E. Gray),1825,Beach,Jeffrey's Bay,Cape Province,South Africa,,,,,superseded combination
+3,Gastropoda,Littorinimorpha,,Cypraeidae,,Cypraea,Cypraeovula,edentula,edentula,(J. E. Gray),1825,Beach,Jeffrey's Bay,Cape Province,South Africa,1976-01-01,M. Mullan,,,unaccepted
+4,Gastropoda,Littorinimorpha,,Cypraeidae,,Cypraea,Cypraeovula,edentula,edentula,(J. E. Gray),1825,Beach,Jeffrey's Bay,Cape Province,South Africa,1976-01-01,M. Wilson,,,unaccepted
+5,Gastropoda,Littorinimorpha,,Cypraeidae,,Cypraea,Erronea,ovum,ovum,(Gmelin),1791,Live,,,Philippines,1975-01-01,Carfel,,,unaccepted
+6,Gastropoda,Littorinimorpha,,Triviidae,,Trivia,Trivellona,suavis,suavis,(F. A. Schilder),1931,Beach,Jeffrey's Bay,Cape Province,South Africa,1977-01-01,,,,unaccepted
+7,Gastropoda,Littorinimorpha,,Cypraeidae,,Cypraea,Naria,helvola,helvola,(Linnaeus),1758,Beach,Jeffrey's Bay,Cape Province,South Africa,1975-01-01,G. Monough,,,unaccepted
+8,Gastropoda,Littorinimorpha,,Cypraeidae,,Cypraea,Naria,helvola,helvola,(Linnaeus),1758,Beach,Jeffrey's Bay,Cape Province,South Africa,1976-01-01,M. Mullan,,,unaccepted
+9,Gastropoda,Littorinimorpha,,Cypraeidae,,Cypraea,Talostolida,teres,teres,(Gmelin),1791,Live,,,Philippines,,Carfel,,,unaccepted
+10,Gastropoda,Littorinimorpha,,Triviidae,,Trivia,Triviella,ovulata,ovulata,(Lamarck),1810,Beach,Jeffrey's Bay,Cape Province,South Africa,1976-01-01,M. Mullan,,,unaccepted
+11,Gastropoda,Littorinimorpha,,Triviidae,,Trivia,Triviella,phalacra ,phalacra,F. A. Schilder,1930,Beach,Jeffrey's Bay,Cape Province,South Africa,1976-01-01,M. Mullan,,,superseded combination
+12,Gastropoda,Littorinimorpha,,Triviidae,,Trivia,Triviella,aperta,aperta,(Swainson),1822,Beach,Jeffrey's Bay,Cape Province,South Africa,1976-01-01,M. Mullan,,,unaccepted
+999,Gastropoda,Neogastropoda,Neogastropoda,Mangeliidae,,Kurtzia,Kurtzia,arteaga,arteaga,(Dall & Bartsch),1910,shell sand,"Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-08-01,A.M.Leroi,,,possible match: Kurtzia arteaga
+1000,Gastropoda,Neogastropoda,Neogastropoda,Granulinidae,,Granulina,Granulina,margaritula,margaritula,(P. P. Carpenter),1857,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,,accepted
+1001,Gastropoda,Caenogastropoda incertae sedis,Clade A,Epitoniidae,,Opalia,Opalia,wroblewskii,wroblewskyi,(Mörch),1875,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,,spelling corrected
 1002,Scaphopoda,,,,,,,,,,,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-08-01,A.M.Leroi,,,
-1003,Gastropoda,Caenogastropoda,Neogastropoda,Columbellidae,,Mitrella,Mitrella,hypodra,hypodra,(Dall),1916,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,,no WoRMS match
+1003,Gastropoda,Neogastropoda,Neogastropoda,Columbellidae,,Mitrella,Mitrella,hypodra,hypodra,(Dall),1916,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,,no WoRMS match
 1004,Gastropoda,Heterogastropoda,,Pyramidellidae,,Odostomia,,,,,,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1986-08-01,A.M.Leroi,,,
 1005,Gastropoda,Heterogastropoda,,Pyramidellidae,,Odostomia,,,,,,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1986-08-01,A.M.Leroi,,,
 1006,Gastropoda,Heterogastropoda,,Pyramidellidae,,Odostomia,,,,,,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1986-08-01,A.M.Leroi,,,
@@ -23,16 +23,16 @@
 1008,Gastropoda,Heterogastropoda,,Pyramidellidae,,Turbonilla,,,,,,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1986-08-01,A.M.Leroi,,,
 1009,Gastropoda,Heterogastropoda,,Pyramidellidae,,Turbonilla,,,,,,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1986-08-01,A.M.Leroi,,,
 1010,Gastropoda,Heterogastropoda,,Pyramidellidae,,Turbonilla,,,,,,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1986-08-01,A.M.Leroi,,,
-1011,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Trophoninae,Boreotrophon,Boreotrophon,pacificus,pacificus,Dall,1902,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1986-07-01,A.M.Leroi,,,accepted
-1012,Gastropoda,Caenogastropoda,Clade A,Turritellidae,,Tachyrhynchus,Tachyrhynchus,lacteolus,lacteolus,(P. P. Carpenter),1864,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,,accepted
-1013,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Trophoninae,Boreotrophon,Boreotrophon,clathratus,clathratus,(Linnaeus),1767,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,"identification uncertain: may be B.stuarti, B. scitulus etc.",,accepted
-1014,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Trophoninae,Boreotrophon,Boreotrophon,macouni,macouni,Dall & Bartsch,1910,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,,accepted
+1011,Gastropoda,Neogastropoda,Neogastropoda,Muricidae,Trophoninae,Boreotrophon,Boreotrophon,pacificus,pacificus,Dall,1902,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1986-07-01,A.M.Leroi,,,accepted
+1012,Gastropoda,Caenogastropoda incertae sedis,Clade A,Turritellidae,,Tachyrhynchus,Tachyrhynchus,lacteolus,lacteolus,(P. P. Carpenter),1864,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,,accepted
+1013,Gastropoda,Neogastropoda,Neogastropoda,Muricidae,Trophoninae,Boreotrophon,Boreotrophon,clathratus,clathratus,(Linnaeus),1767,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,"identification uncertain: may be B.stuarti, B. scitulus etc.",,accepted
+1014,Gastropoda,Neogastropoda,Neogastropoda,Muricidae,Trophoninae,Boreotrophon,Boreotrophon,macouni,macouni,Dall & Bartsch,1910,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,,accepted
 1015,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,Trophoninae,Boreotrophon,,,,,,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,,
-1016,Bivalvia,,,Tellinidae,,Tellina,Ameritella,carpenteri,carpenteri,(Dall),1900,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,,unaccepted
-1017,Bivalvia,,,Veneridae,,Humilaria,Humilaria,kennerleyi,kennerleyi,(Reeve),1863,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,,accepted
-1018,Gastropoda,Caenogastropoda,Neogastropoda,Muricidae,,Boreotrophon,Nodulotrophon,dalli,coronatus,(H. Adams & A. Adams),1864,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,,junior subjective synonym
+1016,Bivalvia,Cardiida,,Tellinidae,,Tellina,Ameritella,carpenteri,carpenteri,(Dall),1900,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,,unaccepted
+1017,Bivalvia,Venerida,,Veneridae,,Humilaria,Humilaria,kennerleyi,kennerleyi,(Reeve),1863,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,,accepted
+1018,Gastropoda,Neogastropoda,Neogastropoda,Muricidae,,Boreotrophon,Nodulotrophon,dalli,coronatus,(H. Adams & A. Adams),1864,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,,junior subjective synonym
 1019,Bivalvia,,,,,Cuspidarla,,,,,,"dredged, 20 fa","Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1984-07-01,A.M.Leroi,,,
 1092,Gastropoda,Caenogastropoda,Clade A?,Velutinidae,Lamellariinae,Velutina,,laevigata,,(Linnaeus),1767,"dredged, 20 fa","Satelliate Passage, Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1986-08-01,A.M.Leroi,,,nomen dubium
-1130,Gastropoda,Heterogastropoda,,Trochidae,Halistylinae,Halistylus,Halistylus,pupoides,pupoideus,(P. P. Carpenter),1864,"dredged, 20 fa","Satelliate Passage, Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1983-07-01,A.M.Leroi,,,unaccepted
-1132,Gastropoda,Caenogastropoda,Neogastropoda,Columbellidae,,Mitrella,Mitrella,floccata,floccata,(Reeve),1859,,Jeffrey's Bay,Cape Province,South Africa,,,,,accepted
-1134,Gastropoda,Heterogastropoda,,Rhizoridae,,Volvulella,Volvulella,cylindrica,cylindrica,(P. P. Carpenter),1864,"dredged, 20 fa","Satelliate Passage, Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1983-07-01,A.M.Leroi,,,accepted
+1130,Gastropoda,Trochida,,Trochidae,Halistylinae,Halistylus,Halistylus,pupoides,pupoideus,(P. P. Carpenter),1864,"dredged, 20 fa","Satelliate Passage, Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1983-07-01,A.M.Leroi,,,unaccepted
+1132,Gastropoda,Neogastropoda,Neogastropoda,Columbellidae,,Mitrella,Mitrella,floccata,floccata,(Reeve),1859,,Jeffrey's Bay,Cape Province,South Africa,,,,,accepted
+1134,Gastropoda,Cephalaspidea,,Rhizoridae,,Volvulella,Volvulella,cylindrica,cylindrica,(P. P. Carpenter),1864,"dredged, 20 fa","Satelliate Passage, Trevor Channel, S.W. Barkley Sound",British Columbia,Canada,1983-07-01,A.M.Leroi,,,accepted
